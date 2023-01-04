@@ -1,0 +1,2077 @@
+title,date,price,is_discounted,locals,surface,bathrooms,floor
+"Appartamento corso Trapani 60, Pozzo Strada, Torino",01/12/2022,€ 418.000,0,5,152 m²,2,3
+"Quadrilocale corso Germano Sommeiller 24, Crocetta, Torino",01/12/2022,€ 448.000,0,4,134 m²,2,4
+"Trilocale corso Vittorio Emanuele II 5, San Salvario - Baretti, Torino",01/12/2022,€ 398.000,0,3,102 m²,2,3
+"Bilocale corso Vittorio Emanuele II 5, San Salvario - Baretti, Torino",01/12/2022,€ 198.000,0,2,60 m²,1,3
+"Trilocale corso Svizzera 49, Campidoglio, Torino",02/12/2022,€ 208.000,0,3,75 m²,1,6
+"Quadrilocale corso Francia 15, Cit Turin, Torino",01/12/2022,€ 495.000,0,4,130 m²,2,3
+"Appartamento corso IV NOVEMBRE 114, Santa Rita, Torino",17/10/2022,€ 259.000,0,5,148 m²,1,6
+"Quadrilocale corso VITTORIO EMANUELE II 62, Via Roma, Torino",15/12/2022,€ 620.000,0,4,200 m²,2,4
+"Trilocale corso Carlo e Nello Rosselli 168, San Paolo, Torino",02/01/2023,€ 142.000,0,3,75 m²,1,T
+"Quadrilocale via Pellice 19, Cenisia, Torino",16/12/2022,€ 149.000,0,4,95 m²,2,3
+"Trilocale via Michele Amari, 0, Mirafiori Sud, Torino",17/11/2022,€ 135.000,0,3,85 m²,1,
+"Quadrilocale via Antonio Pigafetta 61b, Crocetta, Torino",03/01/2023,€ 285.000,0,4,124 m²,2,1
+"Quadrilocale corso Traiano 10c, Mirafiori Sud - Onorato Vigliani, Torino",13/12/2022,€ 175.000,0,4,100 m²,1,1
+"Quadrilocale corso Traiano 10, Mirafiori Sud - Onorato Vigliani, Torino",29/12/2022,€ 215.000,0,4,100 m²,1,3
+"Quadrilocale corso Bernardino Telesio 125, Parella, Torino",28/12/2022,€ 305.000,0,4,95 m²,2,2
+"Attico via Pavone 3, Borgo Vittoria, Torino",07/12/2022,€ 206.000,0,3,94 m²,1,5
+"Trilocale via Valgioie 83, Parella, Torino",01/01/2023,€ 240.000,0,3,100 m²,1,1
+"Quadrilocale corso Francia 296, Parella, Torino",28/12/2022,€ 229.000,0,4,120 m²,2,4
+"Bilocale via vittoria, 43, Borgo Vittoria, Torino",13/12/2022,€ 63.000,0,2,65 m²,1,3
+"Quadrilocale corso Bernardino Telesio 121, Parella, Torino",28/12/2022,€ 325.000,0,4,105 m²,2,1
+"Quadrilocale via Stelvio 82, Pozzo Strada, Torino",19/12/2022,€ 285.000,0,4,120 m²,2,6
+"Appartamento corso Giacomo Matteotti 47, Cittadella, Torino",17/11/2022,€ 790.000,0,5,182 m²,2,
+"Quadrilocale via Pianezza 35a, Lucento, Torino",28/12/2022,€ 213.000,0,4,92 m²,2,1
+"Quadrilocale Strada Lanzo 175, Barriera di Lanzo, Torino",30/12/2022,€ 129.000,0,4,95 m²,1,4
+"Monolocale via Silvio Pellico, 21, Torino",01/12/2022,€ 151.000,0,1,42 m²,1,1
+"Monolocale via Silvio Pellico, 21, Torino",01/12/2022,€ 158.000,0,1,42 m²,1,2
+"Trilocale via Silvio Pellico, 21, Torino",01/12/2022,€ 245.000,0,3,70 m²,1,1
+"Trilocale via Silvio Pellico, 21, Torino",01/12/2022,€ 259.000,0,3,70 m²,1,2
+"Trilocale via Silvio Pellico, 21, Torino",01/12/2022,€ 290.000,0,3,90 m²,1,T
+"Appartamento via Silvio Pellico, 21, Torino",01/12/2022,€ 420.000,0,5,114 m²,2,2
+"Appartamento via Silvio Pellico, 21, Torino",01/12/2022,€ 445.000,0,5,114 m²,2,3
+"Appartamento via Duchessa Jolanda 12, Cit Turin, Torino",28/12/2022,€ 475.000,0,5+,232 m²,2,1
+"Quadrilocale via Ludovico Bellardi 24, Parella, Torino",30/12/2022,€ 250.000,0,4,110 m²,2,2
+"Trilocale via Gian Francesco Re 43, Parella, Torino",30/12/2022,€ 250.000,0,3,85 m²,1,5
+"Quadrilocale via Onorato Vigliani 87/10, Mirafiori Sud - Onorato Vigliani, Torino",03/01/2023,€ 174.000,0,4,100 m²,2,4
+"Appartamento via Fratelli Calandra 16, Via della Rocca, Torino",28/12/2022,€ 739.000,1,5+,270 m²,3,T
+"Quadrilocale via Camburzano, 7, 10143 Torino TO, Campidoglio, Torino",02/01/2023,€ 348.000,0,4,123 m²,2,2
+"Quadrilocale corso Guglielmo Marconi 24, San Salvario - Baretti, Torino",20/12/2022,€ 435.000,0,4,143 m²,1,5
+"Quadrilocale via Giambattista Bogino, 25, 10123 Torino TO, Via Roma, Torino",02/01/2023,€ 650.000,0,4,177 m²,1,1
+"Trilocale via Giambattista Bogino, 25, 10123 Torino TO, Via Roma, Torino",02/01/2023,€ 580.000,0,3,157 m²,1,1
+"Appartamento via Giambattista Bogino, 25, 10123 Torino TO, Via Roma, Torino",02/01/2023,€ 800.000,0,5,270 m²,3+,1
+"Appartamento via Giambattista Bogino, 25, 10123 Torino TO, Via Roma, Torino",02/01/2023,€ 500.000,0,5,285 m²,3,T
+"Trilocale via Giacinto Pacchiotti 66, Parella, Torino",30/12/2022,€ 290.000,0,3,85 m²,1,3
+"Trilocale corso Germano Sommeiller 24, Crocetta, Torino",01/12/2022,€ 258.000,0,3,88 m²,1,4
+"Trilocale corso Unione Sovietica 91, Santa Rita, Torino",22/11/2022,€ 238.000,0,3,90 m²,2,4
+"Bilocale corso Filippo Turati 12, San Secondo, Torino",02/12/2022,€ 168.000,0,2,73 m²,1,1
+"Trilocale via Benvenuto Cellini, San Salvario - Dante, Torino",15/11/2022,€ 180.000,0,3,65 m²,1,T
+"Bilocale via Benvenuto Cellini, San Salvario - Dante, Torino",15/11/2022,€ 190.000,0,2,53 m²,1,2
+"Bilocale via Benvenuto Cellini, San Salvario - Dante, Torino",15/11/2022,€ 210.000,0,2,57 m²,1,3
+"Trilocale via Benvenuto Cellini, San Salvario - Dante, Torino",15/11/2022,€ 277.000,0,3,74 m²,1,2
+"Trilocale via Benvenuto Cellini, San Salvario - Dante, Torino",15/11/2022,€ 277.000,0,3,74 m²,1,2
+"Trilocale via Benvenuto Cellini, San Salvario - Dante, Torino",15/11/2022,€ 295.000,0,3,74 m²,1,3
+"Appartamento via Benvenuto Cellini, San Salvario - Dante, Torino",15/11/2022,€ 462.000,0,5,127 m²,2,2
+"Trilocale via Perosa 74, Cenisia, Torino",02/01/2023,€ 149.000,0,3,85 m²,1,3
+"Appartamento via Giovanni Arpino, Pozzo Strada, Torino",29/12/2022,€ 315.000,0,5,131 m²,3,6
+"Trilocale via Cesana, 84, 10139 Torino TO, Cenisia, Torino",02/01/2023,€ 274.000,0,3,104 m²,2,4
+"Appartamento via Nizza 177, Nizza Millefonti, Torino",03/08/2022,€ 289.000,0,5,136 m²,2,1
+"Trilocale via Principessa Clotilde 77, San Donato, Torino",28/12/2022,€ 144.000,0,3,68 m²,1,2
+"Trilocale via Filadelfia 169, Santa Rita, Torino",02/01/2023,€ 225.000,0,3,90 m²,2,6
+"Trilocale corso Regina Margherita 205/bis, San Donato, Torino",28/12/2022,€ 245.700,0,3,98 m²,2,6
+"Trilocale via Saluzzo 22, San Salvario - Baretti, Torino",20/12/2022,€ 228.000,0,3,84 m²,1,1
+"Quadrilocale corso Sebastopoli 235a, Santa Rita, Torino",03/01/2023,€ 259.000,0,4,125 m²,2,4
+"Appartamento via Alfonso La Marmora 41, Crocetta, Torino",23/12/2022,€ 619.000,0,5,180 m²,2,2
+"Trilocale via Gorizia 197, Santa Rita, Torino",28/12/2022,€ 128.000,0,3,80 m²,1,3
+"Appartamento corso Bernardino Telesio 121, Parella, Torino",28/12/2022,€ 590.000,0,5+,175 m²,3,3
+"Appartamento via Giovanni Servais 92, Parella, Torino",01/01/2023,€ 510.000,0,5+,240 m²,2,2
+"Bilocale corso Sebastopoli 259, Santa Rita, Torino",28/12/2022,€ 98.000,0,2,65 m²,1,1
+"Appartamento corso Rodolfo Montevecchio 53, Crocetta, Torino",28/12/2022,€ 990.000,0,5+,270 m²,3,1
+"Appartamento via Principessa Felicita di Savoia 8/10, Gran Madre - Crimea, Torino",06/01/2022,€ 1.490.000,0,5+,450 m²,3,T
+"Appartamento via Giuseppe Baretti 46, San Salvario - Baretti, Torino",14/11/2022,€ 840.000,0,5,260 m²,3,2
+"Appartamento corso Filippo Turati 12, San Secondo, Torino",23/12/2022,€ 378.000,1,5,155 m²,2,1
+"Appartamento corso Luigi Einaudi 8, Crocetta, Torino",01/01/2023,€ 680.000,0,5,233 m²,3,
+"Trilocale via Antonio Canova 3, San Salvario - Dante, Torino",12/12/2022,€ 290.000,0,3,91 m²,2,5
+"Appartamento via Giambattista Bogino, 25, 10123 Torino TO, Via Roma, Torino",02/01/2023,€ 1.850.000,0,5+,500 m²,3+,1
+"Appartamento via Giambattista Bogino, 25, 10123 Torino TO, Via Roma, Torino",02/01/2023,€ 1.040.000,0,5,275 m²,3,1
+"Trilocale corso Rodolfo Montevecchio 35, Crocetta, Torino",05/11/2021,€ 990.000,0,3,265 m²,3,3
+"Appartamento via Giuseppe Garibaldi, Quadrilatero Romano, Torino",14/12/2022,€ 529.000,0,5+,200 m²,2,2
+"Quadrilocale via Ventimiglia  16, Nizza Millefonti, Torino",21/12/2022,€ 229.000,0,4,90 m²,1,5
+"Trilocale via Tripoli 100, Santa Rita, Torino",02/12/2022,€ 149.000,0,3,90 m²,1,4
+"Attico via Amerigo Vespucci 6, Crocetta, Torino",14/12/2022,Prezzo su richiesta,0,5+,351 m²,3,5
+"Appartamento via Arturo Colautti 18, Borgo Vittoria, Torino",16/12/2022,€ 169.000,0,5,141 m²,2,1
+"Bilocale corso Casale 456, Sassi, Torino",21/12/2022,€ 150.000,0,2,73 m²,1,R
+"Bilocale corso Sebastopoli 212, Santa Rita, Torino",30/11/2022,€ 114.000,0,2,58 m²,1,3
+"Quadrilocale via Balme 8, Campidoglio, Torino",01/12/2022,€ 359.000,0,4,130 m²,2,1
+"Quadrilocale via Montezemolo 16, Santa Rita, Torino",30/12/2022,€ 249.000,0,4,100 m²,2,3
+"Trilocale via Pietro Canonica, Città Giardino, Torino",17/12/2022,€ 149.000,0,3,90 m²,1,6
+"Appartamento via Leinì 25, Barriera di Milano, Torino",30/12/2022,€ 117.000,0,5,115 m²,1,2
+"Quadrilocale corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 290.000,0,4,90 m²,2,1
+"Quadrilocale corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 295.000,0,4,90 m²,2,2
+"Quadrilocale corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 300.000,0,4,95 m²,2,1
+"Quadrilocale corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 305.000,0,4,90 m²,2,3
+"Quadrilocale corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 305.000,0,4,95 m²,2,2
+"Quadrilocale corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 325.000,0,4,105 m²,2,1
+"Quadrilocale corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 330.000,0,4,105 m²,2,2
+"Quadrilocale corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 350.000,0,4,115 m²,2,1
+"Quadrilocale corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 360.000,0,4,115 m²,2,2
+"Attico corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 490.000,0,4,145 m²,2,3
+"Appartamento corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 590.000,0,5+,175 m²,3,3
+"Appartamento corso Bernardino Telesio, 121, Parella, Torino",23/12/2022,€ 590.000,0,5+,175 m²,3,3
+"Monolocale via Silvio Pellico 21, San Salvario - Baretti, Torino",27/12/2022,€ 151.000,0,1,42 m²,1,1
+"Bilocale corso Moncalieri 286, Cavoretto, Torino",21/12/2022,€ 100.000,0,2,54 m²,1,2
+"Quadrilocale via Giovanni Servais 126, Parella, Torino",21/11/2022,€ 292.000,0,4,154 m²,1,T
+"Trilocale via Madama Cristina 27, San Salvario - Baretti, Torino",24/11/2022,€ 250.000,0,3,90 m²,2,1
+"Appartamento corso Vittorio Emanuele II 64, Piazza Solferino, Torino",06/12/2022,€ 650.000,0,5+,180 m²,2,4
+"Attico via Benvenuto Cellini 31, San Salvario - Dante, Torino",19/11/2022,Prezzo su richiesta,0,5+,180 m²,3,4 - 5
+"Appartamento corso Duca degli Abruzzi 33, Crocetta, Torino",25/11/2022,€ 855.000,0,5+,302 m²,3,1
+"Quadrilocale via Gian Francesco Re 57, Parella, Torino",01/12/2022,€ 178.000,0,4,100 m²,2,5
+"Trilocale via Rivara 36, Campidoglio, Torino",09/12/2022,€ 279.000,0,3,97 m²,3,T
+"Trilocale viale 25 Aprile 168, Cavoretto, Torino",14/10/2022,€ 550.000,0,3,123 m²,1,
+"Bilocale via DOMODOSSOLA, Parella, Torino",01/12/2022,€ 107.000,0,2,48 m²,1,5
+"Villa unifamiliare via Tommaso Gulli 37, Borgo Vittoria, Torino",14/12/2022,€ 195.000,0,4,100 m²,3,
+"Trilocale via Sempione 152, Barriera di Milano, Torino",25/11/2022,€ 95.000,0,3,80 m²,1,2
+"Trilocale via Pier Dionigi Pinelli, San Donato, Torino",25/10/2022,€ 165.000,0,3,70 m²,2,1
+"Trilocale corso Belgio 116, Vanchiglietta, Torino",03/01/2023,€ 112.000,0,3,70 m²,1,1
+"Bilocale corso Potenza 141, Lucento, Torino",03/01/2023,€ 34.000,0,2,40 m²,1,T
+"Quadrilocale corso Filippo Turati 7, San Secondo, Torino",02/12/2022,€ 342.000,0,4,125 m²,2,2
+"Quadrilocale corso Francia 161, Pozzo Strada, Torino",08/11/2022,€ 250.000,0,4,102 m²,1,2
+"Bilocale via Nicomede Bianchi 116, Parella, Torino",17/10/2022,€ 59.000,0,2,45 m²,1,R
+"Appartamento via Principi d'Acaja 7, San Donato, Torino",02/11/2022,€ 318.000,0,5+,160 m²,2,R
+"Quadrilocale via Marco Polo 32, Crocetta, Torino",15/12/2022,€ 389.000,0,4,119 m²,2,
+"Appartamento via Enrico Cialdini 15, Cit Turin, Torino",01/10/2022,€ 269.000,0,5,161 m²,2,
+"Appartamento corso Trapani 72, Pozzo Strada, Torino",29/11/2022,€ 127.000,0,5+,180 m²,2,5
+"Quadrilocale via Luigi Salvatore Cherubini 41, Barriera di Milano, Torino",22/11/2022,€ 100.000,0,4,112 m²,1,6
+"Appartamento Strada Val Salice 227/7, Colle della Maddalena, Torino",10/10/2022,€ 395.000,0,5,240 m²,3,1
+"Bilocale via Giovanni Zambelli 12, Mirafiori Nord, Torino",30/11/2022,€ 79.000,0,2,60 m²,1,4
+"Appartamento corso Massimo d'Azeglio 112, San Salvario - Dante, Torino",23/12/2022,€ 680.000,0,5+,205 m²,2,7
+"Appartamento via Bertola 23, Quadrilatero Romano, Torino",16/12/2022,€ 445.000,0,5,123 m²,2,2
+"Bilocale via Antonio Giuseppe Ignazio Bertola 24, Quadrilatero Romano, Torino",10/10/2022,€ 265.000,0,2,65 m²,1,1
+"Terratetto plurifamiliare via Michele Lessona 20, Parella, Torino",18/11/2022,€ 900.000,0,5+,608 m²,3+,
+"Trilocale via Piacenza 9, Mirafiori Sud - Onorato Vigliani, Torino",28/11/2022,€ 142.000,0,3,88 m²,1,1
+"Appartamento corso Peschiera, Pozzo Strada, Torino",07/12/2022,€ 650.000,0,5,176 m²,3,6
+"Appartamento via 20 Settembre 43, Via Roma, Torino",10/10/2022,€ 755.000,0,5,152 m²,2,2
+"Trilocale via 20 Settembre 41, Via Roma, Torino",10/10/2022,€ 871.000,0,3,134 m²,1,4
+"Trilocale via 20 Settembre 41, Via Roma, Torino",10/10/2022,€ 895.000,0,3,148 m²,2,5
+"Trilocale via via BURONZO 3, Campidoglio, Torino",15/12/2022,€ 98.000,0,3,76 m²,1,2
+"Monolocale via Cesare Battisti 1, Via Roma, Torino",16/11/2022,€ 260.000,0,1,60 m²,1,2
+"Bilocale via Chisola, Lingotto, Torino",01/12/2022,€ 148.000,0,2,55 m²,1,1
+"Quadrilocale via Vicenza 27, Don Bosco, Torino",30/11/2022,€ 95.000,0,4,83 m²,1,3
+"Trilocale via Santa Chiara, Quadrilatero Romano, Torino",15/06/2022,€ 379.000,0,3,133 m²,1,T
+"Appartamento via Giovanni Fattori, Pozzo Strada, Torino",16/10/2022,€ 512.000,0,5,133 m²,2,
+"Bilocale via Bertola 24, Quadrilatero Romano, Torino",10/10/2022,€ 235.000,0,2,48 m²,1,1
+"Bilocale ottimo stato, nono piano, Mirafiori Sud - Strada del Drosso, Torino",28/11/2022,€ 120.000,0,2,67 m²,1,
+"Trilocale corso Moncalieri 271, Cavoretto, Torino",19/01/2022,€ 335.000,0,3,87 m²,1,3
+"Bilocale corso Grosseto 118, Borgo Vittoria, Torino",30/11/2022,€ 57.000,0,2,50 m²,1,7
+"Bilocale via Bertola 24, Quadrilatero Romano, Torino",10/10/2022,€ 255.000,0,2,55 m²,1,1
+"Quadrilocale via Passalacqua 3, Cittadella, Torino",12/12/2022,€ 399.000,0,4,130 m²,2,2
+"Quadrilocale via dell'Accademia Albertina 3, Via della Rocca, Torino",30/12/2022,€ 440.000,0,4,120 m²,2,2
+"Trilocale via Francesco Cigna 58, Aurora, Torino",22/04/2022,€ 79.000,0,3,83 m²,1,1
+"Trilocale via Nicola Fabrizi 140, Parella, Torino",30/11/2022,€ 175.000,0,3,78 m²,1,2
+"Quadrilocale corso Tortona 17, Vanchiglia, Torino",01/12/2022,€ 259.000,0,4,95 m²,1,2
+"Quadrilocale via Nicomede Bianchi 10, Parella, Torino",30/11/2022,€ 160.000,0,4,115 m²,1,1
+"Trilocale buono stato, secondo piano, Crocetta, Torino",29/12/2022,€ 195.000,1,3,67 m²,1,2
+"Villa unifamiliare Strada Guido Volante 121, Colle della Maddalena, Torino",10/10/2022,Prezzo su richiesta,0,5+,700 m²,3+,
+"Bilocale nuovo, secondo piano, Cavoretto, Torino",19/01/2022,€ 177.000,0,2,51 m²,1,2
+"Appartamento corso Cairoli, 30, Via della Rocca, Torino",07/11/2022,€ 898.000,0,5+,195 m²,2,3
+"Bilocale via Belfiore, San Salvario - Dante, Torino",28/12/2022,€ 150.000,0,2,60 m²,1,R
+"Quadrilocale via Sineo 12, Vanchiglia, Torino",02/01/2023,€ 195.000,0,4,95 m²,1,2
+"Appartamento piazza Vittorio Veneto 18, Giardini Reali, Torino",24/11/2022,€ 580.000,0,5+,150 m²,2,1
+"Quadrilocale corso Regina Margherita 288, Vanchiglia, Torino",14/12/2022,€ 165.000,0,4,90 m²,3,
+"Trilocale piazza Nazario Sauro 20, Lucento, Torino",13/12/2022,€ 115.000,0,3,85 m²,1,1
+"Trilocale via Paolo Veronese 309A, Madonna di Campagna, Torino",19/12/2022,€ 100.000,0,3,89 m²,1,1
+"Trilocale corso Monte Grappa 56, Parella, Torino",19/12/2022,€ 229.000,0,3,105 m²,1,8
+"Trilocale via MONTEROSA 77, Barriera di Milano, Torino",25/11/2022,€ 67.900,0,3,64 m²,1,3
+"Trilocale corso Traiano 10, Mirafiori Sud - Onorato Vigliani, Torino",24/08/2022,€ 179.000,0,3,96 m²,1,R
+"Quadrilocale via Ugo Foscolo 30, San Salvario - Dante, Torino",19/11/2022,€ 235.000,0,4,85 m²,1,1
+"Quadrilocale via Ugo Foscolo 30, San Salvario - Dante, Torino",19/11/2022,€ 248.000,0,4,100 m²,1,1
+"Monolocale via Bergamo, 4, Aurora, Torino",23/11/2022,€ 135.000,0,1,51 m²,1,1
+"Trilocale via Bergamo, 4, Aurora, Torino",23/11/2022,€ 275.000,0,3,91 m²,1,5
+"Trilocale via Don Giovanni Bosco 75, Don Bosco, Torino",19/11/2022,€ 120.000,0,3,80 m²,1,1
+"Appartamento corso Luigi Einaudi, Crocetta, Torino",26/10/2022,€ 890.000,0,5+,248 m²,3,4
+"Appartamento via Principe Amedeo, Via Roma, Torino",09/12/2022,€ 795.000,0,5+,200 m²,2,3
+"Attico piazza San Carlo, Via Roma, Torino",30/06/2022,€ 3.400.000,0,5+,452 m²,3+,
+"Trilocale vicolo Crocetta 7, Crocetta, Torino",11/11/2022,€ 310.000,0,3,135 m²,2,1
+"Quadrilocale largo Cardinale Guglielmo Massaia 37, Madonna di Campagna, Torino",01/12/2022,€ 99.000,0,4,95 m²,1,R
+"Villa unifamiliare, ottimo stato, 386 m², Gran Madre - Crimea, Torino",16/12/2022,€ 1.230.000,0,5+,386 m²,3+,
+"Bilocale via La Loggia 7, Lingotto, Torino",12/12/2022,€ 103.000,0,2,55 m²,1,4
+"Appartamento corso Moncalieri 271, Cavoretto, Torino",19/01/2022,€ 482.000,0,5,136 m²,2,2
+"Bilocale piazza Statuto, Cittadella, Torino",30/12/2022,€ 160.000,0,2,80 m²,1,3
+"Bilocale via Belfiore, San Salvario - Dante, Torino",30/12/2022,€ 150.000,0,2,65 m²,1,R
+"Appartamento via Giuseppe Luigi Lagrange 3, Via Roma, Torino",29/12/2022,Prezzo su richiesta,0,5,220 m²,3,2
+"Trilocale via Nicomede Bianchi 23, Parella, Torino",21/12/2022,€ 143.000,0,3,75 m²,1,1
+"Trilocale via Malta 31, San Paolo, Torino",21/12/2022,€ 148.000,0,3,90 m²,1,2
+"Appartamento via Pietro Bonfante 13, Centro Europa, Torino",18/10/2022,€ 260.000,0,5,165 m²,2,2
+"Trilocale via Gianfrancesco Re 61, Parella, Torino",26/11/2022,€ 128.000,0,3,80 m²,1,1
+"Bilocale corso Moncalieri 271, Torino",13/02/2022,€ 177.000,0,2,51 m²,1,M
+"Trilocale corso Moncalieri 271, Torino",13/02/2022,€ 275.000,0,3,77 m²,1,M
+"Quadrilocale corso Moncalieri 271, Torino",13/02/2022,€ 335.000,0,4,87 m²,1,M
+"Quadrilocale corso Moncalieri 271, Torino",13/02/2022,€ 380.000,0,4,108 m²,2,M
+"Quadrilocale corso Moncalieri 271, Torino",13/02/2022,€ 432.000,0,4,116 m²,2,M
+"Appartamento corso Moncalieri 271, Torino",13/02/2022,€ 482.000,0,5,136 m²,2,M
+"Appartamento corso Moncalieri 271, Torino",13/02/2022,€ 750.000,0,5+,192 m²,3,M
+"Monolocale via Bartolomeo Bona 47, San Secondo, Torino",13/12/2022,€ 85.000,0,1,28 m²,1,1
+"Bilocale via Ormea 164, San Salvario - Dante, Torino",29/12/2022,€ 100.000,0,2,40 m²,1,6
+"Quadrilocale via Saliceto 4, Santa Rita, Torino",09/12/2022,€ 390.000,0,4,150 m²,2,2
+"Quadrilocale corso Orbassano 448, Mirafiori Sud - Strada del Drosso, Torino",19/11/2022,€ 179.000,0,4,100 m²,2,7
+"Bilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 170.000,0,2,52 m²,1,
+"Trilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 260.000,0,3,82 m²,1,
+"Quadrilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 330.000,0,4,98 m²,2,
+"Quadrilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 330.000,0,4,105 m²,2,
+"Quadrilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 350.000,0,4,112 m²,2,
+"Quadrilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 355.000,0,4,100 m²,2,
+"Quadrilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 360.000,0,4,107 m²,2,
+"Quadrilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 365.000,0,4,111 m²,2,
+"Quadrilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 370.000,0,4,105 m²,2,
+"Quadrilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 375.000,0,4,120 m²,2,
+"Quadrilocale via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 390.000,0,4,113 m²,2,
+"Appartamento via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 470.000,0,5,144 m²,2,
+"Appartamento via Francesco Petrarca, San Salvario - Dante, Torino",23/12/2022,€ 500.000,0,5,139 m²,2,
+"Quadrilocale via Principi d'Acaja 44, Cit Turin, Torino",02/01/2023,€ 380.000,0,4,130 m²,2,
+"Quadrilocale Strada del Cantello 3, Gran Madre - Crimea, Torino",15/12/2022,€ 350.000,0,4,110 m²,1,3
+"Bilocale viale dei Mughetti 15/A, Le Vallette, Torino",20/12/2022,€ 88.000,0,2,65 m²,1,1
+"Quadrilocale via Buenos Aires 16, Santa Rita, Torino",01/12/2022,€ 275.000,0,4,120 m²,2,3
+"Villa unifamiliare corso Moncalieri 365, Cavoretto, Torino",03/01/2023,€ 1.090.000,0,5+,500 m²,3+,
+"Bilocale via Giovanni Francesco Napione 33, Vanchiglia, Torino",01/12/2022,€ 133.000,0,2,59 m²,1,4
+"Bilocale via Nole 61, Lucento, Torino",12/09/2022,€ 58.000,0,2,55 m²,1,3
+"Villa unifamiliare corso Moncalieri, Cavoretto, Torino",25/11/2022,€ 1.150.000,0,5+,335 m²,2,
+"Appartamento Strada del Nobile, Colle della Maddalena, Torino",15/03/2022,€ 560.000,0,5+,230 m²,3,2
+"Attico corso mediterraneo 124, Crocetta, Torino",30/12/2022,Prezzo su richiesta,0,4,130 m²,2,8
+"Trilocale piazza Vittorio Veneto, Giardini Reali, Torino",30/12/2022,€ 148.000,0,3,113 m²,3,
+"Quadrilocale ottimo stato, secondo piano, Campidoglio, Torino",04/11/2022,€ 295.000,0,4,118 m²,2,2
+"Appartamento ottimo stato, primo piano, Campidoglio, Torino",22/11/2022,€ 298.000,0,5,139 m²,2,1
+Palazzo - Edificio in Vendita,29/11/2022,€ 940.000,0,600 m²,3+,,
+"Bilocale via Monginevro 182, Pozzo Strada, Torino",29/12/2022,€ 79.000,0,2,62 m²,1,1
+"Appartamento ottimo stato, nono piano, Campidoglio, Torino",29/11/2022,€ 355.000,0,5+,240 m²,3,9
+"Bilocale via Ormea 78, San Salvario - Dante, Torino",22/12/2022,€ 69.000,0,2,50 m²,1,1
+"Quadrilocale via Paolo Veronese 134/18, Barriera di Lanzo, Torino",16/11/2022,€ 149.000,0,4,101 m²,2,1
+"Trilocale via Natale Palli 46, Borgo Vittoria, Torino",28/11/2022,€ 55.000,0,3,70 m²,1,1
+"Appartamento via Tofane 44 A, Pozzo Strada, Torino",21/12/2022,€ 338.000,0,5,165 m²,2,3
+"Quadrilocale corso Moncalieri 320, Cavoretto, Torino",02/01/2023,€ 254.000,0,4,120 m²,2,1
+"Trilocale corso Toscana 95, Lucento, Torino",30/12/2022,€ 119.000,0,3,77 m²,1,1
+"Trilocale via Valentino Carrera 7, Parella, Torino",12/12/2022,€ 85.000,0,3,65 m²,1,2
+"Quadrilocale Strada di Fenestrelle 9/23, Madonna del Pilone, Torino",03/01/2023,€ 420.000,0,4,94 m²,2,T
+"Quadrilocale via Errico Giachino 71, Borgo Vittoria, Torino",30/12/2022,€ 59.000,0,4,80 m²,1,T
+"Quadrilocale corso GIAMBONE 63, Lingotto, Torino",02/12/2022,€ 220.000,0,4,125 m²,2,3
+"Quadrilocale via Madama Cristina 104, San Salvario - Dante, Torino",27/12/2022,€ 235.000,0,4,100 m²,2,2
+"Bilocale corso Moncalieri 5, Gran Madre - Crimea, Torino",02/01/2023,€ 199.000,0,2,67 m²,1,3
+"Trilocale corso Giulio Cesare 24, Aurora, Torino",29/11/2022,€ 125.000,0,3,70 m²,1,3
+"Quadrilocale via Luca della Robbia 16, Pozzo Strada, Torino",27/12/2022,€ 209.000,0,4,105 m²,1,4
+"Quadrilocale via PANIZZA 2, Città Giardino, Torino",22/12/2022,€ 179.000,0,4,114 m²,2,1
+"Trilocale via Fea Leonardo 30, Borgo Vittoria, Torino",27/12/2022,€ 89.000,0,3,79 m²,1,4
+"Bilocale via Luigi Tarino 11, Vanchiglia, Torino",23/12/2022,€ 93.000,0,2,40 m²,1,1
+"Bilocale via Gian Domenico Cassini 7, Crocetta, Torino",06/12/2022,€ 138.000,0,2,96 m²,1,T
+"Quadrilocale corso Grosseto 221, Madonna di Campagna, Torino",27/12/2022,€ 129.000,0,4,104 m²,1,2
+"Appartamento corso Guglielmo Marconi 25, San Salvario - Baretti, Torino",20/12/2022,€ 595.000,0,5+,150 m²,3,4
+"Trilocale via Cardinale Maurilio Fossati 26, Pozzo Strada, Torino",20/12/2022,€ 155.000,1,3,98 m²,1,1
+"Trilocale via TIRRENO 129, Santa Rita, Torino",08/11/2022,€ 178.000,0,3,106 m²,1,6
+"Trilocale via Michele Coppino 79, Borgo Vittoria, Torino",01/12/2022,€ 105.000,0,3,90 m²,1,5
+"Quadrilocale via STELVIO 67, Pozzo Strada, Torino",25/10/2022,€ 259.000,0,4,145 m²,2,3
+"Quadrilocale via montebello 22, Giardini Reali, Torino",03/01/2023,€ 379.000,0,4,90 m²,1,2
+"Quadrilocale corso 11 Febbraio 27, Aurora, Torino",26/11/2022,€ 250.000,0,4,125 m²,2,1
+"Quadrilocale via Salerno 33, Aurora, Torino",29/11/2022,€ 185.000,0,4,95 m²,2,1
+"Quadrilocale via Guido Cavalcanti 6, Madonna del Pilone, Torino",03/01/2023,€ 239.000,0,4,76 m²,2,1
+"Trilocale via Moretta 27, Cenisia, Torino",28/12/2022,€ 115.000,0,3,60 m²,1,3
+"Quadrilocale corso Regina Margherita 288, Lucento, Torino",15/11/2022,€ 169.000,0,4,115 m²,1,7
+"Appartamento corso Regina Margherita 3, Vanchiglia, Torino",03/01/2023,€ 497.000,0,5,120 m²,2,4
+"Bilocale via pollenzo 10, San Paolo, Torino",22/12/2022,€ 89.000,1,2,50 m²,1,2
+"Trilocale via Sempione 124, Barriera di Milano, Torino",22/12/2022,€ 105.000,1,3,80 m²,1,3
+"Trilocale via Canelli 95, Mirafiori Nord, Torino",16/12/2022,€ 125.000,0,3,80 m²,1,4
+"Trilocale piazza Respighi 9, Barriera di Milano, Torino",20/12/2022,€ 118.000,0,3,82 m²,1,5
+"Trilocale via Rodolfo Renier 13, San Paolo, Torino",13/12/2022,€ 169.000,0,3,70 m²,1,2
+"Quadrilocale via Nicola Porpora 46, Regio Parco, Torino",10/12/2022,€ 114.900,0,4,130 m²,1,2
+"Trilocale via Pietro Francesco Guala, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 129.000,0,3,90 m²,1,1
+"Quadrilocale via Brandizzo 23/A, Barriera di Milano, Torino",23/12/2022,€ 53.900,0,4,81 m²,1,2
+"Bilocale via mercadante 95/C, Barriera di Milano, Torino",23/04/2022,€ 74.900,0,2,58 m²,1,6
+"Trilocale via Casteldelfino 4, Borgo Vittoria, Torino",29/11/2022,€ 90.000,0,3,80 m²,1,2
+"Quadrilocale via Candiolo 76, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 79.000,0,4,100 m²,1,3
+"Quadrilocale via DELLE BETULLE 17, Falchera, Torino",14/10/2022,€ 89.900,0,4,90 m²,1,2
+"Trilocale via Giuseppe Tartini 37, Regio Parco, Torino",12/12/2022,€ 53.000,0,3,70 m²,1,1
+"Trilocale via Alfredo Oriani 25, Lucento, Torino",14/12/2022,€ 135.000,0,3,80 m²,1,6
+"Appartamento via Andrea Provana, Via della Rocca, Torino",08/09/2022,€ 649.000,0,5,190 m²,2,1
+"Quadrilocale corso Palermo 82, Aurora, Torino",19/12/2022,€ 205.000,0,4,90 m²,2,3
+"Quadrilocale via Sospello 173, Borgo Vittoria, Torino",30/11/2022,€ 159.000,0,4,105 m²,1,7
+"Appartamento via Principe Tommaso 21, San Salvario - Baretti, Torino",16/12/2022,€ 259.000,0,5,120 m²,1,4
+"Trilocale via Sette Comuni 29, Mirafiori Nord, Torino",02/01/2023,€ 99.000,0,3,85 m²,1,3
+"Trilocale via Giovanni Paisiello 51, Barriera di Milano, Torino",07/07/2022,€ 74.900,0,3,74 m²,1,5
+"Trilocale via Latina 4, Lucento, Torino",14/12/2022,€ 145.000,0,3,80 m²,1,3
+"Quadrilocale via Guglielmo Reiss Romoli 81/11, Barriera di Lanzo, Torino",27/12/2022,€ 94.000,0,4,86 m²,2,6
+"Quadrilocale via Clemente Damiano Priocca 10, Aurora, Torino",02/12/2022,€ 169.000,0,4,95 m²,1,3
+"Trilocale via Carlo Marochetti 7, San Salvario - Dante, Torino",16/12/2022,€ 139.000,0,3,65 m²,1,2
+"Trilocale corso Siracusa 105, Santa Rita, Torino",03/01/2023,€ 159.000,0,3,107 m²,1,2
+"Trilocale corso Adriatico 16, Santa Rita, Torino",02/01/2023,€ 149.000,0,3,75 m²,1,2
+"Bilocale corso Bernardino Telesio 60, Parella, Torino",30/11/2022,€ 72.000,0,2,58 m²,1,2
+"Quadrilocale corso Taranto 177, Regio Parco, Torino",21/10/2022,€ 85.000,0,4,85 m²,1,R
+"Loft corso Svizzera 185, Lucento, Torino",07/11/2022,€ 139.000,0,2,70 m²,1,1
+"Quadrilocale via Salvatore Cognetti De Martiis 48, Lucento, Torino",02/12/2022,€ 100.000,0,4,95 m²,1,3
+"Appartamento via Monte Rosa 87, Barriera di Milano, Torino",21/12/2022,€ 130.000,0,5,150 m²,2,4
+"Trilocale via spontini 4, Barriera di Milano, Torino",09/12/2022,€ 73.000,0,3,77 m²,1,4
+"Trilocale corso Carlo e Nello Rosselli 90, Crocetta, Torino",09/08/2022,€ 129.000,0,3,71 m²,1,5 - 6
+"Bilocale via Saverio Mercadante 91, Barriera di Milano, Torino",22/11/2022,€ 57.000,0,2,65 m²,1,1
+"Bilocale via Cavagnolo 24, Falchera, Torino",23/12/2022,€ 52.000,0,2,60 m²,1,4
+"Quadrilocale via Sabaudia 17, Cavoretto, Torino",02/12/2022,€ 480.000,0,4,215 m²,1,1
+"Bilocale via Giovanni Spano 6/14, Lingotto, Torino",02/01/2023,€ 71.000,1,2,47 m²,1,5
+"Bilocale via Luigi Galvani 12, San Donato, Torino",24/07/2022,€ 60.000,0,2,50 m²,1,1
+"Trilocale via Filadelfia 156, Santa Rita, Torino",14/12/2022,€ 179.000,0,3,93 m²,1,7
+"Quadrilocale corso Siracusa 102, Santa Rita, Mirafiori Nord, Torino",03/01/2023,€ 209.000,0,4,118 m²,1,2
+"Quadrilocale corso Vercelli 254, Rebaudengo, Torino",30/11/2022,€ 119.000,0,4,110 m²,1,9
+"Villa unifamiliare corso Moncalieri 248, Cavoretto, Torino",14/09/2022,€ 1.190.000,0,5+,257 m²,3+,
+"Trilocale via Antonio Cecchi 5, Aurora, Torino",10/12/2022,€ 98.000,0,3,92 m²,1,5
+"Appartamento via Balme 8, Campidoglio, Torino",09/12/2022,€ 518.000,0,5+,195 m²,3,1
+"Mansarda corso Regina Margherita 144, Aurora, Torino",18/11/2022,€ 88.000,0,2,45 m²,1,3
+"Appartamento via Massena 71, Crocetta, Torino",30/11/2022,€ 339.000,0,5+,165 m²,2,R
+"Quadrilocale via Monte Rosa 28, Barriera di Milano, Torino",14/12/2022,€ 85.000,0,4,95 m²,1,1
+"Appartamento corso Giacomo Matteotti 42BIS, Cittadella, Torino",28/12/2022,€ 890.000,0,5+,280 m²,3,4
+"Appartamento via Giacinto Collegno 20, San Donato, Torino",19/12/2022,€ 370.000,0,5+,164 m²,2,4
+"Appartamento corso Giacomo Matteotti 42BIS, Cittadella, Torino",28/12/2022,€ 850.000,0,5+,280 m²,3+,2
+"Quadrilocale corso Vittorio Emanuele II 182, Cit Turin, Torino",06/10/2022,€ 278.000,0,4,106 m²,1,7
+"Bilocale via Bari, Don Bosco, Torino",22/12/2022,€ 75.000,1,2,70 m²,1,1
+"Villa unifamiliare via Mombasiglio 113, Santa Rita, Torino",03/01/2023,€ 379.000,0,5,143 m²,2,
+"Appartamento via Mazzini 62, Via della Rocca, Torino",10/10/2022,€ 329.000,0,5,105 m²,2,1
+"Bilocale via Costantino Nigra, Borgo Vittoria, Torino",22/10/2022,€ 39.000,0,2,40 m²,1,R
+"Quadrilocale corso Unione Sovietica 415, Mirafiori Sud - Onorato Vigliani, Torino",19/12/2022,€ 160.000,0,4,100 m²,1,5
+"Appartamento via Breglio 121, Borgo Vittoria, Torino",02/09/2022,€ 169.000,0,5,108 m²,2,1
+"Quadrilocale via Balme 8, Campidoglio, Torino",09/12/2022,€ 359.000,0,4,130 m²,2,1
+"Attico via Taggia 6, Lingotto, Torino",08/11/2022,€ 228.000,0,5,130 m²,2,
+"Trilocale corso Unione Sovietica 415, Mirafiori Sud - Onorato Vigliani, Torino",20/12/2022,€ 130.000,0,3,78 m²,1,5
+"Bilocale via Barletta 131, Santa Rita, Torino",15/12/2022,€ 155.000,0,2,67 m²,1,6
+"Appartamento via Giovanni Bovetti 4, Mirafiori Sud - Onorato Vigliani, Torino",10/11/2022,€ 134.000,0,5,125 m²,1,R
+"Quadrilocale ottimo stato, primo piano, Crocetta, Torino",29/12/2022,€ 199.000,0,4,104 m²,1,1
+"Bilocale via Bertrando Spaventa 12, Lingotto, Torino",07/12/2022,€ 79.000,0,2,53 m²,1,4
+"Appartamento via Giordano Bruno 106, Lingotto, Torino",29/12/2022,€ 345.000,0,5,179 m²,2,1
+"Monolocale corso Filippo Turati 11, San Secondo, Torino",28/12/2022,€ 20.000,0,1,34 m²,1,S2
+"Trilocale via Benvenuto Cellini 31, San Salvario - Dante, Torino",15/12/2022,€ 277.000,0,3,74 m²,1,2
+"Trilocale via Benvenuto Cellini 31, San Salvario - Dante, Torino",15/12/2022,€ 277.000,0,3,74 m²,1,2
+"Quadrilocale via Filadelfia 50, Lingotto, Torino",30/11/2022,€ 253.000,0,4,110 m²,2,9
+"Bilocale via Padova 5, Aurora, Torino",03/10/2022,€ 59.000,0,2,45 m²,1,4
+"Appartamento via Albenga 2, Lingotto, Torino",23/12/2022,€ 165.000,0,5,100 m²,1,3
+"Quadrilocale viale dei Mughetti 7/b, Le Vallette, Torino",06/12/2022,€ 95.000,0,4,106 m²,1,1
+"Trilocale via dell'Arcivescovado 7, Via Roma, Torino",04/07/2022,€ 1.050.000,0,3,130 m²,3,2
+"Trilocale via Milano, Quadrilatero Romano, Torino",30/12/2022,€ 259.000,0,3,83 m²,1,3
+"Appartamento corso Alessandro Tassoni 79, Campidoglio, Torino",27/09/2022,€ 299.000,0,5,136 m²,2,2
+"Attico via Andrea Paris 10, Barriera di Lanzo, Torino",07/12/2022,€ 185.000,0,4,120 m²,2,7
+"Quadrilocale via Castelgomberto 28, Santa Rita, Torino",11/10/2022,€ 415.000,0,4,190 m²,2,10
+"Appartamento corso Francia 99, Cit Turin, Torino",16/06/2022,€ 82.000,0,5+,40 m²,3+,T
+"Quadrilocale via Milano, Quadrilatero Romano, Torino",23/12/2022,€ 249.000,0,4,115 m²,1,1
+"Appartamento via Giacinto Pacchiotti 8, Parella, Torino",10/12/2022,€ 295.000,0,5+,194 m²,2,1
+"Quadrilocale corso Racconigi 14, Cit Turin, Torino",13/07/2022,€ 290.000,0,4,115 m²,2,2
+"Appartamento ottimo stato, terzo piano, Giardini Reali, Torino",07/06/2022,€ 890.000,0,5,211 m²,3,3
+"Appartamento via Silvio Pellico 21, San Salvario - Baretti, Torino",27/12/2022,€ 420.000,0,5,114 m²,2,2
+"Quadrilocale via dell'Accademia Albertina 3BIS, Via della Rocca, Torino",13/10/2022,€ 465.000,0,4,135 m²,2,4
+"Trilocale via Monte Albergian 25, Cenisia, Torino",22/12/2022,€ 122.000,0,3,100 m²,1,4
+"Quadrilocale via Carlo Botta 5, Cittadella, Torino",03/01/2023,€ 260.000,0,4,100 m²,1,2
+"Bilocale corso Regio Parco 26, Aurora, Torino",13/12/2022,€ 139.000,0,2,47 m²,1,2
+"Bilocale corso Lecce 52, Campidoglio, Torino",03/01/2023,€ 115.000,0,2,78 m²,1,1
+"Trilocale via Balme 8, Campidoglio, Torino",09/12/2022,€ 159.000,0,3,65 m²,1,1
+"Trilocale via Felice Cordero di Pamparato 23, Campidoglio, Torino",03/01/2023,€ 139.000,0,3,87 m²,1,R
+"Trilocale via Bene Vagienna 29, Santa Rita, Torino",06/12/2022,€ 137.000,0,3,73 m²,1,5
+"Trilocale via Gattinara 1/A, Vanchiglietta, Torino",03/01/2023,€ 129.000,0,3,80 m²,1,1
+"Bilocale via Villar 19, Borgo Vittoria, Torino",07/12/2022,€ 22.000,0,2,45 m²,1,5
+"Bilocale via Felice Cordero di Pamparato 13, Campidoglio, Torino",03/01/2023,€ 89.000,0,2,55 m²,1,2
+"Bilocale via Tesso 14BIS, Parco Dora, Torino",09/12/2022,€ 50.000,0,2,50 m²,1,1
+"Bilocale via Guastalla 20, Vanchiglia, Torino",03/01/2023,€ 135.000,0,2,60 m²,1,T
+"Quadrilocale corso Galileo Ferraris, Santa Rita, Torino",12/05/2022,€ 250.000,0,4,104 m²,1,1
+"Appartamento piazza Savoia 7, Quadrilatero Romano, Torino",20/12/2022,€ 795.000,1,5,183 m²,2,2
+"Appartamento corso Re Umberto, Piazza Solferino, Torino",01/12/2022,€ 780.000,0,5+,236 m²,2,3
+"Trilocale corso Palermo 20, Aurora, Torino",25/10/2022,€ 159.000,0,3,75 m²,1,5
+"Bilocale corso Duca degli Abruzzi 82, Crocetta, Torino",22/12/2022,€ 154.000,0,2,55 m²,1,R
+"Appartamento corso Carlo Luigi Farini 1, Vanchiglia, Torino",24/11/2022,€ 259.000,0,5,114 m²,2,
+"Trilocale via Genova 236, Nizza Millefonti, Torino",25/11/2022,€ 75.000,0,3,70 m²,1,5
+"Quadrilocale corso Dante Alighieri 44, San Salvario - Dante, Torino",13/12/2022,€ 259.000,0,4,115 m²,2,9
+"Trilocale via Maddalene 50BIS, Regio Parco, Torino",05/12/2022,€ 79.000,0,3,75 m²,1,2
+"Quadrilocale via Gottardo 233, Regio Parco, Torino",05/10/2022,€ 130.000,0,4,100 m²,1,5
+"Trilocale via Verolengo 182, Lucento, Torino",06/12/2022,€ 72.000,0,3,70 m²,1,3
+"Trilocale corso Benedetto Croce 33, Mirafiori Sud - Onorato Vigliani, Torino",12/12/2022,€ 148.000,0,3,80 m²,1,9
+"Bilocale via Giovanni da Verrazzano 51, Crocetta, Torino",29/12/2022,€ 123.000,0,2,47 m²,1,1
+"Attico via Giuseppe Talucchi 46, San Donato, Torino",16/12/2022,€ 740.000,0,5,167 m²,2,5
+"Terratetto unifamiliare Strada Comunale di Bertolla, Bertolla, Torino",07/12/2022,€ 299.000,0,5+,285 m²,3,
+"Quadrilocale via Schina, 8, San Donato, Torino",11/10/2022,€ 327.000,0,4,130 m²,2,3
+"Appartamento via Barnaba Panizza, Città Giardino, Torino",29/12/2022,€ 255.000,0,5,160 m²,2,2
+"Trilocale via Renato Wuillermin 1, Regio Parco, Torino",29/11/2022,€ 79.000,0,3,70 m²,1,2
+"Appartamento corso Luigi Einaudi 8, Crocetta, Torino",20/09/2022,€ 680.000,0,5+,233 m²,3,
+"Attico via Evangelista Torricelli 48, Crocetta, Torino",19/11/2022,€ 1.600.000,0,5+,267 m²,2,7
+"Quadrilocale via Ventimiglia 37, Nizza Millefonti, Torino",04/11/2022,€ 330.000,0,4,155 m²,2,5
+"Appartamento via Tunisi 114, Lingotto, Torino",11/11/2022,€ 259.000,0,5,157 m²,1,2
+"Trilocale via Biella 48, Aurora, Torino",16/12/2022,€ 183.000,0,3,76 m²,1,4
+"Appartamento corso Raffaello 2, San Salvario - Dante, Torino",03/01/2023,€ 355.000,0,5,125 m²,2,
+"Attico corso Eusebio Giambone 11, Lingotto, Torino",22/10/2022,€ 374.000,0,5,190 m²,3,5
+"Quadrilocale via Roccaforte 9, Cenisia, Torino",22/12/2022,€ 215.000,0,4,110 m²,1,2
+"Appartamento via Amedeo Avogadro, Cittadella, Torino",27/12/2022,€ 789.000,0,5,230 m²,2,3 - 4
+"Trilocale corso Dante Alighieri, San Salvario - Dante, Torino",02/01/2023,Prezzo su richiesta,0,3,91 m²,1,
+"Quadrilocale corso Dante Alighieri, San Salvario - Dante, Torino",02/01/2023,€ 410.000,0,4,109 m²,2,
+"Appartamento corso Dante Alighieri, San Salvario - Dante, Torino",02/01/2023,€ 475.000,0,5,126 m²,2,
+Palazzo - Edificio in Vendita,21/11/2022,€ 149.000,0,110 m²,1,1,
+"Bilocale via Berruti e Ferrero 14, Mirafiori Nord, Torino",15/06/2022,€ 135.000,0,2,60 m²,1,1
+"Quadrilocale corso Raffaello 7, San Salvario - Dante, Torino",16/05/2022,€ 349.000,0,4,120 m²,2,4
+"Appartamento via Principi d'Acaja, Cit Turin, Torino",27/12/2022,€ 559.000,0,5+,220 m²,2,3
+"Appartamento via Alessandro Manzoni 25, Cittadella, Torino",21/12/2022,€ 310.000,0,5,110 m²,2,R
+"Appartamento via Giovanni Servais 200, Parella, Torino",12/12/2022,€ 275.000,0,5,120 m²,2,2
+"Appartamento via Cesare Battisti, Via Roma, Torino",27/12/2022,€ 795.000,0,5+,190 m²,2,3
+"Trilocale via Ilarione Petitti, San Salvario - Dante, Torino",27/12/2022,€ 364.000,0,3,110 m²,2,3
+"Trilocale via Chambery 93, Pozzo Strada, Torino",13/12/2022,€ 149.000,0,3,100 m²,1,1
+"Loft corso Svizzera 185, Lucento, Torino",19/11/2022,€ 229.000,0,2,126 m²,1,1
+"Trilocale via Le Chiuse 9, San Donato, Torino",04/10/2022,€ 320.000,0,3,100 m²,2,1
+"Attico viale 25 Aprile 168, Cavoretto, Torino",14/10/2022,€ 550.000,0,3,123 m²,1,
+"Quadrilocale via Fratelli Giuseppe e Antonio Carle 27, Crocetta, Torino",02/12/2022,€ 219.000,0,4,103 m²,1,3
+"Trilocale via Pietro Micca 3, Via Roma, Torino",11/06/2022,€ 339.000,0,3,112 m²,2,5
+"Trilocale corso Grosseto 289, Lucento, Torino",06/12/2022,€ 115.000,0,3,81 m²,1,2
+"Appartamento via De Sonnaz 17, Cittadella, Torino",29/11/2022,€ 590.000,0,5+,236 m²,3,4
+"Quadrilocale via Leoncavallo 45 scala C, Barriera di Milano, Torino",25/10/2022,€ 149.000,0,4,124 m²,2,9
+"Appartamento via Guido Reni 103, Santa Rita, Torino",08/10/2022,€ 225.000,0,5,168 m²,2,9 - 10
+"Quadrilocale via Nuoro 41, Santa Rita, Torino",03/01/2023,€ 179.000,1,4,85 m²,1,2
+"Trilocale via Cigna 6, Aurora, Torino",06/12/2022,€ 109.000,0,3,77 m²,1,4
+"Quadrilocale corso Monte Cucco 64/B, Pozzo Strada, Torino",04/10/2022,€ 198.000,0,4,110 m²,2,9
+"Appartamento via Gorizia 180, Santa Rita, Torino",28/12/2022,€ 279.000,0,5+,151 m²,2,
+"Appartamento corso Matteotti 36, Cittadella, Torino",12/12/2022,€ 835.000,0,5+,278 m²,3,2
+"Trilocale via Vicoforte 4, Cenisia, Torino",23/11/2022,€ 79.000,0,3,65 m²,1,2
+"Trilocale via Alessandro Paravia 5, San Donato, Torino",07/12/2022,€ 195.000,0,3,92 m²,1,4
+"Trilocale corso Novara 53, Barriera di Milano, Torino",24/10/2022,€ 119.000,0,3,79 m²,1,5
+"Appartamento via Principi d'Acaja 9, San Donato, Torino",16/12/2022,€ 499.000,0,5,141 m²,1,R
+"Appartamento via Benvenuto Cellini 31, San Salvario - Dante, Torino",19/10/2022,€ 462.000,0,5,127 m²,2,2
+"Quadrilocale corso Carlo e Nello Rosselli 71, Crocetta, Torino",10/11/2022,€ 415.000,0,4,135 m²,2,6
+"Appartamento via Bertola 35, Quadrilatero Romano, Torino",04/10/2022,€ 545.000,0,5+,223 m²,2,2
+"Appartamento via San Secondo 23, San Secondo, Torino",22/12/2022,€ 320.000,0,5,137 m²,1,4
+"Appartamento via Morghen 10, San Donato, Torino",23/12/2022,€ 490.000,0,5,170 m²,2,2
+"Bilocale via Matteo Pescatore 10, Giardini Reali, Torino",30/12/2022,€ 169.000,0,2,53 m²,1,3
+"Quadrilocale corso Sebastopoli 238, Santa Rita, Torino",03/01/2023,€ 269.000,0,4,115 m²,2,1
+"Bilocale via Paolo Sarpi 54, Santa Rita, Torino",12/11/2022,€ 65.000,0,2,36 m²,1,5
+"Trilocale via Issiglio, San Paolo, Torino",02/01/2023,€ 260.000,0,3,80 m²,1,
+"Quadrilocale via Issiglio, San Paolo, Torino",02/01/2023,€ 365.000,0,4,107 m²,2,
+"Appartamento via Issiglio, San Paolo, Torino",02/01/2023,€ 415.000,0,5,124 m²,2,
+"Trilocale piazza Monte Tabor, Bertolla, Torino",10/10/2022,€ 79.000,0,3,71 m²,1,T
+"Bilocale via Crissolo 9, Cenisia, Torino",05/12/2022,€ 70.000,0,2,44 m²,1,T
+"Trilocale via San Francesco di Paola 18, Via Roma, Torino",07/12/2022,€ 320.000,0,3,92 m²,1,4
+"Quadrilocale via Taggia 59, Lingotto, Torino",18/11/2022,€ 189.000,0,4,101 m²,1,2
+"Open space via Giuseppe Giacosa 4, San Salvario - Dante, Torino",19/09/2022,€ 280.000,0,2,90 m²,1,T
+"Open space via Giuseppe Giacosa 4, San Salvario - Dante, Torino",19/09/2022,€ 270.000,0,2,80 m²,1,T
+"Bilocale via Sestriere 29, San Paolo, Torino",22/11/2022,€ 105.000,0,2,64 m²,1,1
+"Quadrilocale via Gian Domenico Cassini 66, Crocetta, Torino",30/11/2022,€ 370.000,0,4,120 m²,2,3
+"Trilocale corso Siracusa 160, Mirafiori Nord, Torino",08/07/2022,€ 105.000,0,3,71 m²,1,4
+"Quadrilocale corso Stati Uniti, Crocetta, Torino",21/12/2022,€ 400.000,0,4,103 m²,2,2
+"Appartamento via Giacinto Collegno 42/44, Cit Turin, Torino",19/01/2022,€ 387.000,0,5+,133 m²,1,R
+"Attico via Morazzone 16, Madonna del Pilone, Torino",05/12/2022,€ 393.000,0,3,139 m²,1,
+"Appartamento corso San Maurizio 29, Vanchiglia, Torino",08/09/2022,€ 249.000,0,5,110 m²,2,R
+"Trilocale via Breglio 28, Borgo Vittoria, Torino",22/12/2022,€ 89.000,0,3,85 m²,1,4
+"Appartamento via San Francesco da Paola 29, Via della Rocca, Torino",01/12/2021,€ 410.000,0,5,120 m²,1,3
+"Quadrilocale via Piobesi 26, Mirafiori Sud - Onorato Vigliani, Torino",14/12/2022,€ 147.000,0,4,100 m²,1,5
+"Trilocale corso Grosseto 151, Borgo Vittoria, Torino",22/12/2022,€ 49.000,1,3,70 m²,1,6
+"Trilocale via Pietro Giuria 25, San Salvario - Dante, Torino",03/01/2023,€ 65.000,1,3,75 m²,1,T
+"Quadrilocale corso Unione Sovietica 359, Mirafiori Nord, Torino",14/11/2022,€ 270.000,0,4,100 m²,2,6
+"Bilocale via Antonio Canova 5, San Salvario - Dante, Torino",28/12/2022,€ 115.000,0,2,65 m²,1,R
+"Trilocale via Maddalene 50, Regio Parco, Torino",22/11/2022,€ 89.000,0,3,80 m²,1,4
+"Trilocale via Cuneo 55, Aurora, Torino",14/12/2022,€ 115.000,0,3,70 m²,1,4
+"Villa unifamiliare Strada dei Calleri, Superga, Torino",28/11/2022,€ 990.000,0,5+,700 m²,3+,
+"Bilocale via Monesiglio 23, Santa Rita, Torino",21/12/2022,€ 105.000,0,2,62 m²,1,1
+"Trilocale via Porta Palatina 1, Quadrilatero Romano, Torino",25/11/2022,€ 195.000,0,3,65 m²,1,2
+"Trilocale Strada Basse del Lingotto 68, Mirafiori Sud - Onorato Vigliani, Torino",13/12/2022,€ 119.000,0,3,85 m²,1,1
+"Trilocale Strada Lanzo 147/5, Barriera di Lanzo, Torino",07/12/2022,€ 108.000,0,3,90 m²,1,2
+"Trilocale via Andrea Doria 6, Via Roma, Torino",29/12/2022,€ 268.000,0,3,75 m²,1,3
+"Quadrilocale via Sempione 148, Barriera di Milano, Torino",26/11/2022,€ 89.000,0,4,80 m²,1,5
+"Quadrilocale via Principessa Felicita Di Savoia 8/12, Gran Madre - Crimea, Torino",02/01/2023,€ 580.000,0,4,106 m²,2,1
+"Appartamento via Principessa Felicita Di Savoia 8/12, Gran Madre - Crimea, Torino",02/01/2023,€ 700.000,0,5,148 m²,2,1
+"Trilocale corso Alberto Picco 34/24, Gran Madre - Crimea, Torino",02/01/2023,€ 380.000,0,3,90 m²,2,R
+"Trilocale corso Dante Alighieri 61, San Salvario - Dante, Torino",28/12/2022,€ 149.000,0,3,80 m²,1,
+"Trilocale via Val Lagarina 39, Torino",21/07/2022,€ 250.000,0,3,93 m²,2,M
+"Trilocale via Val Lagarina 39, Torino",21/07/2022,€ 270.000,0,3,93 m²,2,M
+"Trilocale via Val Lagarina 39, Torino",21/07/2022,€ 285.000,0,3,93 m²,2,M
+"Trilocale via Val Lagarina 39, Torino",21/07/2022,€ 305.000,0,3,93 m²,2,M
+"Quadrilocale via Val Lagarina 39, Torino",21/07/2022,€ 310.000,0,4,109 m²,2,M
+"Quadrilocale via Val Lagarina 39, Torino",21/07/2022,€ 330.000,0,4,109 m²,2,M
+"Quadrilocale via Val Lagarina 39, Torino",21/07/2022,€ 355.000,0,4,109 m²,2,M
+"Attico via Val Lagarina 39, Torino",21/07/2022,€ 380.000,0,3,102 m²,1,A
+"Attico via Val Lagarina 39, Torino",21/07/2022,€ 405.000,0,3,111 m²,1,A
+"Appartamento via Val Lagarina 39, Torino",21/07/2022,€ 405.000,0,5,141 m²,3,M
+"Appartamento via Val Lagarina 39, Torino",21/07/2022,€ 425.000,0,5,141 m²,3,M
+"Appartamento via Val Lagarina 39, Torino",21/07/2022,€ 465.000,0,5,141 m²,3,M
+"Attico via Val Lagarina 39, Torino",21/07/2022,€ 470.000,0,3,129 m²,2,A
+"Quadrilocale via Carso 45, San Paolo, Torino",25/11/2022,€ 149.000,0,4,102 m²,1,R
+"Bilocale via Gaspare Vera e Libera Arduino 45, Lingotto, Torino",12/11/2022,€ 159.000,0,2,71 m²,1,1
+"Trilocale via Sanremo 29, Mirafiori Nord, Torino",17/10/2022,€ 250.000,0,3,105 m²,1,6
+"Bilocale corso Palermo 79, Aurora, Torino",13/12/2022,€ 59.000,0,2,62 m²,1,4
+"Trilocale via Salerno, Aurora, Torino",12/10/2022,€ 109.000,0,3,65 m²,1,3
+"Attico via Giovanni da Verrazzano 27, Crocetta, Torino",18/10/2022,€ 1.489.000,0,5,243 m²,3,4
+"Quadrilocale corso Duca Degli Abruzzi, Crocetta, Torino",14/12/2022,€ 475.000,0,4,140 m²,3,5
+"Trilocale via Giovanni da Verrazzano 27, Crocetta, Torino",18/10/2022,€ 499.000,0,3,119 m²,2,T
+"Quadrilocale via Giovanni da Verrazzano 27, Crocetta, Torino",18/10/2022,€ 550.000,0,4,94 m²,2,4
+"Quadrilocale via Della Consolata, Quadrilatero Romano, Torino",21/12/2022,€ 265.000,0,4,107 m²,1,2
+"Quadrilocale via Giovanni da Verrazzano 27, Crocetta, Torino",18/10/2022,€ 457.000,0,4,94 m²,2,2
+"Quadrilocale Lungo Po Alessandro Antonelli 209, Vanchiglietta, Torino",15/12/2022,€ 465.000,0,4,125 m²,2,9
+"Quadrilocale corso Grosseto 274, Madonna di Campagna, Torino",13/12/2022,€ 169.000,0,4,100 m²,1,1
+"Trilocale Strada Lanzo 136, Barriera di Lanzo, Torino",20/12/2022,€ 125.000,0,3,92 m²,1,1
+"Trilocale corso Cosenza 123, Mirafiori Nord, Torino",05/12/2022,€ 169.000,0,3,85 m²,1,
+"Bilocale via Brione 28, Campidoglio, Torino",18/11/2022,€ 145.000,0,2,58 m²,1,5
+"Quadrilocale via Gattinara 5, Vanchiglietta, Torino",11/07/2022,€ 197.000,0,4,105 m²,2,2
+"Quadrilocale corso Tortona 17, Vanchiglia, Torino",07/11/2022,€ 275.000,0,4,110 m²,1,3
+"Quadrilocale corso Potenza 144, Madonna di Campagna, Torino",21/11/2022,€ 145.000,0,4,116 m²,2,8
+"Trilocale via Giuseppe Garibaldi 20, Quadrilatero Romano, Torino",25/12/2022,€ 529.000,0,3,125 m²,1,1
+"Bilocale via Alfonso Badini Confalonieri, Madonna di Campagna, Torino",30/12/2022,€ 98.000,0,2,50 m²,1,1
+"Appartamento via Vincenzo Nazzaro 3, Campidoglio, Torino",01/12/2022,€ 285.000,0,5,132 m²,2,5
+"Quadrilocale via Giacomo Medici 84, Parella, Torino",27/12/2022,€ 138.000,0,4,90 m²,1,4
+"Appartamento via Barletta 150, Santa Rita, Torino",19/05/2020,€ 320.000,0,5,140 m²,2,1
+"Attico via Barletta 150, Santa Rita, Torino",05/03/2020,€ 460.000,0,5+,220 m²,3,5 - 6
+"Quadrilocale via Oddino Morgari 2, San Salvario - Dante, Torino",30/12/2022,€ 249.000,0,4,100 m²,1,2
+"Trilocale corso Belgio 166, Vanchiglietta, Torino",01/12/2022,€ 139.000,0,3,88 m²,1,1
+"Quadrilocale via Carlo Botta, Cittadella, Torino",21/12/2022,€ 439.000,0,4,147 m²,3,1
+"Trilocale via Ambrosio, 5, Barriera di Milano, Torino",14/11/2022,€ 129.000,0,3,84 m²,1,2
+"Bilocale Strada del Cascinotto 28b, Barca, Torino",06/12/2022,€ 89.000,0,2,52 m²,1,4
+"Trilocale via Tripoli 155, Santa Rita, Torino",12/12/2022,€ 139.000,0,3,73 m²,1,4
+"Bilocale via Giovanni da Verrazzano 27, Crocetta, Torino",08/11/2022,€ 219.000,0,2,60 m²,1,1
+"Appartamento corso Guglielmo Marconi 13, San Salvario - Baretti, Torino",17/10/2022,€ 630.000,0,5,185 m²,2,3
+"Trilocale via Quincinetto 33/3, Barriera di Lanzo, Torino",19/10/2022,€ 159.000,0,3,85 m²,2,3
+"Quadrilocale via Bobbio 14, San Paolo, Torino",07/12/2022,€ 225.000,0,4,100 m²,1,5
+"Appartamento via palmieri 49, Cit Turin, Torino",01/12/2022,€ 365.000,0,5,140 m²,2,1
+"Trilocale via Viverone 9, Parella, Torino",26/10/2022,€ 174.000,0,3,70 m²,1,4
+"Appartamento piazza Savoia, Quadrilatero Romano, Torino",21/11/2022,€ 1.650.000,0,5+,370 m²,1,2
+"Villa unifamiliare via mattie 9, Pozzo Strada, Torino",28/12/2022,€ 289.000,0,4,160 m²,2,
+"Trilocale corso Vittorio Emanuele II 162, Cit Turin, Torino",28/11/2022,€ 295.000,0,3,80 m²,1,5
+"Loft via Borgosesia 89, Parella, Torino",23/09/2022,€ 63.000,0,2,45 m²,1,T
+"Quadrilocale via Edoardo Rubino 76, Centro Europa, Torino",15/11/2022,€ 229.000,0,4,118 m²,2,
+"Appartamento corso massimo d'azeglio 30, San Salvario - Baretti, Torino",01/12/2022,€ 395.000,0,5,165 m²,2,1
+"Attico corso Emilia 6, Aurora, Torino",20/12/2022,€ 380.000,0,3,180 m²,2,4
+"Quadrilocale via Cernaia 28, Quadrilatero Romano, Torino",28/11/2022,€ 490.000,0,4,186 m²,2,T
+"Quadrilocale corso racconigi 15, Cit Turin, Torino",29/11/2022,€ 320.000,0,4,105 m²,1,7
+"Bilocale via Nizza 369, Nizza Millefonti, Torino",02/01/2023,€ 79.000,0,2,63 m²,1,1
+"Trilocale corso Palermo 54, Aurora, Torino",15/12/2022,€ 75.000,0,3,60 m²,1,2
+"Trilocale via Artisti 5, Vanchiglia, Torino",22/11/2022,€ 220.000,0,3,100 m²,1,1
+"Trilocale corso Mortara 36, Parco Dora, Torino",12/12/2022,€ 155.000,0,3,80 m²,1,3
+"Appartamento corso Carlo e Nello Rosselli 46, Crocetta, Torino",19/09/2022,€ 193.000,0,5,116 m²,1,R
+"Appartamento corso Inghilterra 49, Cittadella, Torino",17/12/2022,€ 339.000,0,5,133 m²,2,1
+"Quadrilocale corso Monte Cucco 154, Pozzo Strada, Torino",22/11/2022,€ 280.000,0,4,132 m²,2,1
+"Trilocale corso Toscana 79, Lucento, Torino",09/11/2022,€ 113.000,0,3,80 m²,1,R
+"Quadrilocale via Pramollo 2/B, Mirafiori Sud - Strada del Drosso, Torino",28/12/2022,€ 133.000,0,4,90 m²,1,3
+"Attico via Michele Ponza 4, Piazza Solferino, Torino",06/12/2022,€ 770.000,0,5+,220 m²,3,5
+"Appartamento via Giovanni Botero 7, Quadrilatero Romano, Torino",09/12/2022,€ 490.000,0,5,164 m²,2,1
+"Quadrilocale via Pietro Canonica 1e, Città Giardino, Torino",22/09/2022,€ 222.000,0,4,131 m²,2,
+"Quadrilocale via Principessa Felicita Di Savoia 8/12, Gran Madre - Crimea, Torino",02/01/2023,€ 790.000,0,4,177 m²,2,T
+"Appartamento via Giovanni da Verrazzano 27, Crocetta, Torino",08/11/2022,€ 697.000,0,5,130 m²,2,1
+"Quadrilocale via Viarigi 6, Lucento, Torino",07/12/2022,€ 225.000,0,4,132 m²,2,6
+"Bilocale via Edoardo Daneo 6, Mirafiori Nord, Torino",12/12/2022,€ 75.000,0,2,60 m²,1,4
+"Appartamento corso Moncalieri 450, Cavoretto, Torino",29/12/2022,€ 450.000,0,5+,240 m²,3,2
+"Quadrilocale via Giuseppe Baretti 30, San Salvario - Baretti, Torino",28/12/2022,€ 179.000,1,4,100 m²,1,5
+"Bilocale via Bordighera 6, Mirafiori Sud - Onorato Vigliani, Torino",15/11/2022,€ 85.000,0,2,65 m²,1,1
+"Trilocale via Belfiore 64, San Salvario - Dante, Torino",22/11/2022,€ 140.000,0,3,75 m²,1,2
+"Bilocale via carisio 5, Campidoglio, Torino",27/12/2022,€ 73.000,0,2,52 m²,1,R
+"Quadrilocale via Onorato Vigliani 91, Mirafiori Sud - Onorato Vigliani, Torino",15/12/2022,€ 195.000,0,4,110 m²,1,2
+"Attico viale Enrico Thovez, Colle della Maddalena, Torino",06/12/2022,€ 1.000.000,0,5+,260 m²,3+,3
+"Trilocale via paolini 18, Cit Turin, Torino",23/12/2022,€ 169.000,0,3,85 m²,1,R
+"Bilocale via Barletta 125, Santa Rita, Torino",22/12/2022,€ 99.000,0,2,69 m²,1,
+"Appartamento corso Palestro 13, Quadrilatero Romano, Torino",30/11/2022,€ 620.000,0,5+,205 m²,2,2
+"Trilocale corso Francia 1, Cit Turin, Torino",24/12/2022,€ 289.000,0,3,95 m²,1,1
+"Trilocale Racconigi 60/43, Cenisia, Torino",28/12/2022,€ 96.000,0,3,80 m²,1,S - T
+"Quadrilocale corso Vittorio Emanuele II 182, Cit Turin, Torino",30/12/2022,€ 199.000,0,4,110 m²,1,4
+"Appartamento via Cimabue 3, Centro Europa, Torino",20/12/2022,€ 198.000,0,5,124 m²,2,7
+"Appartamento corso Stati Uniti 53, Crocetta, Torino",11/10/2022,€ 550.000,0,5+,210 m²,2,1
+"Quadrilocale via Capriolo 27, Cenisia, Torino",29/10/2022,€ 215.000,0,4,120 m²,2,2
+"Quadrilocale via Monforte 10, Cenisia, Torino",21/12/2022,€ 395.000,0,4,174 m²,2,4
+"Monolocale via Ormea 164, San Salvario - Dante, Torino",03/01/2023,€ 65.000,0,1,35 m²,1,4
+"Bilocale via Giovanni Michele Boccardo 26, Borgo Vittoria, Torino",22/12/2022,€ 39.900,0,2,55 m²,1,1
+"Appartamento corso Giulio Cesare 4, Aurora, Torino",23/10/2022,€ 950.000,0,5+,1.100 m²,3+,1 - 2
+"Appartamento via Ventimiglia 206, Italia 61, Torino",28/12/2022,€ 480.000,0,5+,180 m²,2,3
+"Mansarda via Giovanni Boccaccio 71, Madonna del Pilone, Torino",28/11/2022,€ 179.000,0,3,110 m²,1,4
+"Trilocale via Torricelli  56, Crocetta, Torino",08/09/2022,€ 395.000,0,3,115 m²,2,T
+"Appartamento via Valle Stretta 4, Bertolla, Torino",10/10/2022,€ 89.000,0,5,95 m²,1,T
+"Bilocale via Lussimpiccolo 5, San Paolo, Torino",28/12/2022,€ 95.000,0,2,57 m²,1,R
+"Appartamento via Alfonso La Marmora 41, Crocetta, Torino",23/12/2022,€ 570.000,0,5,180 m²,2,2
+"Trilocale via Andrea Sansovino 95, Le Vallette, Torino",23/12/2022,€ 126.000,1,3,85 m²,1,6
+"Appartamento corso Re Umberto 94, Crocetta, Torino",09/11/2022,€ 650.000,0,5+,275 m²,3,4
+"Appartamento via 20 Settembre 22, Via Roma, Torino",03/01/2023,€ 970.000,0,5+,230 m²,3+,6
+"Bilocale via Sospello 143, Borgo Vittoria, Torino",22/12/2022,€ 49.900,0,2,55 m²,1,6
+"Trilocale corso Moncalieri 19, Gran Madre - Crimea, Torino",30/11/2022,€ 240.000,0,3,90 m²,1,3
+"Bilocale via Candiolo 26, Mirafiori Sud - Onorato Vigliani, Torino",28/11/2022,€ 65.000,0,2,50 m²,1,R
+"Bilocale via Spalato 98, San Paolo, Torino",03/12/2022,€ 179.000,0,2,68 m²,1,
+"Trilocale via Alassio 10, Lingotto, Torino",03/01/2023,€ 129.000,0,3,75 m²,1,3
+"Attico via Bistagno 26, Santa Rita, Torino",03/01/2023,€ 149.000,0,2,67 m²,1,
+"Attico corso Toscana 182, Lucento, Torino",28/11/2022,€ 169.000,0,4,144 m²,2,7
+"Trilocale via Bernardo De Canal 47, Mirafiori Nord, Torino",16/12/2022,€ 105.000,0,3,85 m²,1,1
+"Trilocale via Pinchia 15/42, Centro Europa, Torino",21/12/2022,€ 149.000,0,3,75 m²,1,3
+"Trilocale via Ilarione Petitti 13, San Salvario - Dante, Torino",24/11/2022,€ 230.000,0,3,86 m²,1,2
+"Trilocale via Carolina Invernizio, Mirafiori Nord, Torino",02/12/2022,€ 140.000,0,3,90 m²,1,5
+"Quadrilocale piazza Francesco Crispi 61, Barriera di Milano, Torino",14/09/2022,€ 100.000,0,4,85 m²,1,3
+"Appartamento via Volpianoo 5, Barriera di Milano, Torino",22/12/2022,€ 129.000,0,5,125 m²,1,T
+"Trilocale corso Racconigi 20, Cenisia, Torino",16/12/2022,€ 190.000,0,3,80 m²,1,3
+"Appartamento via Gravere 13, Parella, Torino",08/09/2022,€ 380.000,0,5,132 m²,2,3
+"Bilocale corso Vercelli 88, Barriera di Milano, Torino",22/12/2022,€ 49.900,0,2,65 m²,2,T
+"Bilocale Strada del Portone, Mirafiori Sud - Strada del Drosso, Torino",29/12/2022,€ 99.000,0,2,65 m²,1,5
+"Appartamento via Bernardo De Canal 44, Mirafiori Nord, Torino",05/11/2022,€ 268.000,0,5,142 m²,2,3
+"Bilocale via Brione 10, Campidoglio, Torino",06/09/2022,€ 98.000,0,2,57 m²,1,
+"Attico corso Alessandro Tassoni 4, San Donato, Torino",03/01/2023,€ 1.390.000,0,5+,290 m²,2,10
+"Attico via Ludovico Bellardi 21/bis, Parella, Torino",03/11/2022,€ 199.000,0,5,115 m²,1,5
+"Quadrilocale viale 25 Aprile 10, Cavoretto, Torino",12/09/2022,€ 330.000,0,4,143 m²,2,
+"Bilocale via Gabriele Chiabrera 35, San Salvario - Dante, Torino",29/12/2022,€ 390.000,0,2,86 m²,2,1
+"Quadrilocale via Gabriele Chiabrera 35, San Salvario - Dante, Torino",29/12/2022,€ 460.000,0,4,106 m²,2,2
+"Trilocale via Principe Tommaso, San Salvario - Baretti, Torino",02/01/2023,€ 99.000,0,3,70 m²,1,4
+"Appartamento via Gabriele Chiabrera 35, San Salvario - Dante, Torino",29/12/2022,€ 1.170.000,0,5+,226 m²,3+,3
+"Appartamento via Buenos Aires 106, Santa Rita, Torino",24/11/2022,€ 290.000,0,5,150 m²,2,1
+"Trilocale via Mario Crimi 15, Lucento, Torino",12/12/2022,€ 75.000,0,3,78 m²,1,1
+"Appartamento corso Alessandro Tassoni 4, San Donato, Torino",03/01/2023,€ 890.000,0,5,189 m²,3,9
+"Bilocale corso Orbassano 272, Mirafiori Nord, Torino",19/12/2022,€ 109.000,0,2,57 m²,1,4
+"Quadrilocale corso Lucio Quinzio Cincinnato 140, Lucento, Torino",30/11/2022,€ 149.000,0,4,140 m²,2,3
+"Appartamento via Giovanni Servais 176/6, Parella, Torino",06/12/2022,€ 570.000,0,5+,240 m²,3+,4
+"Quadrilocale via Giuseppe Garibaldi 57, Cittadella, Torino",09/11/2022,€ 370.000,0,4,120 m²,1,2
+"Bilocale via Saluzzo 32, San Salvario - Baretti, Torino",26/10/2022,€ 168.000,0,2,69 m²,1,3
+"Quadrilocale via Sostegno 83, Parella, Torino",05/12/2022,€ 295.000,0,4,121 m²,2,4
+"Trilocale via Candiolo 26, Mirafiori Sud - Onorato Vigliani, Torino",28/11/2022,€ 125.000,0,3,80 m²,1,2
+"Quadrilocale via Francesco Cigna 119, Barriera di Milano, Torino",01/12/2022,€ 195.000,0,4,97 m²,2,1
+"Quadrilocale via Frejus 118, Cenisia, Torino",30/11/2022,€ 209.000,0,4,110 m²,2,T
+"Appartamento via Bainsizza 16, Santa Rita, Torino",03/01/2023,€ 198.000,0,5,120 m²,1,6
+"Quadrilocale corso Duca degli Abruzzi 62, Crocetta, Torino",23/11/2022,€ 350.000,0,4,110 m²,1,5
+"Trilocale corso Francesco Ferrucci 96, Cenisia, Torino",02/11/2022,€ 230.000,0,3,83 m²,1,5
+"Bilocale via Piossasco 11, Aurora, Torino",16/12/2022,€ 59.900,0,2,60 m²,1,2
+"Loft via dell'Accademia Albertina 31, Via della Rocca, Torino",28/12/2022,€ 512.000,0,3,140 m²,3,T
+"Bilocale via Candido Viberti 25, Pozzo Strada, Torino",30/12/2022,€ 108.000,0,2,56 m²,1,R
+"Quadrilocale via Exilles, Parella, Torino",16/12/2022,€ 119.000,0,4,90 m²,2,1
+"Appartamento corso Re Umberto 38, Crocetta, Torino",28/12/2022,€ 795.000,0,5+,240 m²,3+,2
+"Appartamento via Gobetti, Via Roma, Torino",19/12/2022,€ 1.180.000,0,5,145 m²,2,6
+"Villa bifamiliare Strada del Fioccardo 202/12, Cavoretto, Torino",26/10/2022,€ 820.000,0,5+,390 m²,3+,
+"Appartamento via Caraglio 7, San Paolo, Torino",27/12/2022,€ 188.000,0,5,120 m²,1,R
+"Trilocale corso Potenza 158, Madonna di Campagna, Torino",26/12/2022,€ 178.450,0,3,83 m²,2,3
+"Quadrilocale corso Re Umberto 57, Crocetta, Torino",25/11/2022,€ 595.000,0,4,163 m²,2,3
+"Loft via Nuoro 42, Santa Rita, Torino",12/12/2022,€ 149.000,0,3,75 m²,1,T
+"Loft via Saluzzo 29, San Salvario - Baretti, Torino",23/12/2022,€ 230.000,0,2,55 m²,1,T
+"Bilocale via Antonio Banfo 56, Barriera di Milano, Torino",22/12/2022,€ 24.900,0,2,52 m²,1,3
+"Bilocale corso Potenza 158, Madonna di Campagna, Torino",26/12/2022,€ 133.300,0,2,62 m²,1,3
+"Appartamento via Roma 333, Via Roma, Torino",30/12/2022,€ 868.000,0,5,185 m²,2,3
+"Quadrilocale via Giovanni Bovetti 12, Mirafiori Sud - Onorato Vigliani, Torino",04/12/2022,€ 114.000,0,4,115 m²,1,5
+"Appartamento via Graglia 6, Santa Rita, Torino",27/12/2022,€ 440.000,1,5,200 m²,2,4
+"Monolocale via Passalacqua 3, Cittadella, Torino",29/12/2022,€ 105.000,0,1,41 m²,1,T
+"Trilocale via Monginevro 138, Pozzo Strada, Torino",02/01/2023,€ 159.000,0,3,87 m²,1,
+"Appartamento corso San Maurizio 73, Vanchiglia, Torino",07/12/2022,€ 450.000,0,5+,205 m²,2,
+"Appartamento via pollenzo 49, San Paolo, Torino",27/12/2022,€ 229.000,0,5,135 m²,2,1
+"Quadrilocale corso Orbassano 76, Santa Rita, Torino",30/12/2022,€ 365.000,0,4,145 m²,2,3
+"Quadrilocale Strada della Magra, Barca, Torino",23/11/2022,€ 128.000,0,4,90 m²,2,8
+"Bilocale via Riva del Garda 8, Mirafiori Nord, Torino",26/11/2022,€ 105.000,0,2,60 m²,1,1
+"Bilocale via Matera, 15, Santa Rita, Torino",07/12/2022,€ 109.000,0,2,60 m²,1,4
+"Appartamento corso Taranto, Regio Parco, Torino",24/11/2022,€ 99.000,0,5,95 m²,1,R
+"Appartamento corso Monte Grappa 61, Parella, Torino",19/12/2022,€ 472.000,0,5,143 m²,2,6
+"Appartamento corso Galileo Ferraris 140, Crocetta, Torino",13/12/2022,€ 450.000,0,5+,198 m²,2,1
+"Monolocale via Montello 3, Madonna di Campagna, Torino",18/11/2022,€ 28.000,0,1,25 m²,1,5
+"Bilocale via Nicola Porpora 29/25, Rebaudengo, Torino",21/12/2022,€ 62.900,0,2,51 m²,1,
+"Trilocale via Asiago 71, Pozzo Strada, Torino",29/12/2022,€ 82.000,0,3,65 m²,1,T
+"Trilocale via Botero, Quadrilatero Romano, Torino",30/11/2022,€ 365.000,0,3,146 m²,2,1
+"Quadrilocale via Roma 305, Via Roma, Torino",05/12/2022,€ 519.000,0,4,89 m²,1,3
+"Loft via Veglia 10, Santa Rita, Torino",15/11/2022,€ 280.000,0,4,122 m²,2,T
+"Appartamento via San Francesco d'Assisi, Quadrilatero Romano, Torino",06/12/2022,€ 650.000,0,5+,270 m²,3+,1
+"Trilocale via Sandro Botticelli 180, Regio Parco, Torino",03/10/2022,€ 95.000,0,3,95 m²,1,2
+"Bilocale via Enrico Dandolo 4, Mirafiori Nord, Torino",27/12/2022,€ 90.000,0,2,60 m²,1,6
+"Trilocale via Ormea 81, San Salvario - Dante, Torino",17/10/2022,€ 157.000,0,3,80 m²,1,2
+"Appartamento corso San Maurizio 36, Giardini Reali, Torino",28/09/2022,€ 395.000,0,5,162 m²,1,5
+"Trilocale piazza Vittorio Veneto, Giardini Reali, Torino",26/09/2022,€ 580.000,0,3,70 m²,1,6
+"Appartamento corso Principe Oddone 38, Aurora, Torino",07/12/2022,€ 135.000,0,5,120 m²,1,1
+"Quadrilocale via Saluzzo 23, San Salvario - Baretti, Torino",13/12/2022,€ 249.000,0,4,108 m²,2,1
+"Appartamento corso Fiume, Gran Madre - Crimea, Torino",30/12/2022,€ 1.080.000,0,5+,243 m²,3,
+"Appartamento via San Pio V, San Salvario - Baretti, Torino",14/12/2022,€ 465.000,0,5,143 m²,2,2
+"Trilocale via Paolo Sarpi 56, Santa Rita, Torino",18/11/2022,€ 129.000,0,3,73 m²,1,5
+"Quadrilocale via Melezet 11, Parella, Torino",30/11/2022,€ 179.000,0,4,110 m²,1,2
+"Quadrilocale via Buenos Aires 18, Santa Rita, Torino",07/12/2022,€ 265.000,0,4,110 m²,2,2
+"Bilocale via Conte di Roccavione 107, Borgo Vittoria, Torino",02/01/2023,€ 45.000,0,2,46 m²,1,
+"Trilocale corso TASSONI 2, San Donato, Torino",06/12/2022,€ 330.000,0,3,92 m²,1,1
+"Attico via Antonio Canova 24, San Salvario - Dante, Torino",14/12/2022,€ 310.000,0,4,110 m²,1,5
+"Bilocale corso Francia 123, Cit Turin, Torino",05/12/2022,€ 109.000,0,2,53 m²,1,T
+"Trilocale via Pordenone 6, Santa Rita, Torino",22/11/2022,€ 132.000,0,3,75 m²,1,4
+"Trilocale via Oropa 58/4, Vanchiglietta, Torino",03/01/2023,€ 159.000,0,3,80 m²,1,2
+"Quadrilocale via Principi d'Acaja 20, Cit Turin, Torino",29/11/2022,€ 244.000,0,4,108 m²,2,R
+"Bilocale via Saverio Mercadante 95, Barriera di Milano, Torino",14/12/2022,€ 65.000,0,2,69 m²,1,2
+"Bilocale via Bologna 107, Barriera di Milano, Torino",14/12/2022,€ 73.000,1,2,60 m²,1,2
+"Bilocale via Francesco Morosini 12, Crocetta, Torino",21/12/2022,€ 189.000,0,2,75 m²,1,
+"Trilocale corso Dante Alighieri 2, San Secondo, Torino",29/12/2022,€ 280.000,0,3,121 m²,1,5
+"Appartamento via Asiago 34, Pozzo Strada, Torino",08/09/2022,€ 250.000,0,5,138 m²,3,1
+"Trilocale corso Emilia 35, Aurora, Torino",29/12/2022,€ 84.000,0,3,70 m²,1,4
+"Trilocale via Giovanni Cena 2, Rebaudengo, Torino",12/12/2022,€ 99.000,0,3,70 m²,1,7
+"Trilocale via Carlo Alberto  47, Via Roma, Torino",20/09/2022,€ 378.000,0,3,73 m²,1,3
+"Monolocale via Evangelista Torricelli 38, Crocetta, Torino",13/12/2022,€ 55.000,0,1,15 m²,1,T
+"Trilocale corso Novara 36, Aurora, Torino",19/10/2022,€ 109.000,0,3,87 m²,1,2
+"Quadrilocale via Vincenzo Monti 40, San Salvario - Dante, Torino",13/12/2022,€ 420.000,0,4,112 m²,2,2
+"Bilocale via Melchiorre Voli 8, Mirafiori Nord, Torino",07/06/2022,€ 80.000,0,2,44 m²,1,2
+"Appartamento piazza Lorenzo Bernini, Cit Turin, Torino",30/12/2022,€ 660.000,0,5,164 m²,3,5
+"Trilocale via Amedeo Peyron 54, San Donato, Torino",19/12/2022,€ 195.000,0,3,80 m²,1,2
+"Appartamento piazza Lorenzo Bernini, Cit Turin, Torino",30/12/2022,€ 890.000,0,5+,189 m²,3,9
+"Trilocale via Vincenzo Lancia 116, Pozzo Strada, Torino",16/03/2022,€ 90.000,0,3,60 m²,1,1
+"Loft via Giuseppe Garibaldi 18, Quadrilatero Romano, Torino",28/11/2022,€ 130.000,0,1,35 m²,1,T
+"Quadrilocale nuovo, quarto piano, Barriera di Milano, Torino",16/12/2022,€ 158.000,0,4,120 m²,2,
+"Trilocale corso Re Umberto 144, Santa Rita, Torino",24/11/2022,€ 160.000,0,3,70 m²,1,3
+"Appartamento corso Vittorio Emanuele, 233, Cenisia, Torino",20/10/2022,€ 380.000,0,5,140 m²,1,5
+"Villa unifamiliare, buono stato, 675 m², Colle della Maddalena, Torino",28/12/2022,€ 735.000,0,5+,675 m²,3+,
+"Bilocale via Gaetano Mosca 18, Borgo Vittoria, Torino",18/01/2022,€ 39.000,0,2,57 m²,1,R
+"Open space via Nicola Fabrizi 92, Parella, Torino",13/12/2022,€ 106.000,0,3,82 m²,1,R
+"Bilocale corso Regina Margherita 86BIS, Vanchiglia, Torino",01/07/2022,€ 149.000,0,2,61 m²,1,T
+"Appartamento corso Fiume 10, Gran Madre - Crimea, Torino",28/11/2022,Prezzo su richiesta,0,5+,246 m²,2,1
+"Trilocale via Raffaele Cadorna 33, Santa Rita, Torino",29/12/2022,€ 128.000,0,3,80 m²,1,3
+"Attico via Paolo Sacchi 28, San Secondo, Torino",13/12/2022,€ 520.000,0,4,176 m²,2,4
+"Quadrilocale via Riccardo Sineo 3, Vanchiglia, Torino",26/10/2022,€ 248.000,0,4,95 m²,1,1
+"Bilocale via della Rocca 39, Via della Rocca, Torino",28/10/2022,€ 210.000,0,2,66 m²,1,1
+"Trilocale via Medail 23, San Donato, Torino",14/06/2022,€ 170.000,0,3,82 m²,1,4
+"Bilocale via Raffaele Cadorna 30, Santa Rita, Torino",01/12/2022,€ 105.000,0,2,55 m²,1,2
+"Loft via Gravere 15, Parella, Torino",15/02/2022,€ 79.000,0,2,45 m²,1,T
+"Trilocale ottimo stato, quarto piano, Madonna del Pilone, Torino",20/06/2022,€ 200.000,0,3,86 m²,2,4
+"Bilocale da ristrutturare, primo piano, Nizza Millefonti, Torino",20/06/2022,€ 70.000,0,2,45 m²,1,1
+"Quadrilocale corso ferrucci, 27, Cit Turin, Torino",03/01/2023,€ 337.000,0,4,126 m²,2,6
+"Trilocale via Luigi Ferdinando Marsigli 98, Pozzo Strada, Torino",10/12/2022,€ 179.000,0,3,70 m²,1,2
+"Trilocale via Pomba 27, Via Roma, Torino",12/12/2022,€ 320.000,0,3,89 m²,2,1
+"Trilocale via Maria Vittoria 6, Via Roma, Torino",09/09/2022,€ 246.000,0,3,80 m²,1,4
+"Bilocale via Conte Luigi Tarino 7, Vanchiglia, Torino",02/12/2022,€ 165.000,0,2,65 m²,1,1
+"Quadrilocale via Crevacuore 9, Parella, Torino",28/12/2022,€ 180.000,0,4,95 m²,1,3
+"Bilocale via Nizza 26, San Secondo, Torino",08/09/2022,€ 114.000,0,2,35 m²,1,3
+"Quadrilocale piazza Tancredi Galimberti 11, Lingotto, Torino",19/09/2022,€ 163.000,0,4,105 m²,1,2
+"Bilocale via Pietro Baiardi, Nizza Millefonti, Torino",15/11/2022,€ 109.000,0,2,70 m²,1,R
+"Appartamento piazza Sofia 29, Regio Parco, Torino",19/12/2022,€ 297.000,0,5+,268 m²,3,
+"Bilocale via Foggia 19, Aurora, Torino",16/12/2022,€ 118.000,0,2,49 m²,1,
+"Loft via Giuseppe Garibaldi 18, Quadrilatero Romano, Torino",28/11/2022,€ 170.000,0,2,70 m²,1,T
+"Bilocale via Don Giovanni Bosco, Don Bosco, Torino",29/10/2022,€ 68.000,0,2,60 m²,1,2
+"Appartamento corso Dante 101, San Salvario - Dante, Torino",01/09/2022,€ 1.650.000,0,5+,330 m²,3,8
+"Quadrilocale via Oropa 110, Vanchiglietta, Torino",30/11/2022,€ 268.000,0,4,95 m²,2,1
+"Trilocale via Poirino 24, Lingotto, Torino",01/12/2022,€ 125.000,0,3,80 m²,1,4
+"Trilocale corso Piero Maroncelli 4BIS, Italia 61, Torino",30/12/2022,€ 109.000,0,3,80 m²,1,4
+"Appartamento via SAN FRANCESCO DA PAOLA, Via della Rocca, Torino",21/12/2022,Prezzo su richiesta,0,5,120 m²,1,3
+"Appartamento corso Monte Grappa 58, Parella, Torino",13/12/2022,€ 258.000,0,5,140 m²,2,1
+"Quadrilocale via Anton Giulio Barrili 22, Santa Rita, Torino",28/12/2022,€ 299.000,0,4,103 m²,1,3
+"Bilocale corso Belgio 116, Vanchiglietta, Torino",20/09/2022,€ 99.000,0,2,50 m²,1,5
+"Bilocale via Aosta 44, Aurora, Torino",28/12/2022,€ 59.900,0,2,58 m²,1,3
+"Trilocale via Sandro Botticelli 168, Regio Parco, Torino",26/11/2022,€ 79.000,0,3,75 m²,1,2
+"Bilocale via Santa Maria 2, Quadrilatero Romano, Torino",18/11/2022,€ 128.000,0,2,45 m²,1,1
+"Quadrilocale via Francesco Petrarca 26, San Salvario - Dante, Torino",23/12/2022,€ 390.000,0,4,113 m²,2,3
+"Trilocale Strada di Altessano 130, Le Vallette, Torino",29/12/2022,€ 169.000,0,3,86 m²,1,7 - 8
+"Trilocale via Bologna 93, Barriera di Milano, Torino",10/12/2022,€ 89.900,0,3,79 m²,1,2
+"Quadrilocale via Luigi Ferdinando Marsigli 7D, Pozzo Strada, Torino",26/08/2022,€ 371.000,0,4,117 m²,2,
+"Trilocale via Gottardo 209, Regio Parco, Torino",28/12/2022,€ 129.000,0,3,91 m²,1,
+"Mansarda via Matteo Pescatore, Giardini Reali, Torino",30/07/2022,€ 112.000,0,2,60 m²,1,4
+"Trilocale via Venaria 73, Madonna di Campagna, Torino",11/07/2022,€ 129.000,0,3,85 m²,1,3
+"Trilocale via Onorato Vigliani 11/1, Mirafiori Sud - Onorato Vigliani, Torino",28/12/2022,€ 139.000,1,3,82 m²,1,
+"Trilocale corso San Maurizio, Giardini Reali, Torino",04/07/2022,€ 219.000,0,3,88 m²,1,3
+"Quadrilocale piazza Vittorio Veneto, Giardini Reali, Torino",28/12/2022,€ 330.000,0,4,142 m²,1,2
+"Trilocale corso Orbassano 244, Santa Rita, Torino",13/10/2022,€ 111.000,0,3,69 m²,1,2
+"Bilocale via Buenos Aires 53, Santa Rita, Torino",31/10/2022,€ 89.000,0,2,57 m²,1,6
+"Attico via Gabriele Chiabrera 35, San Salvario - Dante, Torino",29/12/2022,Prezzo su richiesta,0,5+,286 m²,3+,4 - 5
+"Appartamento buono stato, quinto piano, Crocetta, Torino",24/11/2022,€ 350.000,0,145 m²,2,5,
+"Trilocale via Giuseppe Mazzini 56, Via della Rocca, Torino",24/11/2022,€ 275.000,0,3,80 m²,1,1
+"Mansarda via Cernaia 32, Cittadella, Torino",30/09/2022,€ 75.000,0,1,20 m²,1,5
+"Mansarda via Rimini 9/3, Vanchiglietta, Torino",13/12/2022,€ 109.000,0,2,45 m²,1,5
+"Trilocale corso Chieti 20, Vanchiglietta, Torino",03/11/2022,€ 159.000,0,3,65 m²,1,7
+"Bilocale via Francesco De Sanctis 80, Pozzo Strada, Torino",16/12/2022,€ 69.000,0,2,72 m²,1,R
+"Trilocale via Verres 42, Barriera di Milano, Torino",01/08/2022,€ 118.000,0,3,94 m²,1,3
+"Mansarda via Sant'Antonio da Padova 2, Cittadella, Torino",29/12/2022,€ 380.000,0,3,138 m²,2,6
+"Quadrilocale via Defendente De Ferrari, Parco Dora, Torino",07/12/2022,€ 268.000,0,4,120 m²,2,2
+"Appartamento via Frejus 6, Cenisia, Torino",15/10/2022,€ 419.000,0,5,135 m²,2,7
+"Quadrilocale via Caprie 18, Cit Turin, Torino",28/12/2022,€ 390.000,0,4,110 m²,2,4
+"Bilocale via Guastalla 25, Vanchiglia, Torino",09/11/2022,€ 130.000,0,2,63 m²,1,R
+"Trilocale corso Cosenza 95, Mirafiori Nord, Torino",06/07/2022,€ 160.000,0,3,80 m²,1,8
+"Bilocale via Francesco Camandona 16, Campidoglio, Torino",27/12/2022,€ 99.000,0,2,50 m²,1,R
+"Trilocale corso Francia 27, Cit Turin, Torino",11/10/2022,€ 319.000,0,3,107 m²,2,T
+"Appartamento corso Svizzera 143, Lucento, Torino",13/12/2022,€ 249.000,0,5,120 m²,3,6
+"Quadrilocale via della Consolata, Quadrilatero Romano, Torino",09/12/2022,€ 269.000,0,4,120 m²,2,5
+"Appartamento via della Consolata, 15, Quadrilatero Romano, Torino",04/11/2022,€ 315.000,0,5,120 m²,1,1
+"Trilocale via Sospello 144, Borgo Vittoria, Torino",14/12/2022,€ 89.000,0,3,81 m²,1,2
+"Appartamento corso Re Umberto, Crocetta, Torino",02/12/2022,€ 386.000,0,5+,144 m²,2,7
+"Quadrilocale piazza Dante Livio Bianco 4, Mirafiori Nord, Torino",03/01/2023,€ 229.000,0,4,114 m²,1,9
+"Trilocale via Lomellina 53, Madonna del Pilone, Torino",28/12/2022,€ 320.000,0,3,93 m²,1,T
+"Trilocale via Nizza 389/3, Nizza Millefonti, Torino",27/12/2022,€ 195.000,0,3,83 m²,1,1
+"Mansarda corso Vinzaglio, Cittadella, Torino",13/12/2022,€ 266.000,0,3,95 m²,1,5
+"Cascina corso Regina Margherita, Le Vallette, Torino",30/12/2022,€ 124.000,0,200 m²,,,
+"Trilocale via Borgaro, Madonna di Campagna, Torino",30/12/2022,€ 124.000,0,3,88 m²,1,
+"Appartamento corso Massimo d'Azeglio  106, San Salvario - Dante, Torino",28/11/2022,Prezzo su richiesta,0,5,237 m²,3,4
+"Villa unifamiliare Strada Comunale di San Vito Revigliasco, Colle della Maddalena, Torino",26/10/2022,€ 850.000,0,530 m²,3+,,
+"Trilocale corso Germano Sommeiller 12, San Secondo, Torino",19/12/2022,€ 159.000,0,3,78 m²,1,1
+"Quadrilocale via Lombardore, Barriera di Milano, Torino",15/12/2022,€ 89.000,0,4,94 m²,1,2
+"Trilocale via Pergolesi, Regio Parco, Torino",09/12/2022,€ 115.000,0,3,89 m²,1,9
+"Trilocale via Bologna 190B, Regio Parco, Torino",14/11/2022,€ 60.000,0,3,71 m²,1,2
+"Appartamento via Camandona 6, Campidoglio, Torino",05/10/2022,€ 148.000,0,70 m²,1,1,
+"Appartamento corso Giulio Cesare, Aurora, Torino",16/11/2022,€ 179.000,0,5,111 m²,1,5
+"Loft via Giuseppe Giacosa 4, San Salvario - Dante, Torino",12/12/2022,€ 280.000,0,2,83 m²,2,T
+"Appartamento via Cosseria 9, Gran Madre - Crimea, Torino",15/06/2022,Prezzo su richiesta,0,5+,325 m²,3+,
+"Trilocale viale dei Mughetti 9, Le Vallette, Torino",19/12/2022,€ 130.000,0,3,94 m²,2,
+"Villa unifamiliare corso Chieri, Superga, Torino",07/12/2022,€ 440.000,0,5+,300 m²,3,
+"Loft via Michele Kerbaker 3, Mirafiori Sud - Onorato Vigliani, Torino",09/12/2022,€ 290.000,0,3,137 m²,2,T
+"Appartamento corso Monte Cucco 154, Pozzo Strada, Torino",14/06/2022,€ 298.000,0,5,156 m²,2,1
+"Quadrilocale via Filadelfia 130, Santa Rita, Torino",30/12/2022,€ 309.000,0,4,130 m²,1,9
+"Trilocale buono stato, nono piano, Regio Parco, Torino",03/01/2023,€ 89.000,0,3,80 m²,1,9
+"Bilocale via Guido Reni 211, Mirafiori Nord, Torino",04/10/2022,€ 95.000,0,2,67 m²,1,7
+"Trilocale ottimo stato, terzo piano, Borgo Vittoria, Torino",22/11/2022,€ 68.000,0,3,70 m²,1,3
+"Trilocale buono stato, terzo piano, Mirafiori Sud - Onorato Vigliani, Torino",19/10/2022,€ 75.000,0,3,80 m²,1,3
+"Loft via Alessandro Volta 8, Via Roma, Torino",28/12/2022,€ 495.000,0,4,105 m²,2,1
+"Appartamento piazza Castello, Giardini Reali, Torino",19/12/2022,€ 469.000,0,5+,145 m²,1,3
+"Bilocale corso Moncalieri 333, Cavoretto, Torino",19/12/2022,€ 80.000,1,2,64 m²,1,3
+"Appartamento corso Galileo Ferraris, Crocetta, Torino",22/07/2022,Prezzo su richiesta,0,5+,390 m²,3+,3
+"Attico via Issiglio, San Paolo, Torino",02/01/2023,€ 660.000,0,5,160 m²,2,15
+"Quadrilocale via MARIA VITTORIA, Via della Rocca, Torino",21/12/2022,€ 260.000,0,4,73 m²,1,T
+"Appartamento via Mombasiglio, Santa Rita, Torino",05/10/2022,€ 620.000,0,5,180 m²,2,2
+"Mansarda nuovo, 140 m², Cavoretto, Torino",19/01/2022,€ 465.000,0,4,140 m²,2,A
+"Quadrilocale via Borgone 33, Pozzo Strada, Torino",28/12/2022,€ 184.000,0,4,95 m²,2,R
+"Appartamento in villa, ottimo stato, 366 m², Sassi, Torino",28/12/2022,Prezzo su richiesta,0,5+,366 m²,3,
+"Quadrilocale corso Regina Margherita 3., Vanchiglia, Torino",23/12/2022,€ 320.000,0,4,120 m²,6,
+"Trilocale Strada Antica di Grugliasco 306, Pozzo Strada, Torino",21/11/2022,€ 153.000,0,3,85 m²,1,7
+"Trilocale via Filadelfia 40, Lingotto, Torino",19/12/2022,€ 110.000,0,3,75 m²,3,
+"Trilocale via Carlo Vidua, San Donato, Torino",20/12/2022,€ 134.000,0,3,110 m²,1,4
+"Quadrilocale via Giacinto Collegno, Cit Turin, Torino",30/11/2022,€ 363.000,0,4,110 m²,3,1
+"Bilocale via Monfalcone 55, Santa Rita, Torino",21/12/2022,€ 66.000,0,2,48 m²,3,
+"Appartamento via Bove 14, Crocetta, Torino",19/12/2022,€ 300.000,0,5,111 m²,2,1
+"Bilocale via Feletto 37, Barriera di Milano, Torino",14/11/2022,€ 49.000,0,2,60 m²,1,4
+"Trilocale buono stato, primo piano, Vanchiglietta, Torino",17/12/2022,€ 118.000,0,3,62 m²,1,1
+"Trilocale corso Potenza 6, Lucento, Torino",06/12/2022,€ 169.000,0,3,90 m²,1,1
+"Trilocale corso Svizzera 34, Campidoglio, Torino",12/12/2022,€ 147.000,0,3,85 m²,1,R
+"Trilocale Strada di Altessano 42, Lucento, Torino",22/12/2022,€ 108.000,1,3,85 m²,1,1
+"Trilocale corso Marche 10, Parella, Torino",05/12/2022,€ 127.500,0,3,82 m²,1,4
+"Quadrilocale via Aosta 51, Barriera di Milano, Torino",04/11/2022,€ 185.000,0,4,92 m²,2,2
+"Trilocale ottimo stato, terzo piano, Parella, Torino",30/12/2022,€ 198.000,0,3,80 m²,1,3
+"Appartamento ottimo stato, quinto piano, Pozzo Strada, Torino",07/09/2022,€ 460.000,0,5,170 m²,3,
+"Mansarda via Nizza 117, San Salvario - Dante, Torino",13/10/2022,€ 137.000,0,2,57 m²,1,3
+"Trilocale via Vandalino 82/30, Pozzo Strada, Torino",11/10/2022,€ 155.000,0,3,75 m²,6,
+"Villa unifamiliare, buono stato, 403 m², Madonna del Pilone, Torino",29/11/2022,€ 1.200.000,0,5+,403 m²,3+,
+"Terratetto unifamiliare corso Palermo 17, Aurora, Torino",01/12/2022,€ 42.000,0,2,31 m²,1,
+"Casale, ottimo stato, 1200 m², Cavoretto, Torino",23/11/2022,€ 980.000,0,1.200 m²,3+,,
+Palazzo - Edificio in Vendita,27/01/2021,€ 2.800.000,0,3.700 m²,3+,,
+"Appartamento via Gressoney 38, Barriera di Milano, Torino",29/12/2022,€ 208.000,0,5+,117 m²,,
+"Appartamento via delle Pervinche 44B, Le Vallette, Torino",01/12/2022,€ 90.000,0,5,122 m²,,
+"Bilocale via Santa Maria 2, Quadrilatero Romano, Torino",29/12/2022,€ 200.000,0,2,65 m²,1,2
+"Quadrilocale corso Regina Margherita 153, San Donato, Torino",29/12/2022,€ 179.000,0,4,100 m²,1,
+"Quadrilocale via San Domenico 4, Quadrilatero Romano, Torino",29/12/2022,€ 309.000,0,4,130 m²,1,
+"Bilocale via Porta Palatina 2, Quadrilatero Romano, Torino",29/12/2022,€ 199.000,0,2,70 m²,1,
+"Appartamento corso Regina Margherita 153, San Donato, Torino",29/12/2022,€ 239.000,0,5,100 m²,2,
+"Mansarda via Santa Chiara 34, Quadrilatero Romano, Torino",29/12/2022,€ 180.000,0,2,88 m²,1,
+"Trilocale corso Principe Eugenio 1, Cittadella, Torino",29/12/2022,€ 180.000,0,3,94 m²,1,
+"Trilocale corso Principe Eugenio 4, San Donato, Torino",29/12/2022,€ 200.000,1,3,92 m²,1,
+"Quadrilocale corso Re Umberto 127, Crocetta, Torino",28/12/2022,€ 295.000,0,4,119 m²,1,1
+"Trilocale via Luigi Salvatore Cherubini 41, Barriera di Milano, Torino",22/11/2022,€ 90.000,0,3,90 m²,1,6
+Garage - Box in Vendita,24/10/2022,€ 25.000,0,15 m²,T,,
+Garage - Box in Vendita,24/10/2022,€ 28.000,0,22 m²,T,,
+Garage - Box in Vendita,24/10/2022,€ 35.000,0,28 m²,T,,
+"Quadrilocale Strada Antica di Collegno, 190/10, Parella, Torino",24/10/2022,€ 320.000,0,4,124 m²,2,2
+"Quadrilocale Strada Antica di Collegno, 190/10, Parella, Torino",24/10/2022,€ 320.000,0,4,128 m²,2,1
+"Quadrilocale Strada Antica di Collegno, 190/10, Parella, Torino",24/10/2022,€ 335.000,0,4,124 m²,2,3
+"Quadrilocale Strada Antica di Collegno, 190/10, Parella, Torino",24/10/2022,€ 336.000,0,4,132 m²,2,2
+"Quadrilocale Strada Antica di Collegno, 190/10, Parella, Torino",24/10/2022,€ 345.000,0,4,124 m²,2,4
+"Quadrilocale Strada Antica di Collegno, 190/10, Parella, Torino",24/10/2022,€ 349.000,0,4,132 m²,2,3
+"Quadrilocale Strada Antica di Collegno, 190/10, Parella, Torino",24/10/2022,€ 355.000,0,4,160 m²,2,1
+"Quadrilocale Strada Antica di Collegno, 190/10, Parella, Torino",24/10/2022,€ 362.000,0,4,132 m²,2,4
+"Attico Strada Antica di Collegno, 190/10, Parella, Torino",24/10/2022,€ 450.000,0,4,150 m²,2,5
+"Appartamento via Giuseppe Baretti 3, San Salvario - Baretti, Torino",23/12/2022,€ 470.000,0,5+,200 m²,2,2
+"Appartamento via Paolo Gaidano 8, Centro Europa, Torino",30/11/2022,Prezzo su richiesta,0,5+,165 m²,2,1
+"Quadrilocale via Garessio, Nizza Millefonti, Torino",31/10/2022,€ 320.000,0,4,121 m²,1,1
+"Villa unifamiliare Strada Comunale di Superga 322, Superga, Torino",27/10/2022,€ 698.000,0,5+,800 m²,3+,
+"Loft corso Francia 123, Cit Turin, Torino",03/11/2022,€ 349.000,0,3,180 m²,2,
+"Appartamento corso Casale 428, Sassi, Torino",21/12/2022,€ 440.000,0,5+,184 m²,2,
+"Trilocale corso Monte Cucco 23, Pozzo Strada, Torino",13/12/2022,€ 149.000,0,3,82 m²,1,2
+"Quadrilocale via Gian Domenico Cassini 4, Crocetta, Torino",06/12/2022,€ 239.000,0,4,110 m²,1,1
+"Mansarda corso Regina Margherita 144, Aurora, Torino",22/10/2022,€ 220.000,0,4,100 m²,2,3
+"Quadrilocale via Polonghera 52, Cenisia, Torino",14/11/2022,€ 210.000,0,4,82 m²,1,4
+"Trilocale via Onorato Vigliani 164, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 109.000,0,3,90 m²,1,9
+"Quadrilocale corso Filippo Turati 10/B, San Secondo, Torino",13/12/2022,€ 229.000,0,4,109 m²,2,2
+"Quadrilocale via Torrazza Piemonte 3, Mirafiori Sud - Onorato Vigliani, Torino",24/11/2022,€ 175.000,0,4,110 m²,2,5
+"Quadrilocale via Chiesa della Salute 149/9, Borgo Vittoria, Torino",16/11/2022,€ 115.000,0,4,100 m²,1,5
+"Trilocale piazza Tancredi Galimberti 10, Lingotto, Torino",28/11/2022,€ 139.000,0,3,80 m²,1,4
+"Mansarda via Vinadio 20, Cenisia, Torino",15/09/2022,€ 215.000,0,4,74 m²,1,4
+"Trilocale via Sigismondo Gerdil, 5, 10152 Torino Italia, Aurora, Torino",07/12/2022,€ 95.000,0,3,99 m²,2,2
+"Appartamento via CASTELNUOVO DELLE LANZE 15, Santa Rita, Torino",25/11/2022,€ 179.000,0,5,100 m²,1,6
+"Trilocale via San Secondo 43, San Secondo, Torino",13/12/2022,€ 215.000,0,3,70 m²,1,3
+"Appartamento via Trecate 11, Pozzo Strada, Torino",03/01/2023,€ 210.000,0,5,120 m²,2,1
+"Trilocale via Antonio Canova 9, San Salvario - Dante, Torino",27/12/2022,€ 169.000,0,3,75 m²,1,1
+"Quadrilocale via Monte Rosa 59, Barriera di Milano, Torino",30/03/2022,€ 87.000,0,4,100 m²,1,2
+"Appartamento corso Racconigi, San Paolo, Torino",06/12/2022,€ 179.000,0,5,100 m²,2,R
+"Quadrilocale via Monte Rosa 67, Barriera di Milano, Torino",24/11/2022,€ 79.900,0,4,80 m²,1,1
+"Trilocale via Cardinale Maurilio Fossati 26, Pozzo Strada, Torino",20/12/2022,€ 155.000,1,3,98 m²,1,1
+"Trilocale via scarlatti 54, Barriera di Milano, Torino",22/12/2022,€ 99.500,0,3,75 m²,1,4
+"Bilocale via COLLEASCA, 10, Campidoglio, Torino",22/12/2022,€ 169.000,0,2,55 m²,1,1
+"Appartamento via Chiomonte 26, San Paolo, Torino",13/12/2022,€ 209.000,0,5+,125 m²,2,2
+"Appartamento corso Giacomo Matteotti, Cittadella, Torino",11/11/2022,€ 699.000,0,5+,330 m²,3+,4
+"Trilocale via Ugo Ceresero, Barca, Torino",29/12/2022,€ 124.000,0,3,80 m²,1,2
+"Attico corso Vercelli 10, Aurora, Torino",01/12/2022,€ 520.000,0,5,177 m²,2,4
+"Trilocale corso Principe Oddone 60, Aurora, Torino",13/12/2022,€ 145.000,0,3,80 m²,1,2
+"Bilocale via Giuseppe Giacosa 20, San Salvario - Dante, Torino",23/12/2022,€ 249.000,0,2,65 m²,1,1
+"Bilocale via Barletta 67, Santa Rita, Torino",23/12/2022,€ 125.000,0,2,60 m²,1,1
+"Trilocale via Vincenzo Lancia 62, San Paolo, Torino",11/10/2022,€ 189.000,0,3,77 m²,1,
+"Bilocale corso Caio Plinio 82, Mirafiori Sud - Onorato Vigliani, Torino",23/12/2022,€ 52.000,0,2,55 m²,1,5
+"Bilocale via Canelli 83, Mirafiori Nord, Torino",07/11/2022,€ 69.000,0,2,60 m²,1,
+"Bilocale via Salbertrand 83, Parella, Torino",31/10/2022,€ 95.000,0,2,63 m²,1,1
+"Trilocale via Fratelli Carando 7, Santa Rita, Mirafiori Nord, Torino",29/12/2022,€ 145.000,1,3,85 m²,1,4
+"Trilocale via Clemente Damiano Priocca 22, Aurora, Torino",09/11/2022,€ 95.000,0,3,70 m²,1,T
+"Trilocale via Sospello 10, Madonna di Campagna, Torino",11/11/2022,€ 65.000,0,3,60 m²,1,2
+"Quadrilocale via Tripoli 97/A, Santa Rita, Torino",30/12/2022,€ 259.000,0,4,100 m²,2,1
+"Quadrilocale via Bene Vagienna 11, Santa Rita, Torino",29/12/2022,€ 159.000,0,4,90 m²,1,2
+"Quadrilocale via Montezemolo 16, Santa Rita, Torino",29/12/2022,€ 189.000,0,4,100 m²,1,3
+"Loft via Mantova 19, Regio Parco, Torino",28/12/2022,€ 440.000,0,3,180 m²,1,T
+"Quadrilocale corso Lucio Quinzio Cincinnato 159, Lucento, Torino",12/12/2022,€ 90.000,0,4,95 m²,1,3
+"Bilocale corso ORBASSANO 191//4, Santa Rita, Torino",29/12/2022,€ 129.000,0,2,60 m²,1,7
+"Trilocale via Tirreno 131, Santa Rita, Torino",29/12/2022,€ 175.000,0,3,85 m²,1,4
+"Trilocale via delle Pervinche 10, Le Vallette, Torino",06/12/2022,€ 79.000,0,3,70 m²,1,4
+"Bilocale via Veglia 10, Santa Rita, Torino",13/12/2022,€ 123.000,0,2,63 m²,1,5
+"Bilocale via Raffaele Cadorna 30, Santa Rita, Torino",21/12/2022,€ 84.000,0,2,52 m²,1,4
+"Bilocale via SAN MARINO 98, Santa Rita, Torino",29/12/2022,€ 98.000,0,2,50 m²,1,2
+"Quadrilocale via Claudio Luigi Berthollet 8, San Salvario - Baretti, Torino",18/11/2022,€ 178.000,0,4,105 m²,1,3
+"Appartamento via dei Mille 11, Via della Rocca, Torino",15/11/2022,€ 1.150.000,0,5+,274 m²,3,3
+"Terratetto unifamiliare via Rubens Fattorelli 60/8, Barca, Torino",25/10/2022,€ 319.000,0,5+,203 m²,3,
+"Quadrilocale via Gubbio 106, Madonna di Campagna, Torino",10/12/2022,€ 98.000,0,4,100 m²,1,2
+"Appartamento via Silvio Pellico 21, San Salvario - Baretti, Torino",27/12/2022,€ 445.000,0,5,114 m²,2,3
+"Appartamento via Pietro Canonica 1, Città Giardino, Torino",21/12/2022,€ 188.000,0,5,130 m²,2,6
+"Quadrilocale via Buriasco 20/3, Mirafiori Sud - Strada del Drosso, Torino",28/12/2022,€ 155.000,0,4,105 m²,2,6
+"Quadrilocale corso Alcide De Gasperi 47, Crocetta, Torino",16/12/2022,€ 275.000,0,4,105 m²,1,6
+"Appartamento via Pietro Micca, 17, Piazza Solferino, Torino",13/10/2022,€ 670.000,0,5,165 m²,2,3
+"Bilocale via Onorato Vigliani 224, Mirafiori Sud - Onorato Vigliani, Torino",03/01/2023,€ 68.000,0,2,60 m²,1,4
+"Quadrilocale via Ormea 32, San Salvario - Baretti, Torino",18/10/2022,€ 189.000,0,4,100 m²,2,1
+"Appartamento via Veglia, Santa Rita, Torino",07/12/2022,€ 239.000,0,5,115 m²,2,6
+"Bilocale corso Vercelli 163, Rebaudengo, Torino",27/05/2022,€ 65.000,0,2,65 m²,1,4
+"Bilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 190.000,0,2,70 m²,1,M
+"Bilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 190.000,0,2,66 m²,1,M
+"Trilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 190.000,0,3,67 m²,1,M
+"Bilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 192.000,0,2,71 m²,1,M
+"Trilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 195.000,0,3,72 m²,1,M
+"Bilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 210.000,0,2,72 m²,1,A
+"Trilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 225.000,0,3,76 m²,1,A
+"Quadrilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 250.000,0,4,88 m²,1,M
+"Quadrilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 250.000,0,4,91 m²,2,M
+"Quadrilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 260.000,0,4,91 m²,2,M
+"Trilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 270.000,0,3,91 m²,1,A
+"Quadrilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 270.000,0,4,99 m²,2,M
+"Quadrilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 280.000,0,4,99 m²,2,M
+"Quadrilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 285.000,0,4,105 m²,2,M
+"Trilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 295.000,0,3,107 m²,2,M
+"Trilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 295.000,0,3,103 m²,2,M
+"Appartamento Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 320.000,0,5,116 m²,2,M
+"Quadrilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 325.000,0,4,114 m²,2,M
+"Quadrilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 360.000,0,4,121 m²,2,A
+"Trilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 370.000,0,3,126 m²,2,A
+"Quadrilocale Strada Comunale di Bertolla 144, Torino",09/06/2022,€ 370.000,0,4,136 m²,2,M
+"Trilocale via Pramollo 9, Mirafiori Sud - Strada del Drosso, Torino",28/12/2022,€ 86.000,0,3,80 m²,1,1
+"Trilocale corso Casale 276, Madonna del Pilone, Torino",31/12/2022,€ 470.000,0,3,110 m²,2,T
+"Quadrilocale via Chiala 35/40, Mirafiori Sud - Onorato Vigliani, Torino",22/10/2022,€ 89.000,0,4,93 m²,1,3
+"Trilocale via Asinari di Bernezzo 91, Parella, Torino",23/12/2022,€ 140.000,0,3,77 m²,1,2
+"Bilocale via Candiolo 52, Mirafiori Sud - Onorato Vigliani, Torino",06/12/2022,€ 70.000,0,2,42 m²,1,3
+"Bilocale via Borgaro 89, Madonna di Campagna, Torino",16/11/2022,€ 82.000,0,2,65 m²,1,5
+"Bilocale via Ogliaro 34, Santa Rita, Torino",03/01/2023,€ 69.000,0,2,50 m²,1,4
+"Monolocale via Sant'Antonio da Padova, Cittadella, Torino",23/12/2022,€ 42.000,0,1,20 m²,1,4
+"Quadrilocale viale dei Mughetti 5a, Le Vallette, Torino",07/10/2022,€ 129.000,0,4,110 m²,1,4
+"Appartamento corso Francia 66, San Donato, Torino",03/01/2023,€ 430.000,0,5,150 m²,2,1
+"Bilocale via Nicomede Bianchi 3, Parella, Torino",10/12/2022,€ 48.000,0,2,50 m²,1,3
+"Appartamento via Filadelfia 157, Santa Rita, Torino",05/12/2022,€ 258.000,0,5,134 m²,1,
+"Trilocale via Crevacuore 13, Parella, Torino",16/10/2022,€ 79.000,0,3,60 m²,1,1
+"Appartamento corso Monte Grappa 6, Parella, Torino",13/12/2022,€ 298.000,0,5,186 m²,2,1
+"Appartamento via Mazzini 62, Via della Rocca, Torino",21/06/2021,€ 1.190.000,0,5+,270 m²,3+,3
+"Quadrilocale via Cordero di Pamparato, Campidoglio, Torino",15/09/2022,€ 300.000,0,4,135 m²,2,
+"Appartamento via San Domenico 5, Quadrilatero Romano, Torino",24/12/2022,€ 439.000,0,5,210 m²,3+,2
+"Trilocale via San Domenico 5, Quadrilatero Romano, Torino",24/12/2022,€ 275.000,0,3,90 m²,2,1
+"Bilocale via Ceres 9, Campidoglio, Torino",19/12/2022,€ 59.000,0,2,40 m²,1,3
+"Appartamento corso Rosselli 82, Crocetta, Torino",09/11/2022,€ 269.000,0,5,135 m²,1,5
+"Trilocale via Cremona 3, Aurora, Torino",07/12/2022,€ 79.000,0,3,78 m²,1,1
+"Quadrilocale via San Marino 77, Santa Rita, Torino",14/11/2022,€ 185.000,0,4,100 m²,1,6
+"Monolocale via Madama Cristina 52, San Salvario - Dante, Torino",29/12/2022,€ 140.000,0,1,45 m²,1,5
+"Bilocale via Carlo Boucheron, Cittadella, Torino",21/12/2022,€ 116.000,0,2,40 m²,1,T
+"Trilocale corso Svizzera 30, Campidoglio, Torino",02/12/2022,€ 165.000,0,3,85 m²,1,4
+"Bilocale piazza Derna 225, Rebaudengo, Torino",29/12/2022,€ 63.000,0,2,56 m²,1,
+"Quadrilocale via Giovanni Martina 20, Barca, Torino",05/12/2022,€ 210.000,0,4,108 m²,2,
+"Trilocale via Saluzzo 89, San Salvario - Dante, Torino",24/10/2022,€ 179.000,0,3,69 m²,1,1
+"Appartamento via San Marino 50, Santa Rita, Torino",30/11/2022,€ 235.000,0,5,140 m²,2,2
+"Appartamento piazza Bengasi, Mirafiori Sud - Onorato Vigliani, Torino",11/11/2022,€ 185.000,0,5,121 m²,1,
+"Trilocale via Beato Angelico 8, Madonna di Campagna, Torino",26/11/2022,€ 149.000,0,3,83 m²,1,1
+"Quadrilocale via Antonio Giuseppe Bertola, Cittadella, Torino",21/12/2022,€ 356.000,0,4,115 m²,2,1
+"Attico via Cernaia 18, Quadrilatero Romano, Torino",14/11/2022,€ 1.100.000,0,5,156 m²,3,
+"Trilocale via Gorizia 185, Santa Rita, Torino",28/12/2022,€ 99.000,0,3,68 m²,1,R
+"Trilocale via Domodossola 16, Parella, Torino",02/12/2022,€ 139.000,0,3,78 m²,1,2
+"Trilocale via alessandria 39, Aurora, Torino",07/12/2022,€ 65.000,0,3,70 m²,1,T
+"Attico via Cernaia 28, Quadrilatero Romano, Torino",28/11/2022,€ 490.000,0,4,186 m²,2,6
+"Bilocale via gropello 21, Cit Turin, Torino",29/12/2022,€ 59.000,0,2,50 m²,1,5
+"Trilocale corso Lecce 72, Campidoglio, Torino",29/11/2022,€ 175.000,0,3,90 m²,1,2
+"Appartamento corso Gaetano Salvemini 35, Centro Europa, Torino",13/12/2022,€ 185.000,0,5,115 m²,1,4
+"Trilocale via Medail 31, San Donato, Torino",28/12/2022,€ 85.000,0,3,58 m²,1,R
+"Bilocale via Canelli 61, Mirafiori Nord, Torino",23/06/2022,€ 62.000,0,2,48 m²,1,1
+"Trilocale corso MONCALIERI 295, Cavoretto, Torino",21/12/2022,€ 157.000,0,3,65 m²,1,1
+"Quadrilocale via Aosta 8, Aurora, Torino",15/07/2022,€ 180.000,0,4,75 m²,1,4
+"Trilocale via Pio VII 132, Mirafiori Sud - Onorato Vigliani, Torino",15/12/2022,€ 129.000,0,3,80 m²,1,4
+"Quadrilocale corso Moncalieri 466, Cavoretto, Torino",24/02/2022,€ 585.000,0,4,129 m²,2,1
+"Quadrilocale piazza adriano 12, Cit Turin, Torino",01/12/2022,€ 259.000,0,4,110 m²,1,1
+"Appartamento corso Galileo Ferraris 2, Cittadella, Torino",21/10/2022,€ 720.000,0,5+,236 m²,3,3
+"Trilocale corso Belgio 68, Vanchiglietta, Torino",21/09/2022,€ 145.000,0,3,82 m²,1,2
+"Trilocale corso Traiano 14/11, Mirafiori Sud - Onorato Vigliani, Torino",13/12/2022,€ 159.000,0,3,79 m²,1,8
+"Trilocale via Verolengo 148, Lucento, Torino",02/12/2022,€ 65.000,0,3,75 m²,1,2
+"Appartamento via Bruno Buozzi 3, Via Roma, Torino",28/12/2022,€ 690.000,0,5,190 m²,2,4
+"Trilocale corso siracusa 148, Santa Rita, Torino",02/12/2022,€ 119.000,0,3,83 m²,1,4
+"Trilocale corso Grosseto 295, Lucento, Torino",28/12/2022,€ 100.000,0,3,85 m²,1,8
+"Bilocale via Giosuè Borsi 113, Lucento, Torino",16/12/2022,€ 49.000,0,2,49 m²,1,R
+"Appartamento corso Re Umberto 47, Crocetta, Torino",15/11/2022,€ 640.000,0,5+,223 m²,2,3
+"Trilocale Strada San Mauro 19, Barca, Torino",15/09/2022,€ 70.000,0,3,70 m²,1,2
+"Bilocale via garizio 2, Cenisia, Torino",23/12/2022,€ 160.000,0,2,65 m²,1,4
+"Quadrilocale via 20 Settembre 69, Quadrilatero Romano, Torino",16/12/2022,€ 345.000,0,4,106 m²,1,
+"Bilocale Strada San Mauro 37, Barca, Torino",06/12/2022,€ 69.000,0,2,60 m²,1,5
+"Appartamento corso racconigi 42, Cenisia, Torino",06/12/2022,€ 279.000,0,5,130 m²,2,1
+"Bilocale via Edoardo Daneo 10, Mirafiori Nord, Torino",01/12/2022,€ 72.000,0,2,55 m²,1,4
+"Quadrilocale via rubiana, Pozzo Strada, Torino",09/11/2022,€ 275.000,0,4,119 m²,2,
+"Quadrilocale corso racconigi 18, Cenisia, Torino",16/12/2022,€ 239.000,0,4,113 m²,2,6
+"Quadrilocale corso Casale 36, Gran Madre - Crimea, Torino",10/11/2022,€ 240.000,0,4,85 m²,1,
+"Quadrilocale via Locana, Campidoglio, Torino",03/01/2023,€ 173.000,0,4,100 m²,1,6
+"Quadrilocale corso Unione Sovietica, Mirafiori Sud - Onorato Vigliani, Torino",09/12/2022,€ 175.000,0,4,110 m²,1,3
+"Quadrilocale corso Alcide De Gasperi 67, Crocetta, Torino",15/12/2022,€ 459.000,0,4,140 m²,2,5
+"Appartamento corso einaudi 37, Crocetta, Torino",30/12/2022,€ 340.000,0,5,144 m²,2,1
+"Trilocale via Ghemme 14, Parella, Torino",30/12/2022,€ 76.000,0,3,65 m²,1,3
+"Bilocale via Salbertrand 31, Parella, Torino",28/12/2022,€ 139.000,0,2,65 m²,1,6
+"Attico via Caltanissetta 8, Madonna di Campagna, Torino",01/12/2022,€ 65.000,0,3,57 m²,1,
+"Appartamento corso Vinzaglio 14, Cittadella, Torino",29/12/2022,€ 695.000,0,5,165 m²,2,5
+"Bilocale via Giovanni Zambelli, Mirafiori Nord, Torino",02/12/2022,€ 75.000,0,2,54 m²,1,1
+"Appartamento via Vittorio Bottego 5, Crocetta, Torino",03/01/2023,€ 629.000,0,5+,200 m²,3,5
+"Bilocale ottimo stato, primo piano, Mirafiori Nord, Torino",10/11/2022,€ 140.000,0,2,76 m²,1,
+"Trilocale via Francesco Azzi 9/27, Cenisia, Torino",02/12/2022,€ 98.000,0,3,81 m²,1,2
+"Quadrilocale via Gabriele Chiabrera 35, San Salvario - Dante, Torino",29/12/2022,€ 580.000,0,4,125 m²,3,2
+"Appartamento via Roma 333, Via Roma, Torino",30/12/2022,€ 1.345.000,0,5+,288 m²,2,3
+"Bilocale corso Monte Grappa, Parella, Torino",03/01/2023,€ 112.000,0,2,60 m²,1,5
+"Bilocale via Feletto 53, Barriera di Milano, Torino",01/03/2022,€ 35.000,0,2,60 m²,1,3
+"Quadrilocale via Gabriele Chiabrera 35, San Salvario - Dante, Torino",29/12/2022,€ 720.000,0,4,177 m²,3,T
+"Quadrilocale via Gabriele Chiabrera 35, San Salvario - Dante, Torino",29/12/2022,€ 660.000,0,4,142 m²,3,2
+"Appartamento via Giannone 1, Piazza Solferino, Torino",07/11/2022,€ 1.150.000,0,5+,300 m²,3+,2
+"Bilocale corso Alessandro Tassoni 73, Campidoglio, Torino",17/10/2022,€ 168.000,0,2,65 m²,1,1
+"Trilocale via Reggio 24, Regio Parco, Torino",08/11/2022,€ 189.000,0,3,80 m²,1,3
+"Trilocale via Vincenzo Lancia 116, Pozzo Strada, Torino",02/11/2022,€ 129.000,0,3,68 m²,1,2
+"Appartamento corso Peschiera 362, Pozzo Strada, Torino",30/12/2022,€ 250.000,0,5,120 m²,1,1
+"Trilocale piazza Tancredi Galimberti, Lingotto, Torino",03/08/2022,€ 165.000,0,3,70 m²,2,5
+"Trilocale via Giovanni Pacini 65, Barriera di Milano, Torino",18/11/2022,€ 99.000,0,3,70 m²,2,1
+"Monolocale corso Giacomo Matteotti 59, Cittadella, Torino",22/11/2022,€ 159.000,0,1,35 m²,1,6
+"Bilocale via Antonio Vagnone 18, San Donato, Torino",02/12/2022,€ 117.000,0,2,63 m²,1,
+"Bilocale via Metastasio 25, Sassi, Torino",09/11/2022,€ 72.000,0,2,53 m²,1,4
+"Quadrilocale via Valprato 43/4, Aurora, Barriera di Milano, Rebaudengo, Torino",28/12/2022,€ 229.000,0,4,100 m²,2,13
+"Quadrilocale via Giuseppe Macherione 16, Barriera di Lanzo, Torino",29/12/2022,€ 110.000,0,4,105 m²,1,2
+"Attico via Monte Rosa 105, Barriera di Milano, Torino",19/07/2022,€ 459.000,0,5+,211 m²,2,6
+"Appartamento corso San Maurizio 73, Vanchiglia, Torino",07/12/2022,€ 520.000,0,5+,238 m²,3,
+"Appartamento via Giovanni Roveda 14, Mirafiori Sud - Strada del Drosso, Torino",21/11/2022,€ 99.000,0,5,105 m²,1,5
+"Trilocale via Giovanni Battista Pergolesi 86, Regio Parco, Torino",12/12/2022,€ 89.000,0,3,85 m²,1,8
+"Appartamento corso Vercelli 21, Aurora, Torino",28/12/2022,€ 98.000,0,5,115 m²,1,3
+"Appartamento via Roma 333, Via Roma, Torino",30/12/2022,€ 1.135.000,0,5+,247 m²,2,2
+"Appartamento via Ormea 92, San Salvario - Dante, Torino",05/07/2022,€ 380.000,0,5,124 m²,1,3
+"Bilocale corso Vittorio Emanuele II 100, Cittadella, Torino",29/12/2022,€ 270.000,0,2,75 m²,1,1
+"Quadrilocale corso Orbassano 191, Santa Rita, Torino",16/12/2022,€ 290.000,0,4,150 m²,1,7
+"Trilocale via Chivasso 5, Aurora, Torino",20/04/2022,€ 140.000,0,3,81 m²,2,1 - 2
+"Quadrilocale corso regina margherita 288, Lucento, Torino",14/12/2022,€ 139.000,0,4,116 m²,1,5
+"Quadrilocale strada Basse del Lingotto 15, Mirafiori Nord, Torino",18/11/2022,€ 219.000,0,4,104 m²,1,3
+"Trilocale corso Luigi Kossuth 54, Madonna del Pilone, Torino",02/12/2022,€ 178.000,0,3,85 m²,1,1
+"Trilocale corso Orbassano 174, Santa Rita, Torino",14/11/2022,€ 158.000,0,3,82 m²,1,1
+"Trilocale corso Trapani, Pozzo Strada, Torino",01/12/2022,€ 125.000,0,3,71 m²,1,2
+"Trilocale via Saluzzo 16, San Salvario - Baretti, Torino",27/12/2022,€ 290.000,0,3,86 m²,1,2
+"Quadrilocale largo Giovanni Migliara 14, San Donato, Torino",28/12/2022,€ 280.000,0,4,105 m²,2,R
+"Quadrilocale corso potenza 162, Madonna di Campagna, Torino",07/12/2022,€ 199.000,0,4,94 m²,1,
+"Trilocale via Marco Polo 37, Crocetta, Torino",21/10/2022,€ 160.000,0,3,69 m²,1,
+"Quadrilocale via Gaspare Spontini 27, Barriera di Milano, Torino",19/12/2022,€ 120.000,0,4,104 m²,1,2
+"Trilocale corso Peschiera, Pozzo Strada, Torino",23/11/2022,€ 165.000,0,3,90 m²,1,1
+"Attico corso Dante Alighieri 103, San Salvario - Dante, Torino",01/09/2022,€ 1.350.000,0,5,330 m²,3,8
+"Trilocale via Giovanni Giolitti 11, Via Roma, Torino",02/01/2023,€ 350.000,0,3,78 m²,1,5
+"Trilocale via Monte Rosa 74, Barriera di Milano, Torino",14/12/2022,€ 47.000,1,3,85 m²,1,4
+"Appartamento corso Moncalieri 272, Cavoretto, Torino",25/11/2022,€ 179.000,0,5,100 m²,1,R
+"Appartamento corso Moncalieri 271, Cavoretto, Torino",19/01/2022,€ 750.000,0,5+,192 m²,3,4
+"Bilocale via Michele Berrino 15, Barriera di Lanzo, Torino",07/12/2022,€ 89.000,0,2,53 m²,1,4
+"Bilocale corso Traiano 154, Mirafiori Sud - Onorato Vigliani, Torino",14/12/2022,€ 99.000,0,2,60 m²,1,1
+"Quadrilocale via Evangelista Torricelli 61, Crocetta, Torino",05/11/2022,€ 168.000,0,4,84 m²,2,R
+"Trilocale via Giovanni Battista Pergolesi 86, Regio Parco, Torino",23/11/2022,€ 89.000,0,3,86 m²,1,3
+"Trilocale via paolini 6, Cit Turin, Torino",19/12/2022,€ 179.000,0,3,85 m²,1,6
+"Appartamento corso Cosenza 35B, Mirafiori Nord, Torino",20/12/2022,€ 293.000,0,5,179 m²,2,2
+"Appartamento via Ornavasso 19, Parella, Torino",02/01/2023,€ 350.000,0,5,120 m²,2,1
+"Quadrilocale via Vincenzo Steffenone 4, Lingotto, Torino",18/11/2022,€ 205.000,0,4,100 m²,2,5
+"Quadrilocale via Saluzzo 16, San Salvario - Baretti, Torino",27/12/2022,€ 434.000,0,4,128 m²,2,3
+"Bilocale corso Casale 95, Madonna del Pilone, Torino",21/12/2022,€ 65.000,0,2,46 m²,1,2
+"Appartamento via Ugo Foscolo 25, San Salvario - Dante, Torino",17/10/2022,€ 460.000,0,5,160 m²,2,3
+"Trilocale largo Brescia 48, Aurora, Torino",03/12/2022,€ 143.000,0,3,100 m²,1,3
+"Bilocale Verolengo 182, Lucento, Torino",23/11/2022,€ 65.000,0,2,60 m²,1,2
+"Bilocale via Arnaz 7, Pozzo Strada, Torino",28/11/2022,€ 69.000,0,2,63 m²,1,R
+"Appartamento via Sondrio 13, Don Bosco, Torino",24/10/2022,€ 340.000,0,5+,200 m²,3,
+"Bilocale via Michele Coppino 93, Borgo Vittoria, Torino",08/11/2022,€ 59.000,0,2,59 m²,1,6
+"Bilocale corso Moncalieri 271, Cavoretto, Torino",19/01/2022,€ 210.000,0,2,60 m²,1,2
+"Quadrilocale via Francesco Petrarca 26, San Salvario - Dante, Torino",23/12/2022,€ 330.000,0,4,98 m²,2,2
+"Appartamento via Crescentino 22, Barriera di Milano, Torino",10/12/2022,€ 179.000,0,5,149 m²,2,3
+"Appartamento via San Massimiliano Kolbe 16, Barca, Torino",22/12/2022,Prezzo su richiesta,0,5+,198 m²,2,
+"Trilocale nuovo, piano rialzato, San Secondo, Torino",21/12/2022,€ 195.000,0,3,80 m²,1,R
+"Mansarda corso Principe Eugenio 1, Cittadella, Torino",06/10/2022,€ 279.000,0,3,95 m²,1,6
+"Trilocale corso Dante Alighieri 90, San Salvario - Dante, Torino",02/01/2023,€ 225.000,0,3,95 m²,1,R
+"Quadrilocale via Renato Martorelli 8, Barriera di Milano, Torino",02/11/2022,€ 59.000,0,4,102 m²,1,
+"Villa bifamiliare via San Massimiliano Kolbe 16, Barca, Torino",14/11/2022,Prezzo su richiesta,0,5+,553 m²,3+,
+"Bilocale via Montanaro 48, Barriera di Milano, Torino",14/12/2022,€ 48.000,0,2,50 m²,1,5
+"Villa unifamiliare via Moretta, Cenisia, Torino",12/12/2022,€ 790.000,0,5,300 m²,3,
+"Trilocale via Giuseppe Giulietti 6, Parella, Torino",03/12/2022,€ 129.000,0,3,75 m²,1,1
+"Trilocale via Gaetano Casati 9, Pozzo Strada, Torino",30/12/2022,€ 82.000,0,3,80 m²,1,4
+"Monolocale via Nizza 24, San Secondo, Torino",15/09/2022,€ 79.000,0,1,29 m²,1,3
+"Bilocale ottimo stato, piano rialzato, Borgo Vittoria, Torino",21/09/2022,€ 58.000,0,2,45 m²,1,R
+"Trilocale via Tommaso Valperga Caluso, San Salvario - Dante, Torino",12/12/2022,€ 265.000,0,3,80 m²,1,T
+"Appartamento corso Quattro Novembre, Santa Rita, Torino",07/12/2022,€ 215.000,0,5,100 m²,2,2
+"Bilocale via vigliani, Mirafiori Sud - Onorato Vigliani, Torino",25/11/2022,€ 62.000,0,2,63 m²,1,6
+"Trilocale via Caprie 18, Cit Turin, Torino",18/12/2022,€ 290.000,0,3,85 m²,1,3
+"Bilocale via Lanzo, Madonna di Campagna, Torino",09/12/2022,€ 49.000,0,2,48 m²,1,R
+"Bilocale via Viverone 9, Parella, Torino",26/09/2022,€ 47.000,0,2,45 m²,1,T
+"Villa unifamiliare via Calabria, Lucento, Torino",07/12/2022,€ 239.000,0,5,140 m²,2,
+"Quadrilocale via Saluzzo 43, San Salvario - Dante, Torino",29/12/2022,€ 540.000,0,4,130 m²,2,4
+"Appartamento via Millefonti 39, Nizza Millefonti, Torino",29/09/2022,€ 598.000,0,5+,210 m²,3,6
+"Mansarda via Saluzzo 43, San Salvario - Dante, Torino",28/12/2022,€ 215.000,0,2,62 m²,1,5
+"Appartamento via Barbaroux 28E, Quadrilatero Romano, Torino",15/12/2022,€ 450.000,0,5+,135 m²,2,3
+"Bilocale corso Vercelli 235, Rebaudengo, Torino",02/12/2022,€ 114.000,0,2,69 m²,1,
+"Appartamento via Amedeo Modigliani 5, Centro Europa, Torino",29/11/2022,€ 268.000,0,5+,166 m²,3,
+"Monolocale via Nizza 24, San Secondo, Torino",24/12/2022,€ 89.000,0,1,40 m²,1,5
+"Trilocale corso Umbria 8, Parco Dora, Torino",20/10/2022,€ 125.000,0,3,83 m²,1,R
+"Trilocale via Tommaso Grossi 19, San Salvario - Dante, Torino",13/04/2022,€ 120.000,0,3,65 m²,1,4
+"Trilocale via Renato Wuillermin 4, Regio Parco, Torino",14/09/2022,€ 69.000,0,3,59 m²,1,2
+"Villa plurifamiliare via Venaria, Madonna di Campagna, Torino",22/12/2022,€ 429.000,1,5+,500 m²,3+,
+"Terratetto unifamiliare via Cigliano 16, Vanchiglietta, Torino",02/01/2023,€ 399.000,0,4,100 m²,1,
+"Trilocale via Lazzaro Spallanzani 15, Santa Rita, Torino",19/07/2022,€ 150.000,0,3,60 m²,1,4
+"Quadrilocale via Borgone 19, Pozzo Strada, Torino",16/09/2022,€ 175.000,0,4,115 m²,1,1
+"Appartamento ottavo piano, Cenisia, Torino",30/11/2022,€ 325.000,0,5,149 m²,2,8
+"Trilocale via Poirino 24, Lingotto, Torino",21/11/2022,€ 125.000,0,3,80 m²,1,4
+"Appartamento via Luigi Ferdinando Marsigli, Pozzo Strada, Torino",04/10/2022,Prezzo su richiesta,0,5+,168 m²,3,1
+"Bilocale via Balestreri 5, Rebaudengo, Torino",10/05/2022,€ 110.000,0,2,55 m²,1,1
+"Appartamento via Cesare Lombroso 19, San Salvario - Baretti, Torino",22/12/2022,€ 399.000,1,5+,190 m²,2,
+"Bilocale via Padova 5, Aurora, Torino",25/11/2022,€ 57.000,0,2,53 m²,1,T
+"Quadrilocale via Rocco Scotellaro 27, Rebaudengo, Torino",02/01/2023,€ 94.900,0,4,96 m²,1,5
+Palazzo - Edificio in Vendita,04/12/2022,€ 730.000,0,516 m²,3+,,
+"Bilocale via santa maria mazzarello 94, Pozzo Strada, Torino",10/11/2022,€ 97.000,0,2,60 m²,1,9
+"Villa unifamiliare Strada dal Ponte Isabella a San Vito, Gran Madre - Crimea, Torino",25/11/2022,Prezzo su richiesta,0,5+,1.000 m²,3+,
+"Appartamento via Nicola Fabrizi 92, Parella, Torino",14/12/2022,€ 240.000,0,5,180 m²,3,1
+"Trilocale via Xx Settembre 69, Torino",28/12/2022,€ 345.000,0,3,80 m²,1,
+"Quadrilocale piazza Adriano 9, Cenisia, Torino",21/11/2022,€ 329.000,0,4,135 m²,2,4
+"Bilocale via Carlo Alberto 24, Via Roma, Torino",15/12/2022,€ 120.000,0,2,60 m²,1,4 - 5
+Palazzo - Edificio in Vendita,01/12/2022,€ 550.000,0,,,,
+Palazzo - Edificio in Vendita,29/11/2022,Prezzo su richiesta,0,2.220 m²,5,,
+"Quadrilocale via Candiolo 42, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 137.000,0,4,100 m²,1,4
+"Bilocale via Giovanni Pacini 35, Barriera di Milano, Torino",27/10/2022,€ 55.000,0,2,65 m²,1,R
+"Quadrilocale via Antonio Canova 34, San Salvario - Dante, Torino",27/12/2022,€ 209.000,0,4,100 m²,1,1
+"Bilocale via Bernardo De Canal 63, Mirafiori Nord, Torino",22/09/2022,€ 94.000,0,2,60 m²,1,4
+"Trilocale corso Traiano 5, Mirafiori Nord, Torino",02/01/2023,€ 99.000,0,3,70 m²,1,6
+"Bilocale via Pio Foà 86, San Salvario - Dante, Torino",27/12/2022,€ 89.000,0,2,55 m²,1,4
+"Trilocale corso ORBASSANO 242, Santa Rita, Torino",13/12/2022,€ 115.000,0,3,70 m²,1,1
+"Trilocale corso Traiano 150, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 149.000,0,3,90 m²,1,9
+"Bilocale corso Vercelli 181, Rebaudengo, Torino",21/12/2022,€ 59.000,0,2,65 m²,1,3
+"Bilocale via Brandizzo 96, Barriera di Milano, Torino",10/09/2022,€ 57.000,0,2,58 m²,1,1
+"Bilocale via Breglio 24, Borgo Vittoria, Torino",24/11/2022,€ 75.000,0,2,65 m²,1,1
+"Appartamento viale 25 Aprile 172, Cavoretto, Torino",18/10/2022,€ 390.000,0,5+,198 m²,2,1
+"Bilocale via Gorizia 55, Santa Rita, Torino",22/11/2022,€ 138.000,0,2,55 m²,1,4
+"Bilocale via Enrico Cialdini 47, Cit Turin, Torino",13/10/2022,€ 165.000,0,2,60 m²,1,R
+"Trilocale via Vistrorio 40, Rebaudengo, Torino",29/11/2022,€ 133.000,0,3,90 m²,1,4
+"Bilocale corso Monte Cucco 118, Pozzo Strada, Torino",23/11/2022,€ 135.000,0,2,60 m²,1,8
+"Bilocale via Giambattista Gropello 6, Cit Turin, Torino",18/10/2022,€ 98.000,0,2,40 m²,1,1
+"Trilocale via De Sanctis 67, Pozzo Strada, Torino",13/10/2022,€ 115.000,0,3,80 m²,1,7
+"Bilocale via Brandizzo 91/A, Barriera di Milano, Torino",06/12/2022,€ 41.900,0,2,47 m²,1,4
+"Bilocale via MONTANARO 4, Barriera di Milano, Torino",22/12/2022,€ 35.900,0,2,49 m²,1,2
+"Bilocale via Pollenzo 56, San Paolo, Torino",05/12/2022,€ 78.000,0,2,50 m²,1,2
+"Trilocale via Portula 16, Madonna di Campagna, Torino",29/11/2022,€ 94.000,0,3,80 m²,1,R
+"Trilocale via Candia 19, Barriera di Milano, Torino",27/10/2022,€ 37.900,0,3,45 m²,1,4
+"Bilocale via Stradella 12, Barriera di Milano, Torino",16/12/2022,€ 39.000,0,2,50 m²,1,2
+"Bilocale via Brandizzo 35/A, Barriera di Milano, Torino",23/09/2022,€ 32.000,0,2,35 m²,1,R
+"Trilocale via Saverio Mercadante 46, Barriera di Milano, Torino",16/11/2022,€ 69.900,0,3,82 m²,2,4
+"Bilocale via Andrea Sansovino 98, Lucento, Torino",05/11/2022,€ 33.000,0,2,50 m²,1,3
+"Appartamento via Pozzo Strada 25, Pozzo Strada, Torino",04/10/2022,€ 290.000,0,5,125 m²,1,8
+"Appartamento corso Galileo Galilei 8, San Salvario - Dante, Torino",29/12/2022,€ 460.000,0,5,140 m²,2,5
+"Appartamento via cavalli 30, Cit Turin, Torino",25/11/2022,€ 345.000,0,5+,185 m²,2,R
+"Loft via Pesaro 39, Aurora, Torino",18/01/2022,€ 650.000,0,4,500 m²,2,T
+"Trilocale corso Siracusa 139, Santa Rita, Torino",14/11/2022,€ 176.000,0,3,88 m²,1,1
+"Trilocale via Nizza 21, San Salvario - Baretti, Torino",29/12/2022,€ 450.000,0,3,120 m²,2,T
+"Quadrilocale via Belfiore 10, San Salvario - Baretti, Torino",18/11/2022,€ 195.000,0,4,115 m²,2,4
+"Trilocale corso Molise 77, Le Vallette, Torino",25/11/2022,€ 79.900,0,3,80 m²,1,7
+"Trilocale largo Brescia 47, Aurora, Torino",21/12/2022,€ 129.000,1,3,75 m²,1,2
+"Trilocale via Giovanni Cravero 48, Regio Parco, Torino",15/12/2022,€ 69.000,0,3,75 m²,1,1
+"Trilocale via Silvio Pellico 21, San Salvario - Baretti, Torino",27/12/2022,€ 290.000,0,3,90 m²,1,T
+"Trilocale via Mondrone 20, Borgo Vittoria, Torino",19/12/2022,€ 88.000,1,3,80 m²,1,4
+"Mansarda via Pietro Giuria 30, San Salvario - Dante, Torino",16/12/2022,€ 144.000,0,1,100 m²,1,6
+"Quadrilocale Lungo Dora Napoli 86, Aurora, Torino",13/10/2022,€ 299.000,0,4,115 m²,2,2
+"Bilocale via Finalmarina 10, Nizza Millefonti, Torino",08/11/2022,€ 70.000,0,2,57 m²,1,
+"Bilocale via Onorato Vigliani 198C, Mirafiori Sud - Onorato Vigliani, Torino",30/11/2022,€ 59.000,0,2,61 m²,1,
+"Quadrilocale via San Domenico 4, Quadrilatero Romano, Torino",23/09/2022,€ 309.000,0,4,122 m²,1,2
+"Bilocale via Giovanni Randaccio 19, Borgo Vittoria, Torino",19/10/2022,€ 49.000,0,2,63 m²,1,1
+"Quadrilocale via Tempio Pausania 39/21, Mirafiori Nord, Torino",05/11/2022,€ 189.000,0,4,115 m²,2,3
+"Bilocale via Giosuè Borsi 83, Lucento, Torino",19/12/2022,€ 45.000,1,2,45 m²,1,1
+"Quadrilocale via Brissogne 7, Pozzo Strada, Torino",20/12/2022,€ 118.000,0,4,90 m²,1,R
+"Trilocale via isonzo 7, San Paolo, Torino",22/11/2022,€ 145.000,0,3,60 m²,1,2
+"Bilocale corso Trapani 81, Cenisia, Torino",24/11/2022,€ 92.000,0,2,46 m²,1,3
+"Villa bifamiliare via Monfalcone 63, Santa Rita, Torino",22/11/2022,€ 489.000,0,5+,320 m²,2,
+"Appartamento via Paolo Gaidano 12, Centro Europa, Torino",08/11/2022,€ 285.000,0,5,155 m²,2,
+"Trilocale via Borgaro 70, Madonna di Campagna, Torino",12/04/2022,€ 83.000,0,3,80 m²,1,3
+"Bilocale via Michele Lessona 97, Parella, Torino",17/11/2022,€ 99.000,0,2,48 m²,1,1
+"Quadrilocale via Baltimora 157, Santa Rita, Torino",21/11/2022,€ 170.000,0,4,110 m²,1,1
+"Appartamento corso Vittorio Emanuele II 199, Cenisia, Torino",15/12/2022,€ 299.000,0,5,135 m²,2,6
+"Trilocale via Madonna delle Rose 38, Lingotto, Torino",28/12/2022,€ 169.000,0,3,85 m²,2,4
+"Bilocale via Zumaglia 48, Parella, Torino",12/10/2022,€ 85.000,0,2,55 m²,1,2
+"Trilocale corso Novara 38, Aurora, Torino",20/11/2022,€ 112.000,0,3,82 m²,1,
+"Trilocale via Benvenuto Cellini 31, San Salvario - Dante, Torino",18/11/2022,€ 180.000,0,3,65 m²,1,T
+"Quadrilocale via Coni Zugna 23, Mirafiori Sud - Strada del Drosso, Torino",17/12/2022,€ 125.000,0,4,100 m²,2,R
+"Bilocale via Mario Crimi 5, Lucento, Torino",23/05/2022,€ 83.000,0,2,51 m²,1,1
+"Quadrilocale corso San Maurizio 73, Vanchiglia, Torino",22/09/2022,€ 310.000,0,4,134 m²,1,
+"Bilocale via Asti 6, Gran Madre - Crimea, Torino",22/09/2022,€ 118.000,0,2,36 m²,1,2
+"Bilocale via Brandizzo 98, Barriera di Milano, Torino",08/07/2022,€ 85.000,0,2,60 m²,1,6
+"Trilocale via Onorato Vigliani 171, Mirafiori Sud - Onorato Vigliani, Torino",05/12/2022,€ 79.000,0,3,75 m²,1,3
+"Appartamento via Gian Domenico Cassini 61, Crocetta, Torino",02/01/2023,€ 385.000,0,5,180 m²,2,1
+"Trilocale via San Domenico 5, Quadrilatero Romano, Torino",24/12/2022,€ 245.000,0,3,120 m²,2,T
+"Appartamento via Gioacchino Quarello 22B, Mirafiori Sud - Strada del Drosso, Torino",08/12/2022,€ 125.000,0,5,124 m²,2,5
+"Quadrilocale via Francesco Rismondo 60, Mirafiori Sud - Onorato Vigliani, Torino",27/12/2022,€ 98.000,1,4,89 m²,1,3
+"Trilocale largo Odoardo Tabacchi, Madonna del Pilone, Torino",24/12/2022,€ 380.000,0,3,110 m²,1,T
+"Monolocale corso Vercelli 162, Rebaudengo, Torino",13/12/2022,€ 59.000,0,1,40 m²,1,4
+"Trilocale via Alfonso La Marmora, Crocetta, Torino",21/11/2022,€ 159.000,0,3,75 m²,1,R
+"Bilocale corso Cairoli 26/6, Via della Rocca, Torino",01/02/2021,€ 255.000,0,2,55 m²,1,3
+"Appartamento Lungo Po Alessandro Antonelli 33, Vanchiglietta, Torino",30/12/2022,€ 600.000,0,5+,165 m²,2,
+"Bilocale via Issiglio 8, San Paolo, Torino",21/09/2022,€ 85.000,0,2,45 m²,1,2
+"Quadrilocale via Rosolino Pilo 44, Campidoglio, Torino",15/11/2022,€ 300.000,0,4,104 m²,2,4
+"Bilocale corso lombardia 156, Lucento, Torino",31/10/2022,€ 89.000,0,2,58 m²,1,5
+"Trilocale via dei Pioppi 4, Falchera, Torino",01/12/2022,€ 39.000,0,3,68 m²,1,2
+"Bilocale via carmagnola 19, Aurora, Torino",23/12/2022,€ 75.000,1,2,55 m²,1,4
+"Trilocale via Varazze 15, Nizza Millefonti, Torino",28/10/2022,€ 128.000,0,3,70 m²,1,2
+"Appartamento piazza rivoli 11, Pozzo Strada, Torino",13/12/2022,€ 419.000,0,5+,190 m²,2,5
+"Appartamento Strada del Nobile 71, Colle della Maddalena, Torino",14/12/2022,€ 680.000,0,5+,235 m²,3,3 - 4
+"Trilocale via Cristalliera 23, Pozzo Strada, Torino",11/11/2022,€ 139.000,0,3,75 m²,1,3
+"Trilocale via Vandalino 7, Pozzo Strada, Torino",28/12/2022,€ 170.000,0,3,85 m²,1,4
+"Appartamento via Duchessa Jolanda 34, Cit Turin, Torino",08/12/2022,€ 329.000,0,5,120 m²,2,1
+"Appartamento via Paolo Gaidano 8, Centro Europa, Torino",13/12/2022,€ 250.000,0,5,150 m²,2,R
+"Quadrilocale corso Vittorio Emanuele II 216, Cit Turin, Torino",21/12/2022,€ 350.000,0,4,120 m²,2,3
+"Trilocale via Val della Torre 78, Lucento, Torino",02/12/2022,€ 72.000,0,3,65 m²,1,9
+"Quadrilocale via Paolo Sacchi 54, San Secondo, Torino",21/12/2022,€ 218.000,0,4,118 m²,1,1
+"Monolocale via drovetti 26, Cit Turin, Torino",23/12/2022,€ 69.000,1,1,25 m²,1,3
+"Loft via Camillo Benso di Cavour 9, Via Roma, Torino",24/12/2022,€ 299.000,0,2,70 m²,1,1
+"Bilocale via Nicola Fabrizi 30, Campidoglio, Torino",13/12/2022,€ 59.000,0,2,50 m²,1,1
+"Quadrilocale via Pralungo 2, Vanchiglietta, Torino",07/11/2022,€ 245.000,0,4,120 m²,1,2
+"Trilocale buono stato, primo piano, Santa Rita, Torino",11/10/2022,€ 198.000,0,3,80 m²,1,1
+"Trilocale via Pietro Piffetti 16, San Donato, Torino",07/12/2022,€ 229.000,0,3,61 m²,1,1
+"Trilocale via cialdini 46, Cit Turin, Torino",01/12/2022,€ 189.000,0,3,89 m²,2,2
+"Terratetto plurifamiliare via Enrico Cavaglià 6, Barriera di Milano, Torino",10/10/2022,€ 280.000,0,5+,275 m²,3+,
+"Trilocale via Guido Reni 79, Santa Rita, Torino",23/11/2022,€ 190.000,0,3,88 m²,1,5
+"Bilocale piazza Conti di Rebaudengo 19, Rebaudengo, Torino",21/10/2022,€ 68.000,0,2,45 m²,1,1
+"Bilocale via Principessa Clotilde 74, San Donato, Torino",03/01/2023,€ 100.000,0,2,65 m²,1,2
+"Quadrilocale via Bernardino Luini 177, Lucento, Torino",27/11/2022,€ 196.000,0,4,111 m²,2,1 - 2
+"Trilocale via Prospero Richelmy 15, Nizza Millefonti, Torino",03/01/2023,€ 159.000,0,3,80 m²,1,6
+"Appartamento Strada del Carossio 18, Madonna di Campagna, Torino",02/12/2022,€ 123.000,0,5,130 m²,2,3
+"Quadrilocale Strada Val Salice 166, Colle della Maddalena, Torino",04/11/2022,€ 258.000,0,4,80 m²,1,T
+"Bilocale via Sant'Antonino 48, Pozzo Strada, Torino",28/12/2022,€ 200.000,0,2,76 m²,1,1
+"Bilocale via Campiglione 34, San Paolo, Torino",02/12/2022,€ 88.000,0,2,50 m²,1,3
+"Quadrilocale corso Vittorio Emanuele II, San Salvario - Baretti, Torino",22/10/2022,€ 630.000,0,4,170 m²,2,2
+"Bilocale corso Lucio Quinzio Cincinnato 218, Lucento, Torino",07/12/2022,€ 99.000,0,2,58 m²,1,7
+"Appartamento via Mazzini, Via della Rocca, Torino",02/01/2023,€ 625.000,0,5,180 m²,2,1
+"Appartamento via dei Pioppi, Falchera, Torino",20/10/2022,€ 89.000,0,5,100 m²,1,2
+"Trilocale via Salbertrand 17, Parella, Torino",08/11/2022,€ 144.000,0,3,58 m²,1,R
+"Trilocale largo Tirreno, Santa Rita, Torino",28/11/2022,€ 147.000,0,3,82 m²,1,2
+"Bilocale via Conte Emanuele Thesauro 5, San Salvario - Dante, Torino",27/12/2022,€ 149.000,0,2,60 m²,1,3
+"Quadrilocale via Baltimora 53, Santa Rita, Torino",28/12/2022,€ 249.000,0,4,145 m²,2,1
+"Bilocale via Monginevro 250, Pozzo Strada, Torino",17/02/2022,€ 118.000,0,2,65 m²,1,1
+"Trilocale via Giacomo Medici, Parella, Torino",24/11/2022,€ 179.000,0,3,87 m²,1,2
+"Quadrilocale via Francesco Saverio Nitti 28, Centro Europa, Torino",18/10/2022,€ 160.000,0,4,124 m²,1,3
+"Quadrilocale via Pietro Baiardi 5, Nizza Millefonti, Torino",02/12/2022,€ 249.000,0,4,118 m²,2,1
+"Trilocale via Ferdinando Micheli 12, Lingotto, Torino",09/11/2022,€ 169.000,0,3,80 m²,1,1
+"Quadrilocale corso Sebastopoli 253, Santa Rita, Torino",06/09/2022,€ 249.000,0,4,90 m²,2,5
+"Quadrilocale corso Gaetano Salvemini 41/C, Centro Europa, Torino",29/12/2022,€ 189.000,0,4,124 m²,2,2
+"Quadrilocale via Tripoli 116, Santa Rita, Torino",06/09/2022,€ 269.000,0,4,95 m²,2,4
+"Bilocale via Cortemilia 29, Nizza Millefonti, Torino",03/01/2023,€ 65.000,0,2,50 m²,1,1
+"Quadrilocale via San Secondo 58, Crocetta, Torino",28/12/2022,€ 230.000,0,4,120 m²,2,4
+"Appartamento via Alfonso La Marmora 40, Crocetta, Torino",21/11/2022,€ 499.000,0,5+,200 m²,2,1
+"Bilocale via Monfalcone 54, Santa Rita, Torino",14/09/2022,€ 78.000,0,2,54 m²,1,R
+"Appartamento via 20 Settembre 41, Via Roma, Torino",05/09/2022,€ 780.000,0,5,130 m²,3+,5
+"Bilocale via Melchiorre Voli 16, Mirafiori Nord, Torino",28/12/2022,€ 79.000,0,2,54 m²,1,5
+"Trilocale piazza Francesco Crispi 61, Barriera di Milano, Torino",29/12/2022,€ 115.000,0,3,90 m²,1,4
+"Bilocale corso Vittorio Emanuele II 100, Cittadella, Torino",29/12/2022,€ 240.000,0,2,70 m²,2,1
+"Trilocale via Tunisi 11, Lingotto, Torino",06/12/2022,€ 99.000,0,3,58 m²,1,5
+"Bilocale via Martiri della Libertà 23BIS, Gran Madre - Crimea, Torino",02/12/2022,€ 140.000,0,2,40 m²,1,4
+"Quadrilocale corso Giovanni Agnelli 80, Santa Rita, Torino",22/11/2022,€ 168.000,0,4,100 m²,2,4
+"Terratetto unifamiliare Strada Antica di Grugliasco 293BIS, Pozzo Strada, Torino",28/11/2022,€ 629.000,0,5+,450 m²,3+,
+"Appartamento via Frassineto 42, Cenisia, Torino",13/12/2022,€ 540.000,0,5+,265 m²,3,
+"Quadrilocale via Patetta 28, Rebaudengo, Torino",06/12/2022,€ 165.000,0,4,100 m²,2,1
+"Quadrilocale via Saluzzo 16, San Salvario - Baretti, Torino",27/12/2022,€ 375.000,0,4,108 m²,1,3
+"Quadrilocale via Tepice 1, Nizza Millefonti, Torino",19/12/2022,€ 249.000,0,4,120 m²,1,2
+"Appartamento via Frassineto 42, Cenisia, Torino",13/12/2022,€ 400.000,0,5,150 m²,2,
+"Appartamento corso Castelfidardo 5, Crocetta, Torino",30/12/2022,€ 328.000,0,5,131 m²,1,1
+"Bilocale via Desana 11, Barriera di Milano, Torino",18/11/2022,€ 39.000,0,2,55 m²,1,R
+"Quadrilocale via Romagnano 32, Parella, Torino",07/12/2022,€ 139.000,0,4,81 m²,1,1
+"Bilocale corso Racconigi 192, San Paolo, Torino",28/11/2022,€ 169.000,0,2,70 m²,1,2
+"Quadrilocale corso Ferrara 33, Le Vallette, Torino",05/10/2022,€ 119.000,0,4,102 m²,1,1
+"Bilocale corso Vercelli 114, Barriera di Milano, Torino",19/12/2022,€ 44.000,0,2,50 m²,1,1
+"Bilocale via San Domenico 5, Quadrilatero Romano, Torino",14/12/2022,€ 165.000,0,2,62 m²,1,1
+"Quadrilocale ottimo stato, terzo piano, Aurora, Torino",07/07/2022,€ 190.000,0,4,150 m²,2,3
+"Trilocale via Montebello 21, Giardini Reali, Torino",14/12/2022,€ 360.000,0,3,80 m²,2,3
+"Trilocale via Michele Coppino 93, Borgo Vittoria, Torino",22/12/2022,€ 102.000,0,3,81 m²,1,3
+"Attico via Podgora 5, Mirafiori Nord, Torino",18/10/2022,€ 149.000,0,2,45 m²,1,6
+"Quadrilocale via Alfonso Bonafous 2, Via della Rocca, Torino",19/10/2022,€ 650.000,0,4,160 m²,2,2
+"Quadrilocale via Monte Rosa, Barriera di Milano, Torino",20/10/2022,€ 155.000,0,4,120 m²,2,
+"Trilocale via Principessa Clotilde  75, San Donato, Torino",27/12/2022,€ 97.000,0,3,71 m²,1,1
+"Appartamento piazza Lorenzo Bernini, Cit Turin, Torino",30/12/2022,€ 980.000,0,5+,216 m²,3,8
+"Trilocale via Eusebio Bava 37, Vanchiglia, Torino",03/11/2022,€ 179.000,0,3,85 m²,2,
+"Bilocale via Saluzzo 16, San Salvario - Baretti, Torino",27/12/2022,€ 198.000,0,2,60 m²,1,4
+"Appartamento piazza Lorenzo Bernini, Cit Turin, Torino",30/12/2022,€ 1.390.000,0,5,280 m²,2,10
+"Quadrilocale via Saluzzo 16, San Salvario - Baretti, Torino",27/12/2022,€ 456.000,0,4,124 m²,2,4
+"Trilocale via Giacinto Collegno 37, Cit Turin, Torino",26/07/2022,€ 245.000,0,3,77 m²,1,T
+"Trilocale corso Moncalieri 271, Cavoretto, Torino",19/01/2022,€ 305.000,0,3,83 m²,1,2
+"Trilocale via Romagnano, Parella, Torino",16/12/2022,€ 85.000,0,3,80 m²,1,T
+"Appartamento via Saluzzo 16, San Salvario - Baretti, Torino",27/12/2022,€ 390.000,0,5,109 m²,2,3
+"Appartamento via Genovesi  19, Crocetta, Torino",07/12/2022,€ 455.000,0,5,170 m²,3,2
+"Bilocale via Cortemilia 11, Nizza Millefonti, Torino",28/10/2022,€ 99.000,0,2,50 m²,1,2
+"Bilocale via Romagnano 7, Parella, Torino",16/12/2022,€ 62.000,0,2,40 m²,1,1
+"Quadrilocale corso Moncalieri 271, Cavoretto, Torino",19/01/2022,€ 432.000,0,4,116 m²,2,3
+"Bilocale via Val della Torre 71, Lucento, Torino",15/09/2022,€ 65.000,0,2,53 m²,1,R
+"Trilocale corso Peschiera 217, San Paolo, Torino",30/12/2022,€ 128.000,1,3,75 m²,1,1
+"Monolocale via Broni 11, Lingotto, Torino",03/11/2022,€ 98.000,0,1,35 m²,1,1
+"Trilocale via Abate Pietro Chanoux 12, Pozzo Strada, Torino",10/11/2022,€ 160.000,0,3,60 m²,1,2
+"Quadrilocale via Onorato Vigliani 91, Mirafiori Sud - Onorato Vigliani, Torino",12/12/2022,€ 169.000,0,4,103 m²,1,6
+"Trilocale corso Bernardino Telesio 86, Parella, Torino",30/12/2022,€ 149.000,0,3,80 m²,1,1
+"Trilocale corso Vittorio Emanuele II 32, Via della Rocca, Torino",15/09/2022,€ 245.000,0,3,80 m²,2,1
+"Quadrilocale via San Quintino, Cittadella, Torino",23/11/2022,€ 268.000,0,4,120 m²,1,
+"Trilocale ottimo stato, terzo piano, Parella, Torino",03/10/2022,€ 125.000,0,3,60 m²,1,3
+"Loft via Martiri della Libertà 27, Gran Madre - Crimea, Torino",19/12/2022,€ 229.000,0,2,75 m²,1,T
+"Trilocale via Giuseppe Barbaroux 10, Quadrilatero Romano, Torino",06/12/2022,€ 175.000,0,3,81 m²,1,3
+"Trilocale via Giosuè Borsi 91, Lucento, Torino",07/11/2022,€ 105.000,0,3,74 m²,1,4
+"Monolocale corso Vittorio Emanuele II 100, Cittadella, Torino",29/12/2022,€ 190.000,0,1,55 m²,1,1
+"Trilocale via Pietro Micca 21, Piazza Solferino, Torino",28/12/2022,€ 520.000,0,3,145 m²,1,2
+"Trilocale Strada del Fortino 38, Aurora, Torino",28/11/2022,€ 149.000,0,3,74 m²,2,1
+"Bilocale via Bernardino Luini 55, Madonna di Campagna, Torino",14/12/2022,€ 65.000,0,2,55 m²,1,2
+"Appartamento ottimo stato, primo piano, Campidoglio, Torino",22/11/2022,€ 348.000,0,5,145 m²,2,1
+"Quadrilocale via Maria Musso Ferraris 1, Parella, Torino",28/11/2022,€ 239.000,0,4,114 m²,2,1
+"Trilocale via Monte Cengio 16/15, Mirafiori Sud - Strada del Drosso, Torino",12/10/2022,€ 85.000,0,3,80 m²,1,2
+"Trilocale via Gaspare Saccarelli 5, San Donato, Torino",02/12/2022,€ 189.000,0,3,90 m²,2,R
+"Bilocale via Cortemilia 16, Nizza Millefonti, Torino",03/01/2023,€ 115.000,0,2,55 m²,1,1
+"Quadrilocale buono stato, secondo piano, Cavoretto, Torino",13/12/2022,€ 450.000,0,4,155 m²,2,2
+"Trilocale piazza Santa Giulia 10, Vanchiglia, Torino",19/04/2022,€ 189.000,0,3,78 m²,1,2
+"Trilocale corso Giovanni Agnelli 109, Santa Rita, Torino",03/01/2023,€ 169.000,0,3,90 m²,1,5
+"Quadrilocale via Giovanni Roveda 30, Mirafiori Sud - Strada del Drosso, Torino",03/06/2022,€ 87.000,0,4,110 m²,1,6
+"Trilocale Strada delle Cacce 38, Mirafiori Sud - Onorato Vigliani, Torino",22/12/2022,€ 130.000,0,3,65 m²,1,1
+"Trilocale via Goito 17, San Salvario - Baretti, Torino",14/12/2022,€ 129.000,1,3,85 m²,1,1
+"Appartamento piazza Vittorio Veneto, Giardini Reali, Torino",30/12/2022,€ 810.000,0,5+,229 m²,2,
+"Bilocale corso Belgio 79, Vanchiglietta, Torino",05/10/2022,€ 129.000,0,2,62 m²,1,6
+"Bilocale via RIBET 9, San Secondo, Torino",30/12/2022,Prezzo su richiesta,0,2,96 m²,1,
+"Quadrilocale via San Francesco d'assisi, Piazza Solferino, Torino",06/12/2022,€ 460.000,0,4,128 m²,2,1
+"Appartamento via Isonzo 123/13c, San Paolo, Torino",01/07/2022,€ 370.000,0,5,130 m²,2,2
+"Appartamento via Bainsizza, Santa Rita, Torino",30/12/2022,Prezzo su richiesta,0,5+,237 m²,3,2
+"Quadrilocale corso Chieti 25, Vanchiglietta, Torino",16/12/2022,€ 258.000,0,4,110 m²,1,6
+"Attico via Cirenaica 18, Pozzo Strada, Torino",19/12/2022,€ 198.000,0,2,84 m²,1,6
+"Trilocale corso Re Umberto, Crocetta, Torino",22/11/2022,€ 198.000,0,3,80 m²,2,2
+"Trilocale ottimo stato, terzo piano, Parella, Torino",15/11/2022,€ 183.000,0,3,80 m²,1,3
+"Villa bifamiliare, nuova, 221 m², Barca, Torino",30/12/2022,Prezzo su richiesta,0,5,221 m²,2,
+"Appartamento Strada del Drosso, 164, Mirafiori Sud - Strada del Drosso, Torino",19/12/2022,€ 105.000,0,5,125 m²,2,1
+"Appartamento corso Enrico Tazzoli 202, Centro Europa, Torino",28/12/2022,€ 255.000,0,5+,160 m²,2,8
+"Trilocale via Conte di Roccavione 76, Borgo Vittoria, Torino",08/11/2022,€ 125.000,0,3,85 m²,1,3
+"Bilocale via Errico Giachino 24, Borgo Vittoria, Torino",08/12/2022,€ 32.000,0,2,50 m²,1,3
+"Bilocale via Challant 18, Pozzo Strada, Torino",02/11/2022,€ 98.000,0,2,68 m²,1,1
+"Mansarda via Saluzzo 43, San Salvario - Dante, Torino",28/12/2022,€ 187.000,0,2,56 m²,1,5
+Palazzo - Edificio in Vendita,12/10/2022,€ 980.000,0,700 m²,1,,
+"Trilocale via Don Murialdo 48, Pozzo Strada, Torino",23/11/2022,€ 129.000,0,3,70 m²,1,1
+"Trilocale via delle Pervinche 50/D, Le Vallette, Torino",01/08/2022,€ 85.000,0,3,83 m²,1,4
+"Bilocale via Loano, Mirafiori Sud - Onorato Vigliani, Torino",18/11/2022,€ 130.000,0,2,65 m²,1,5
+"Attico ottimo stato, 100 m², Santa Rita, Torino",04/12/2021,€ 260.000,0,4,100 m²,1,7
+"Bilocale via Coazze 26, Cit Turin, Torino",18/11/2022,€ 115.000,0,2,63 m²,1,3
+"Appartamento via Bianzè 33, Campidoglio, Torino",27/10/2022,€ 255.000,0,5+,135 m²,2,R
+"Appartamento corso Rodolfo Montevecchio, Crocetta, Torino",30/11/2022,€ 980.000,0,5+,268 m²,3+,
+"Trilocale buono stato, terzo piano, Parella, Torino",27/04/2022,€ 128.000,0,3,70 m²,1,3
+"Appartamento corso Belgio 164, Vanchiglietta, Torino",21/12/2022,€ 215.000,0,5,90 m²,1,7
+"Trilocale nuovo, secondo piano, Cavoretto, Torino",19/01/2022,€ 275.000,0,3,78 m²,1,2
+"Trilocale via Podgora 4, Mirafiori Nord, Torino",15/12/2022,€ 175.000,0,3,80 m²,2,1
+Palazzo - Edificio in Vendita,29/11/2022,€ 329.000,0,344 m²,3+,,
+"Appartamento ottimo stato, primo piano, Cit Turin, Torino",16/05/2022,€ 495.000,0,5+,218 m²,2,1
+"Bilocale via Mottarone 15, Barriera di Milano, Torino",23/09/2022,€ 39.000,0,2,54 m²,1,2
+"Appartamento corso Francia 339, Pozzo Strada, Torino",29/11/2022,€ 390.000,0,183 m²,2,,
+"Bilocale via Bari 2, Don Bosco, Torino",23/12/2022,€ 75.000,1,2,70 m²,1,1
+"Appartamento via 4 Marzo 7, Quadrilatero Romano, Torino",13/12/2022,€ 550.000,0,5,160 m²,2,3
+"Trilocale via Pietrino Belli 62, Parella, Torino",17/10/2022,€ 85.000,0,3,71 m²,1,1
+"Bilocale corso Trapani 181, San Paolo, Torino",30/12/2022,€ 98.000,0,2,60 m²,1,R
+"Trilocale corso Principe Eugenio 4, San Donato, Torino",10/11/2022,€ 215.000,0,3,90 m²,1,4
+"Bilocale via Villa Giusti 51, Pozzo Strada, Torino",21/12/2022,€ 45.500,0,2,50 m²,1,4
+"Bilocale via Fratelli Giuseppe e Antonio Carle 5, Crocetta, Torino",03/10/2022,€ 109.000,0,2,47 m²,1,
+"Quadrilocale via Pallanza 17, Vanchiglietta, Torino",03/01/2023,€ 169.000,0,4,100 m²,1,R
+"Trilocale via Lombardore, 10, Barriera di Milano, Torino",14/12/2022,€ 67.000,0,3,88 m²,1,T
+"Bilocale via Francesco Cigna 4, Aurora, Torino",07/12/2022,€ 96.000,0,2,62 m²,1,1
+"Quadrilocale via MOROZZO 18, San Paolo, Torino",05/11/2022,€ 275.000,0,4,127 m²,2,1 - 2
+"Appartamento ottimo stato, Crocetta, Torino",28/12/2022,€ 1.120.000,0,5+,250 m²,3,3
+"Quadrilocale corso Svizzera 123, Lucento, Torino",28/12/2022,€ 217.000,0,4,113 m²,2,R
+Palazzo - Edificio in Vendita,14/04/2022,€ 2.500.000,0,5.000 m²,3+,1,
+"Trilocale buono stato, quarto piano, Vanchiglietta, Torino",10/11/2022,€ 289.000,0,3,90 m²,2,4
+"Attico Strada Antica di Collegno 190/10, Parella, Torino",25/10/2022,€ 450.000,0,4,150 m²,2,5
+"Quadrilocale via Cossila 7, Vanchiglietta, Torino",23/11/2022,€ 118.000,0,4,99 m²,1,R
+"Trilocale via Tunisi 68/6, Lingotto, Torino",26/11/2022,€ 128.000,0,3,80 m²,1,1
+"Appartamento ottimo stato, primo piano, Quadrilatero Romano, Torino",24/11/2022,€ 750.000,0,5+,234 m²,3,1
+"Trilocale buono stato, quinto piano, Rebaudengo, Torino",27/12/2022,€ 99.000,1,3,80 m²,1,5
+"Terratetto plurifamiliare 375 m², da ristrutturare, Santa Rita, Torino",24/11/2022,€ 520.000,0,5+,375 m²,,
+"Terratetto unifamiliare Strada della Pronda 85/1, Pozzo Strada, Torino",19/10/2022,€ 495.000,0,1,430 m²,,
+"Villa unifamiliare, ottimo stato, 400 m², Madonna del Pilone, Torino",29/12/2022,€ 1.650.000,0,5+,400 m²,3,
+"Quadrilocale ottimo stato, San Donato, Torino",22/11/2022,€ 350.000,0,4,100 m²,,
+"Bilocale via Chiesa della Salute 103, Borgo Vittoria, Torino",28/12/2022,€ 42.000,0,2,46 m²,1,3
+"Quadrilocale via Val della Torre 23, Lucento, Torino",30/11/2022,€ 187.000,0,4,102 m²,2,7
+"Trilocale piazza Giovanni Bottesini 11, Barriera di Milano, Torino",06/12/2022,€ 65.000,0,3,75 m²,1,1
+"Trilocale corso Giulio Cesare 3D, Aurora, Torino",12/12/2022,€ 149.000,0,3,80 m²,1,2
+"Trilocale via Rubiana, 50, Pozzo Strada, Torino",03/01/2023,€ 269.000,0,3,65 m²,1,4
+"Quadrilocale via Rubiana, 50, Pozzo Strada, Torino",03/01/2023,€ 449.000,0,4,135 m²,2,1
+"Quadrilocale via Rubiana, 50, Pozzo Strada, Torino",03/01/2023,€ 449.000,0,4,135 m²,2,2
+"Trilocale via Villar 10, Borgo Vittoria, Torino",18/11/2022,€ 55.000,0,3,70 m²,1,3
+"Monolocale via Valdieri 32, Cenisia, Torino",27/10/2022,€ 95.000,0,1,40 m²,1,3
+"Monolocale via Cesana 11, Cenisia, Torino",27/10/2022,€ 105.000,0,1,47 m²,1,5
+"Bilocale via Cavour 9, Via Roma, Torino",02/12/2022,€ 250.000,0,2,50 m²,1,3
+"Monolocale via Cesana 11, Cenisia, Torino",27/10/2022,€ 128.000,0,1,55 m²,1,2
+"Bilocale Galleria Enzo Tortora 21, Piazza Solferino, Torino",23/03/2022,€ 250.000,0,2,73 m²,1,3
+"Monolocale via Cesana 11, Cenisia, Torino",27/10/2022,€ 110.000,0,1,34 m²,1,2
+"Bilocale via Cavour 9, Via Roma, Torino",02/12/2022,€ 260.000,0,2,54 m²,1,3
+"Bilocale via Cavour 9, Via Roma, Torino",02/12/2022,€ 240.000,0,2,50 m²,1,3
+"Monolocale via Valdieri 32, Cenisia, Torino",27/10/2022,€ 85.000,0,1,40 m²,1,3
+"Quadrilocale via Gubbio 93, Madonna di Campagna, Torino",15/04/2022,€ 199.000,0,4,88 m²,2,3
+"Quadrilocale Strada Mongreno 329, Superga, Torino",05/10/2022,€ 552.000,0,4,115 m²,2,2
+"Trilocale via San Massimo 9, Via della Rocca, Torino",13/12/2022,€ 192.000,0,3,56 m²,1,4
+"Appartamento via Verdi 12, Giardini Reali, Torino",29/12/2022,€ 495.500,0,5,141 m²,2,1
+"Appartamento Strada Mongreno 329, Superga, Torino",05/10/2022,€ 636.000,0,5,127 m²,2,2
+"Monolocale via Valdieri 32, Cenisia, Torino",27/10/2022,€ 89.000,0,1,40 m²,1,2
+"Quadrilocale corso Galileo Ferraris 82, Crocetta, Torino",13/12/2022,€ 385.000,0,4,173 m²,3,R
+"Appartamento via Cavour 9, Via Roma, Torino",18/11/2022,€ 1.010.000,0,5+,200 m²,3+,3
+"Bilocale via Cesana 11, Cenisia, Torino",11/11/2022,€ 80.000,0,2,41 m²,1,2
+"Monolocale via Cesana 11, Cenisia, Torino",27/10/2022,€ 115.000,0,1,47 m²,1,6
+"Quadrilocale via Cavour 9, Via Roma, Torino",16/12/2022,€ 500.000,0,4,104 m²,2,3
+"Bilocale via Cavour 9, Via Roma, Torino",02/12/2022,€ 260.000,0,2,50 m²,1,3
+"Bilocale Strada Mongreno 329, Superga, Torino",05/10/2022,€ 716.000,0,2,132 m²,1,3
+"Quadrilocale via Gubbio 93, Madonna di Campagna, Torino",29/11/2022,€ 195.000,0,4,88 m²,2,1
+"Appartamento via Verdi 12, Giardini Reali, Torino",27/12/2022,€ 530.500,0,5,167 m²,2,4
+"Appartamento Strada Mongreno 329, Superga, Torino",05/10/2022,€ 1.195.000,0,5,255 m²,3,
+"Villa a schiera Strada Mongreno 329, Superga, Torino",05/10/2022,€ 595.000,0,4,120 m²,2,
+"Quadrilocale Strada Mongreno 329, Superga, Torino",05/10/2022,€ 946.000,0,4,167 m²,2,3
+"Villa unifamiliare Strada Mongreno 329, Superga, Torino",18/11/2022,€ 1.427.000,0,4,276 m²,2,
+"Appartamento via Verdi 12, Giardini Reali, Torino",27/12/2022,€ 545.500,0,5,184 m²,2,2
+"Monolocale via Cesana 11, Cenisia, Torino",27/10/2022,€ 89.000,0,1,42 m²,1,4
+"Bilocale via Valdieri 32, Cenisia, Torino",11/11/2022,€ 78.000,0,2,43 m²,1,3
+"Trilocale Strada Mongreno 329, Superga, Torino",05/10/2022,€ 415.000,0,3,100 m²,2,T
+"Trilocale corso Racconigi 138 Bis, San Paolo, Torino",02/12/2022,€ 168.000,0,3,70 m²,1,3
+"Monolocale via Cesana 11, Cenisia, Torino",27/10/2022,€ 105.000,0,1,46 m²,1,5
+"Quadrilocale corso Matteotti 37, Cittadella, Torino",29/12/2022,€ 630.000,0,4,188 m²,2,2
+"Appartamento via Evangelista Torricelli 48, Crocetta, Torino",29/12/2022,€ 725.000,0,5,225 m²,3,2
+"Trilocale via Saluzzo 59, San Salvario - Dante, Torino",18/10/2022,€ 200.000,0,3,80 m²,1,T
+"Trilocale via Borgaro 110, Madonna di Campagna, Torino",11/11/2022,€ 169.000,0,3,96 m²,2,5
+"Appartamento corso Matteotti 37, Cittadella, Torino",26/05/2022,€ 1.350.000,0,5+,420 m²,3,2
+"Bilocale via Cesana 11, Cenisia, Torino",27/10/2022,€ 135.000,0,2,61 m²,1,5
+"Trilocale via Borgaro 110, Madonna di Campagna, Torino",21/11/2022,€ 138.000,0,3,85 m²,1,5
+"Loft via Saluzzo 59, San Salvario - Dante, Torino",27/10/2022,€ 180.000,0,2,67 m²,1,T
+"Trilocale corso Siracusa 25, Santa Rita, Torino",21/09/2022,€ 149.000,0,3,75 m²,1,6
+"Bilocale via Saluzzo 59, San Salvario - Dante, Torino",18/10/2022,€ 110.000,0,2,41 m²,1,T
+"Appartamento via Fidia 12, Pozzo Strada, Torino",19/05/2022,€ 320.000,0,5,180 m²,3,3
+"Quadrilocale via Fidia 12, Pozzo Strada, Torino",19/05/2022,€ 191.000,0,4,108 m²,2,2
+"Trilocale corso Francia 123, Cit Turin, Torino",03/11/2022,€ 349.000,0,3,180 m²,2,
+"Quadrilocale via Gubbio 93, Madonna di Campagna, Torino",29/12/2022,€ 225.000,0,4,108 m²,2,5
+"Trilocale via Damiano Chiesa 43, Torino",05/08/2021,€ 185.000,0,3,79 m²,1,M
+"Trilocale via Damiano Chiesa 43, Torino",05/08/2021,€ 215.000,0,3,92 m²,2,M
+"Trilocale via Damiano Chiesa 43, Torino",05/08/2021,€ 228.200,0,3,82 m²,1,M
+"Quadrilocale via Damiano Chiesa 43, Torino",05/08/2021,€ 252.450,0,4,94 m²,2,M
+"Bilocale corso Francia 99, Torino",15/11/2021,€ 82.000,0,2,40 m²,2,
+"Attico corso Francia 99, Torino",15/11/2021,€ 112.500,0,3,40 m²,2,
+"Loft corso Francia 99, Torino",15/11/2021,€ 130.000,0,3,55 m²,1,T
+"Loft via Matteo Pescatore 12, Giardini Reali, Torino",18/05/2022,€ 380.000,0,4,110 m²,2,T
+"Bilocale via CAPRERA 37, Santa Rita, Torino",28/10/2022,€ 125.000,0,2,70 m²,1,R
+"Trilocale via Baveno 35/B, Parella, Torino",25/11/2022,€ 185.000,0,3,95 m²,1,1
+"Terratetto unifamiliare via Zumaglia 60, Parella, Torino",30/11/2022,€ 88.000,0,2,50 m²,1,
+"Attico via Desana 11, Barriera di Milano, Torino",29/06/2022,€ 184.000,0,5,136 m²,2,5
+"Quadrilocale via Ludovico Bellardi 23, Parella, Torino",30/12/2022,€ 145.000,0,4,90 m²,1,R
+"Bilocale via Sette Comuni 48, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 49.000,0,2,50 m²,1,5
+"Appartamento corso Giulio Cesare, Rebaudengo, Torino",14/10/2022,€ 115.000,0,5,120 m²,1,4
+"Bilocale Strada Basse di Dora 31/B, Parella, Torino",28/05/2022,€ 73.000,0,2,54 m²,1,3
+"Bilocale corso San Maurizio 51, Vanchiglia, Torino",03/01/2023,€ 156.000,0,2,60 m²,1,T
+"Trilocale via Zumaglia 77, Parella, Torino",30/12/2022,€ 90.000,0,3,70 m²,1,1
+"Quadrilocale corso Racconigi 140, San Paolo, Torino",13/12/2022,€ 199.000,0,4,85 m²,2,T
+"Quadrilocale via Lauro Rossi 32, Barriera di Milano, Torino",16/12/2022,€ 115.000,0,4,110 m²,1,3
+"Bilocale via Genova 242, Nizza Millefonti, Torino",16/11/2022,€ 93.000,0,2,60 m²,1,5
+"Bilocale corso Duca degli Abruzzi 76, Crocetta, Torino",29/12/2022,€ 139.000,0,2,49 m²,1,R
+"Appartamento corso Monte Grappa 37, Parella, Torino",02/12/2022,€ 330.000,0,5,130 m²,1,6
+"Trilocale via Monastir 51, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 98.000,0,3,90 m²,1,4
+"Trilocale via Mongrando 37, Vanchiglietta, Torino",03/01/2023,€ 129.000,0,3,70 m²,1,2
+"Trilocale via Alfredo Oriani 18, Lucento, Torino",07/12/2022,€ 99.000,0,3,75 m²,1,T
+"Bilocale corso San Maurizio, Giardini Reali, Torino",05/12/2022,€ 139.000,0,2,36 m²,1,3
+"Appartamento via Giovanni Servais 112, Parella, Torino",22/12/2022,€ 249.000,0,5,130 m²,2,1
+"Quadrilocale via Lombriasco 8, Cenisia, Torino",26/12/2022,€ 175.000,0,4,97 m²,1,1
+"Bilocale via Borgosesia 72, Parella, Torino",25/11/2022,€ 54.000,0,2,50 m²,1,4
+"Monolocale via Ormea 164, San Salvario - Dante, Torino",27/12/2022,€ 64.000,0,1,25 m²,1,1
+"Bilocale via slataper 37, Lucento, Torino",07/12/2022,€ 69.000,0,2,55 m²,1,2
+"Quadrilocale corso Monte Cucco 62, Pozzo Strada, Torino",13/10/2022,€ 239.000,0,4,110 m²,1,8
+"Appartamento corso Filippo Brunelleschi 91/B, Pozzo Strada, Torino",09/12/2022,€ 315.000,0,5,150 m²,2,2
+"Trilocale via Don Luigi Orione 7, San Paolo, Torino",26/09/2022,€ 165.000,0,3,83 m²,1,R
+"Quadrilocale via Onorato Vigliani 87/8, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 209.000,0,4,110 m²,2,3
+"Appartamento corso Monte Cucco 123, Pozzo Strada, Torino",26/11/2022,€ 359.000,0,5+,145 m²,2,8
+"Trilocale corso COSENZA 40, Santa Rita, Torino",30/09/2022,€ 185.000,0,3,80 m²,1,7
+"Bilocale via Felice Briccarello 4, Santa Rita, Torino",10/12/2022,€ 85.000,0,2,63 m²,1,5
+"Bilocale via Monastir 10, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 95.000,0,2,60 m²,1,2
+"Trilocale via Romagnano 4, Parella, Torino",25/11/2022,€ 139.000,0,3,85 m²,1,3
+"Trilocale via Francesco Cigna 63, Aurora, Torino",17/11/2022,€ 159.000,0,3,100 m²,1,1
+"Quadrilocale via Rosario di Santa Fè, 27, 10134 Torino Italia, Lingotto, Torino",20/12/2022,€ 185.000,0,4,97 m²,1,1
+"Appartamento Strada del Ponte Verde 37/5, Colle della Maddalena, Torino",02/01/2023,€ 479.000,0,5+,204 m²,3,1
+"Trilocale via Gorizia 167, Santa Rita, Mirafiori Nord, Torino",13/12/2022,€ 128.000,0,3,80 m²,1,1
+"Quadrilocale Strada del Portone, Mirafiori Sud - Strada del Drosso, Torino",14/12/2022,€ 189.000,1,4,90 m²,2,9
+"Bilocale via Somalia 26, Mirafiori Sud - Onorato Vigliani, Torino",08/11/2022,€ 64.000,0,2,60 m²,1,2
+"Monolocale via Giuseppe Baretti 36, San Salvario - Baretti, Torino",18/11/2022,€ 69.000,0,1,35 m²,1,R
+"Trilocale via venalzio 6/B, Parella, Torino",29/12/2022,€ 210.000,0,3,100 m²,1,1
+"Quadrilocale via Giacinto Pacchiotti 81, Parella, Torino",23/12/2022,€ 230.000,0,4,100 m²,1,1
+"Quadrilocale via Clemente Damiano Priocca 10, Aurora, Torino",07/11/2022,€ 169.000,0,4,98 m²,1,
+"Trilocale largo Cardinale Guglielmo Massaia 54, Borgo Vittoria, Torino",03/01/2023,€ 85.000,0,3,83 m²,1,8
+"Bilocale via Assisi 26, Madonna di Campagna, Torino",07/12/2022,€ 59.000,0,2,50 m²,1,2
+"Trilocale via Sommacampagna 9, Gran Madre - Crimea, Torino",02/01/2023,€ 329.000,0,3,83 m²,1,1
+"Quadrilocale corso AGNELLI 130, Mirafiori Nord, Torino",17/10/2022,€ 159.000,0,4,114 m²,2,1
+"Trilocale via Crevacuore 8, Parella, Torino",30/12/2022,€ 119.000,0,3,65 m²,1,T
+"Trilocale via Domodossola 55, Parella, Torino",25/11/2022,€ 80.000,0,3,80 m²,2,T
+"Bilocale via MONFALCONE 132, Santa Rita, Torino",23/12/2022,€ 89.000,0,2,52 m²,1,6
+"Bilocale via Giacinto Pacchiotti 5/B, Parella, Torino",07/12/2022,€ 79.000,0,2,55 m²,1,3
+"Trilocale via Monginevro 203, Pozzo Strada, Torino",28/10/2022,€ 165.000,0,3,80 m²,1,2
+"Trilocale corso Monte Grappa 74, Parella, Torino",02/12/2022,€ 119.000,0,3,75 m²,1,2
+"Bilocale via Eusebio Bava 36, Vanchiglia, Torino",03/01/2023,€ 89.000,0,2,55 m²,2,T
+"Bilocale via Spalato 76, San Paolo, Torino",17/06/2022,€ 75.000,0,2,45 m²,1,6
+"Trilocale via Magenta 56, Crocetta, Torino",13/12/2022,€ 315.000,0,3,80 m²,2,4
+"Quadrilocale via Eusebio Bava 28, Vanchiglia, Torino",03/01/2023,€ 249.000,0,4,111 m²,2,3
+"Attico via Gravere 29, Parella, Torino",30/12/2022,€ 265.000,0,4,136 m²,2,5 - 6
+"Trilocale corso Francia 268, Parella, Torino",01/01/2023,€ 215.000,0,3,95 m²,1,2
+"Quadrilocale corso Canonico Giuseppe Allamano, Città Giardino, Torino",16/06/2022,€ 199.000,0,4,110 m²,1,1
+"Monolocale via Ludovico Bellardi 115, Parella, Torino",22/11/2022,€ 29.000,0,1,30 m²,1,6
+"Quadrilocale corso Giovanni Agnelli 130, Mirafiori Nord, Torino",13/10/2022,€ 159.000,0,4,114 m²,2,1
+"Bilocale via Sette Comuni 50, Mirafiori Sud - Onorato Vigliani, Torino",28/11/2022,€ 70.000,0,2,55 m²,1,2
+"Quadrilocale via Fratelli de Maistre 9, Mirafiori Sud - Onorato Vigliani, Torino",03/01/2023,€ 89.000,0,4,100 m²,2,3
+"Bilocale via vittoria, 43, Borgo Vittoria, Torino",13/12/2022,€ 65.000,0,2,50 m²,1,5
+"Quadrilocale via Governolo 6, San Secondo, Torino",13/12/2022,€ 195.000,0,4,101 m²,1,1
+"Appartamento via Pavone 5, Borgo Vittoria, Torino",05/10/2022,€ 123.000,0,5,155 m²,1,3
+"Bilocale via Onorato Vigliani 184, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 60.000,1,2,60 m²,1,2
+"Bilocale via Ghemme 6, Parella, Torino",25/11/2022,€ 53.000,0,2,45 m²,1,2
+"Trilocale via Vipacco 4BIS, Pozzo Strada, Torino",28/12/2022,€ 129.000,0,3,86 m²,1,4
+"Quadrilocale corso Bernardino Telesio 121, Parella, Torino",28/12/2022,€ 360.000,0,4,115 m²,2,2
+"Loft via Domodossola 49, Parella, Torino",22/12/2022,€ 89.000,0,1,45 m²,1,T
+"Monolocale via Santorre di Santarosa 19, Gran Madre - Crimea, Torino",02/01/2023,€ 109.000,0,1,30 m²,1,T
+"Bilocale Strada Comunale del Villaretto 204, Falchera, Torino",28/12/2022,€ 69.000,0,2,50 m²,1,2
+"Bilocale via Gottardo 37, Rebaudengo, Torino",26/10/2022,€ 60.000,0,2,60 m²,1,5
+"Appartamento via Giovanni Bovetti 18, Mirafiori Sud - Onorato Vigliani, Torino",05/12/2022,€ 189.000,0,5+,150 m²,2,3
+"Trilocale corso Benedetto Croce 38/10, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 124.000,0,3,90 m²,1,2
+"Quadrilocale piazza Tommaso Campanella 25, Parella, Torino",25/11/2022,€ 179.000,0,4,95 m²,1,7
+"Appartamento via Piedicavallo 20, Parella, Torino",25/11/2022,€ 369.000,0,5+,200 m²,2,3 - 4
+"Monolocale via Ormea 164, San Salvario - Dante, Torino",27/12/2022,€ 79.000,0,1,40 m²,1,3
+"Trilocale corso Francia 1, Cit Turin, Torino",15/09/2022,€ 169.000,0,3,56 m²,1,2
+"Bilocale via Piedicavallo 46, Parella, Torino",25/11/2022,€ 89.000,0,2,45 m²,1,1
+"Quadrilocale corso Mediterraneo 136, Crocetta, Torino",23/12/2022,€ 369.000,0,4,112 m²,1,4
+"Trilocale via Oglianico 4, Lucento, Torino",03/01/2023,€ 135.000,0,3,75 m²,1,5
+"Trilocale via Borgosesia 109, Parella, Torino",01/01/2023,€ 115.000,0,3,80 m²,1,3
+"Appartamento corso Filippo Turati 13, San Secondo, Torino",06/12/2022,€ 849.000,0,5+,189 m²,3,9
+"Bilocale corso Monte Cucco 120, Pozzo Strada, Torino",18/10/2022,€ 99.000,0,2,60 m²,1,7
+"Bilocale piazza Tommaso Campanella 23, Parella, Torino",26/11/2022,€ 89.000,0,2,45 m²,1,T
+"Trilocale via Pietro Cossa 18, Parella, Torino",28/12/2022,€ 159.000,0,3,82 m²,1,7
+"Quadrilocale via Crevacuore 9, Parella, Torino",12/12/2022,€ 189.000,0,4,100 m²,1,2
+"Quadrilocale via Giovanni Arpino 10, Pozzo Strada, Torino",02/01/2023,€ 259.000,0,4,101 m²,1,
+"Bilocale corso Regina Margherita 144, Aurora, Torino",16/11/2022,€ 88.000,0,2,45 m²,1,3
+"Bilocale via Riccardo Sineo 12/5, Vanchiglia, Torino",03/01/2023,€ 139.000,0,2,50 m²,1,2
+"Monolocale via Nizza 26, San Secondo, Torino",17/11/2022,€ 95.000,0,1,33 m²,1,5
+"Loft via Giovanni Botero 8, Quadrilatero Romano, Torino",29/12/2022,€ 200.000,0,2,65 m²,1,2
+"Trilocale via Mogadiscio 14, Parella, Torino",25/11/2022,€ 89.000,0,3,75 m²,1,1
+"Bilocale via Dante Di Nanni 99, San Paolo, Torino",17/06/2022,€ 62.000,0,2,50 m²,1,T
+"Quadrilocale corso Bernardino Telesio 121, Parella, Torino",28/12/2022,€ 300.000,0,4,95 m²,2,1
+"Quadrilocale via Onorato Castellino 11, Pozzo Strada, Torino",14/12/2022,€ 249.000,0,4,100 m²,2,1
+"Bilocale via Ormea 122, San Salvario - Dante, Torino",27/12/2022,€ 79.000,0,2,40 m²,1,4
+"Bilocale via Ormea 164, San Salvario - Dante, Torino",27/12/2022,€ 89.000,0,2,40 m²,1,1
+"Bilocale via Giacinto Pacchiotti 5, Parella, Torino",05/12/2022,€ 79.000,0,2,65 m²,1,2
+"Bilocale via Piobesi 19, Mirafiori Sud - Onorato Vigliani, Torino",28/11/2022,€ 109.000,0,2,65 m²,1,4
+"Appartamento via 20 Settembre 6, Via Roma, Torino",30/11/2022,€ 590.000,0,5,170 m²,2,4
+"Quadrilocale via San Massimo 5/B, Via della Rocca, Torino",19/10/2022,€ 490.000,0,4,120 m²,2,3
+"Appartamento via Baveno 27, Parella, Torino",25/11/2022,€ 280.000,0,5+,190 m²,2,2
+"Quadrilocale corso Bernardino Telesio 121, Parella, Torino",28/12/2022,€ 290.000,0,4,90 m²,2,1
+"Bilocale via SAN MARINO 84, Santa Rita, Torino",22/12/2022,€ 65.000,0,2,56 m²,1,5
+"Bilocale corso Moncalieri 21, Gran Madre - Crimea, Torino",02/01/2023,€ 165.000,0,2,57 m²,1,T
+"Loft via Fratelli Calandra 16, Via della Rocca, Torino",14/12/2022,€ 739.000,1,5+,270 m²,3,T
+"Appartamento via Puccini 11, Barriera di Milano, Torino",15/06/2022,€ 114.900,0,5,90 m²,2,3
+"Appartamento corso Vercelli 164, Rebaudengo, Torino",29/06/2022,€ 239.000,0,5,145 m²,1,1
+"Quadrilocale via TINTORETTO, Santa Rita, Torino",07/07/2022,€ 109.000,0,4,90 m²,2,1
+"Bilocale via Giorgio Catti 20, Parella, Torino",28/12/2022,€ 75.000,0,2,50 m²,1,R
+"Appartamento via Beaulard 69, Pozzo Strada, Torino",19/12/2022,€ 165.000,0,5,110 m²,2,1
+"Quadrilocale corso Bernardino Telesio 121, Parella, Torino",28/12/2022,€ 295.000,0,4,90 m²,2,2
+"Trilocale via Monte Pertica 3, Parella, Torino",30/11/2022,€ 90.000,0,3,70 m²,1,1
+"Trilocale via Giotto 35, San Salvario - Dante, Torino",27/12/2022,€ 145.000,0,3,72 m²,1,2
+"Trilocale corso Casale 450//7, Sassi, Torino",20/12/2022,€ 159.000,0,3,82 m²,1,1
+"Bilocale corso Siracusa 116, Santa Rita, Torino",02/01/2023,€ 120.000,0,2,60 m²,1,4
+"Quadrilocale via Invorio 6, Parella, Torino",01/01/2023,€ 178.000,0,4,100 m²,1,5
+"Villa unifamiliare Strada di Altessano, Le Vallette, Torino",30/12/2022,€ 1.050.000,0,5,4.285 m²,1,
+"Bilocale corso Orbassano 114, Santa Rita, Torino",29/12/2022,€ 43.000,0,2,43 m²,1,5
+"Trilocale via Monginevro 203, Pozzo Strada, Torino",20/10/2022,€ 145.000,0,3,80 m²,1,6
+"Trilocale via Alessandro Scarlatti 54, Barriera di Milano, Torino",26/11/2022,€ 100.000,0,3,85 m²,1,4
+"Monolocale via Ormea 10, San Salvario - Baretti, Torino",15/12/2022,€ 38.000,0,1,17 m²,1,3
+"Bilocale corso Monte Cucco 36, Pozzo Strada, Torino",12/07/2022,€ 109.000,0,2,62 m²,1,2
+"Appartamento via Riccardo Sineo 12, Vanchiglia, Torino",03/01/2023,€ 549.000,0,5,150 m²,2,5
+"Appartamento via Valgioie, Parella, Torino",30/12/2022,€ 290.000,0,5,160 m²,2,7
+"Trilocale via Giacomo Medici 118, Parella, Torino",25/11/2022,€ 233.000,0,3,100 m²,1,5
+"Bilocale via Valentino Carrera 94, Parella, Torino",30/12/2022,€ 57.000,0,2,50 m²,1,3
+"Bilocale via Malone 22, Barriera di Milano, Torino",20/12/2022,€ 49.900,0,2,60 m²,1,3
+"Quadrilocale corso Moncalieri 21, Gran Madre - Crimea, Torino",02/01/2023,€ 380.000,0,4,117 m²,2,T
+"Quadrilocale via Madama Cristina 80/C, San Salvario - Dante, Torino",27/12/2022,€ 239.000,0,4,100 m²,2,R
+"Quadrilocale via Vincenzo Lancia 102/8, Pozzo Strada, Torino",10/11/2022,€ 95.000,0,4,100 m²,1,R
+"Quadrilocale via Rodolfo Montevecchio 3, San Secondo, Torino",29/11/2022,€ 259.000,0,4,75 m²,2,4
+"Appartamento via Scalenghe 3, Cenisia, Torino",09/12/2022,€ 269.000,0,5+,160 m²,2,
+"Trilocale corso dante 68, San Salvario - Dante, Torino",27/12/2022,€ 159.000,0,3,75 m²,1,3
+"Quadrilocale via Padre Francesco Denza 18, Aurora, Torino",27/10/2022,€ 84.900,0,4,76 m²,1,3
+"Quadrilocale via Giovanni Servais 112, Parella, Torino",30/12/2022,€ 200.000,0,4,130 m²,1,1
+"Appartamento via SAN MARINO 5, Santa Rita, Torino",17/11/2022,€ 250.000,0,5,115 m²,2,5
+"Trilocale via Salbertrand 73, Parella, Torino",14/12/2022,€ 149.000,0,3,75 m²,1,1
+"Appartamento corso Monte Grappa 102, Parella, Torino",23/12/2022,€ 309.000,0,5,125 m²,2,7
+"Bilocale via Cardinale Guglielmo Massaia 21, Borgo Vittoria, Torino",29/09/2022,€ 65.000,0,2,60 m²,1,5
+"Appartamento via Valgioie 71, Parella, Torino",28/12/2022,€ 309.000,0,5,150 m²,2,9
+"Bilocale via Luigi Ferdinando Marsigli 117, Pozzo Strada, Torino",16/11/2022,€ 49.000,0,2,50 m²,1,4
+"Bilocale via Vittorio Asinari di Bernezzo 91, Parella, Torino",23/12/2022,€ 79.000,0,2,55 m²,1,5
+"Terratetto plurifamiliare via Michele Lessona 20, Parella, Torino",01/01/2023,€ 900.000,0,5+,551 m²,3+,
+"Appartamento corso Germano Sommeiller 19, San Secondo, Torino",29/12/2022,€ 460.000,0,5+,200 m²,2,6
+"Bilocale via Ghemme 27, Parella, Torino",22/12/2022,€ 70.000,0,2,60 m²,1,1
+"Quadrilocale via Valeggio 6, San Secondo, Torino",17/12/2022,€ 349.000,1,4,130 m²,2,3
+"Appartamento via Togliatti 25, Mirafiori Sud - Onorato Vigliani, Torino",01/12/2022,€ 129.000,0,5,140 m²,2,7
+"Trilocale via Arnaldo da Brescia 12, Lingotto, Torino",03/11/2022,€ 149.000,0,3,70 m²,1,5
+"Appartamento corso Filippo Brunelleschi 129, Pozzo Strada, Torino",22/11/2022,€ 399.000,0,5,150 m²,2,6
+"Trilocale corso Grosseto 78/4, Borgo Vittoria, Torino",27/12/2022,€ 49.000,0,3,66 m²,1,4
+"Quadrilocale via Valentino Carrera 40, Parella, Torino",25/11/2022,€ 159.000,0,4,85 m²,1,2
+"Appartamento via Giovanni Fattori 66/A, Pozzo Strada, Torino",20/12/2022,€ 399.000,0,5+,175 m²,2,6
+"Bilocale corso Moncalieri 21, Gran Madre - Crimea, Torino",02/01/2023,€ 240.000,0,2,75 m²,2,T
+"Trilocale corso Peschiera 309, Pozzo Strada, Torino",25/10/2022,€ 132.000,0,3,72 m²,1,6
+"Bilocale via Villarbasse 26, San Paolo, Torino",13/12/2022,€ 119.000,0,2,60 m²,1,T
+"Bilocale via Giovanni Boccaccio 16, Madonna del Pilone, Torino",20/12/2022,€ 109.000,0,2,57 m²,1,3
+"Bilocale corso Moncalieri 466/10, Cavoretto, Torino",02/01/2023,€ 199.000,0,2,70 m²,1,1
+"Quadrilocale via Michelangelo Buonarroti 12, San Salvario - Dante, Torino",27/12/2022,€ 215.000,0,4,120 m²,2,T
+"Bilocale corso Palermo 97, Barriera di Milano, Torino",15/06/2022,€ 21.900,0,2,35 m²,1,3
+"Quadrilocale via Giovanni da Verazzano 12, Crocetta, Torino",25/10/2022,€ 179.000,0,4,170 m²,1,S
+"Appartamento via BALLA 3, Città Giardino, Torino",19/12/2022,€ 210.000,0,5,132 m²,2,7
+"Trilocale via Arquata 14/12, San Secondo, Torino",13/12/2022,€ 79.000,0,3,70 m²,1,3
+"Loft via Michele Lessona 61, Parella, Torino",26/11/2022,€ 39.000,0,2,45 m²,1,T
+"Trilocale via Paolo Veronese 51, Borgo Vittoria, Torino",27/12/2022,€ 199.000,0,3,90 m²,2,4
+"Quadrilocale via Don Giovanni Bosco 104, Don Bosco, Torino",03/01/2023,€ 198.000,0,4,110 m²,2,7
+"Monolocale via Francesco Petrarca 18, San Salvario - Dante, Torino",27/12/2022,€ 59.000,0,1,20 m²,1,4
+"Quadrilocale via Nizza 35/BIS, San Salvario - Baretti, Torino",22/11/2022,€ 380.000,0,4,110 m²,2,1
+"Bilocale via Omegna 14, Parella, Torino",02/01/2023,€ 108.000,0,2,66 m²,1,
+"Quadrilocale via Giacomo Medici 118, Parella, Torino",25/11/2022,€ 387.000,0,4,135 m²,1,5
+"Terratetto unifamiliare via Cristalliera 7, Pozzo Strada, Torino",30/12/2022,€ 249.000,0,3,75 m²,2,
+"Quadrilocale via Barnaba Panizza, Città Giardino, Torino",21/12/2022,€ 115.000,1,4,120 m²,2,5
+"Quadrilocale quincinetto 29, Barriera di Lanzo, Torino",27/12/2022,€ 174.000,0,4,84 m²,2,2
+"Bilocale via Exilles 61, Parella, Torino",25/11/2022,€ 89.000,0,2,50 m²,1,3
+"Trilocale via Edoardo Daneo 13, Mirafiori Nord, Torino",28/11/2022,€ 99.000,0,3,82 m²,1,R
+"Quadrilocale via Felice Romani 1/C, Gran Madre - Crimea, Torino",02/01/2023,€ 199.000,0,4,80 m²,1,1
+"Trilocale via Gaspare Gorresio 40, Lucento, Torino",07/12/2022,€ 149.000,0,3,80 m²,1,5
+"Trilocale via Maria Ausiliatrice 52, Aurora, Torino",03/01/2023,€ 106.000,0,3,150 m²,1,T
+"Bilocale piazza Tommaso Campanella 9, Parella, Torino",23/12/2022,€ 79.000,0,2,50 m²,1,3
+"Quadrilocale corso Unione Sovietica, Mirafiori Sud - Onorato Vigliani, Torino",03/01/2023,€ 324.000,0,4,100 m²,2,11
+"Bilocale corso Novara 10, Aurora, Torino",20/12/2022,€ 43.900,0,2,34 m²,1,T
+"Trilocale via Grosso Giacomo 16/A, Borgo Vittoria, Torino",27/12/2022,€ 94.000,0,3,78 m²,1,2
+"Trilocale via Sospello 115, Borgo Vittoria, Torino",03/01/2023,€ 170.000,0,3,75 m²,1,4
+"Trilocale corso Vercelli 129, Barriera di Milano, Torino",01/08/2022,€ 109.000,0,3,85 m²,1,4
+"Quadrilocale via Vincenzo Gioberti 73, Crocetta, Torino",22/11/2022,€ 239.000,0,4,83 m²,1,R
+"Bilocale via Fidia 20, Pozzo Strada, Torino",07/12/2022,€ 89.000,0,2,62 m²,1,1
+"Trilocale via Domodossola 63, Parella, Torino",30/11/2022,€ 99.000,0,3,75 m²,1,1
+"Quadrilocale via Monte Rosa 30, Barriera di Milano, Torino",15/06/2022,€ 92.000,0,4,96 m²,1,2
+"Appartamento via Saverio Mercadante 74, Barriera di Milano, Torino",15/06/2022,€ 224.000,0,5,154 m²,2,8
+"Trilocale via lanzo 117, Barriera di Lanzo, Torino",27/12/2022,€ 109.000,0,3,72 m²,1,1
+"Trilocale corso Peschiera 256, Pozzo Strada, Torino",16/11/2022,€ 150.000,0,3,80 m²,1,6
+"Bilocale via Morazzone 17, Madonna del Pilone, Torino",09/11/2022,€ 160.000,0,2,60 m²,1,2
+"Quadrilocale corso Monte Grappa 82, Parella, Torino",30/12/2022,€ 259.000,0,4,95 m²,1,1
+"Trilocale via lemie 32, Madonna di Campagna, Torino",07/12/2022,€ 129.000,0,3,80 m²,1,1
+"Trilocale piazza Giampietro Chironi 9, Parella, Torino",24/11/2022,€ 78.000,0,3,70 m²,1,4
+"Monolocale via Cesare Balbo 22, Vanchiglia, Torino",03/01/2023,€ 55.000,0,1,25 m²,1,5
+"Trilocale via GUBBIO 73/B, Le Vallette, Lucento, Madonna di Campagna, Torino",14/12/2022,€ 75.000,0,3,70 m²,1,1
+"Quadrilocale corso Traiano 3, Mirafiori Nord, Torino",02/01/2023,€ 199.000,1,4,100 m²,2,2
+"Quadrilocale via Po 9, Giardini Reali, Torino",03/01/2023,€ 649.000,0,4,154 m²,1,4
+"Bilocale corso Moncalieri 236, Cavoretto, Torino",02/01/2023,€ 89.000,0,2,47 m²,1,2
+"Trilocale via Casalborgone 15, Madonna del Pilone, Torino",03/01/2023,€ 219.000,0,3,78 m²,1,2
+"Bilocale via Viterbo 121, Madonna di Campagna, Torino",07/12/2022,€ 49.000,0,2,45 m²,1,2
+"Bilocale via Volvera 9, San Paolo, Torino",13/12/2022,€ 99.000,0,2,55 m²,1,4
+"Trilocale via Vittorio Asinari di Bernezzo 41, Parella, Torino",05/12/2022,€ 198.000,0,3,80 m²,1,4
+"Trilocale via Borgomanero 36, Parella, Torino",22/12/2022,€ 87.000,1,3,70 m²,1,3
+"Trilocale via Giovanni da Verazzano 15, Crocetta, Torino",01/12/2022,€ 192.000,0,3,62 m²,1,4
+"Bilocale via BALTIMORA 13, Santa Rita, Torino",14/12/2022,€ 100.000,1,2,56 m²,1,6
+"Trilocale via luini 81, Madonna di Campagna, Torino",14/12/2022,€ 99.000,0,3,75 m²,1,6
+"Quadrilocale corso Casale 50, Gran Madre - Crimea, Torino",02/01/2023,€ 229.000,0,4,90 m²,1,3
+"Trilocale via Don Giovanni Bosco 42/A, Don Bosco, Torino",28/10/2022,€ 99.000,0,3,75 m²,1,2
+"Bilocale via Piossasco 25, Aurora, Torino",19/12/2022,€ 49.000,0,2,45 m²,1,1
+"Attico via Vincenzo Nazzaro 1, Campidoglio, Torino",25/10/2022,€ 259.000,0,4,110 m²,2,6
+"Bilocale via Sant'Antonino 66, Pozzo Strada, Torino",16/11/2022,€ 75.000,0,2,45 m²,1,R
+"Trilocale via luini 65, Madonna di Campagna, Torino",07/12/2022,€ 119.000,0,3,75 m²,1,5
+"Bilocale via Andrea Paris 18, Barriera di Lanzo, Torino",27/12/2022,€ 49.000,0,2,51 m²,1,4
+"Trilocale via Candia 15, Barriera di Milano, Torino",15/07/2022,€ 43.900,0,3,58 m²,1,3
+"Trilocale corso Bernardino Telesio 22//2, Parella, Torino",22/12/2022,€ 279.000,0,3,100 m²,1,7
+"Quadrilocale corso Bramante 89, San Salvario, Torino",27/12/2022,€ 247.000,0,4,94 m²,2,1
+"Quadrilocale via Pietro Cossa 107, Parella, Torino",30/12/2022,€ 280.000,0,4,102 m²,2,2
+"Quadrilocale via Giovanni Boccaccio 25, Madonna del Pilone, Torino",20/12/2022,€ 259.000,0,4,109 m²,1,2
+"Trilocale corso Regina Margherita 92, Vanchiglia, Torino",25/11/2022,€ 139.000,0,3,73 m²,1,2
+"Trilocale corso Vercelli 65, Barriera di Milano, Torino",05/07/2022,€ 104.000,0,3,96 m²,1,2
+"Trilocale via calvi 7, Barriera di Milano, Torino",30/06/2022,€ 74.900,0,3,68 m²,1,3
+"Quadrilocale via Tiepolo 14, San Salvario - Dante, Torino",27/12/2022,€ 279.000,0,4,110 m²,1,1
+"Quadrilocale corso Novara 10, Aurora, Torino",23/12/2022,€ 89.900,0,4,95 m²,2,2
+"Trilocale corso Traiano 156, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 125.000,0,3,90 m²,1,9
+"Bilocale via Duino 184BIS, Mirafiori Sud - Onorato Vigliani, Torino",28/11/2022,€ 75.000,0,2,60 m²,1,6
+"Quadrilocale corso Regina Margherita 1/B, Vanchiglia, Torino",03/01/2023,€ 204.000,0,4,110 m²,1,R
+"Mansarda via Duchessa Jolanda 12, Cit Turin, Torino",24/03/2022,€ 69.000,0,1,20 m²,1,4
+"Bilocale corso Regina Margherita 92, Vanchiglia, Torino",03/01/2023,€ 105.000,0,2,55 m²,1,5
+"Appartamento via Vitaliano Donati 17, Centro, Torino",13/12/2022,€ 900.000,0,5+,237 m²,3,4
+"Loft via Principe Tommaso 9, San Salvario - Baretti, Torino",01/12/2022,€ 150.000,0,2,67 m²,1,T - R
+"Trilocale via Crissolo 21, Cenisia, Torino",30/12/2022,€ 159.000,0,3,70 m²,1,2
+"Appartamento via Giovanni Servais 11, Parella, Torino",26/11/2022,€ 250.000,0,5,85 m²,2,T
+"Bilocale via venaria 51, Madonna di Campagna, Torino",27/12/2022,€ 74.000,0,2,55 m²,1,3
+"Bilocale via Nicola Fabrizi 140, Parella, Torino",13/12/2022,€ 110.000,0,2,65 m²,1,4
+"Bilocale via Domodossola 16, Parella, Torino",25/11/2022,€ 89.000,0,2,50 m²,1,2
+"Bilocale via BUENOS AIRES 17, Santa Rita, Torino",26/07/2022,€ 98.000,0,2,53 m²,1,5
+"Bilocale via Luigi Palma di Cesnola 56, Mirafiori Nord, Torino",03/01/2023,€ 75.000,0,2,63 m²,1,3
+"Trilocale corso Cosenza 76, Santa Rita, Torino",03/01/2023,€ 130.000,0,3,70 m²,1,R
+"Appartamento via Pietro Bagetti 24, Cit Turin, Torino",30/12/2022,€ 670.000,0,5,152 m²,2,1
+"Quadrilocale via Onorato Vigliani 136, Mirafiori Sud - Onorato Vigliani, Torino",03/01/2023,€ 179.000,0,4,100 m²,1,7
+"Mansarda corso Regina Margherita 144, Aurora, Torino",20/09/2022,€ 220.000,0,4,100 m²,2,3
+"Quadrilocale corso orbassano 191/22, Santa Rita, Torino",03/12/2022,€ 235.000,0,4,125 m²,1,7
+"Trilocale corso Casale 114, Madonna del Pilone, Torino",03/01/2023,€ 99.000,1,3,70 m²,1,3
+"Bilocale via foligno, Lucento, Torino",06/12/2022,€ 42.000,0,2,40 m²,1,5
+"Trilocale corso Peschiera 273, Pozzo Strada, Torino",19/12/2022,€ 159.000,0,3,90 m²,1,4
+"Quadrilocale via Lombriasco 4, Cenisia, Torino",14/10/2022,€ 109.000,0,4,101 m²,1,T
+"Bilocale corso San Maurizio 51, Vanchiglia, Torino",03/01/2023,€ 149.000,0,2,46 m²,1,2
+"Quadrilocale piazza Pietro Francesco Guala 136, Mirafiori Sud - Onorato Vigliani, Torino",25/11/2022,€ 189.000,0,4,100 m²,1,2
+"Bilocale piazza Nazario Sauro 16/B, Lucento, Torino",07/12/2022,€ 89.000,0,2,61 m²,1,2
+"Quadrilocale corso Germano Sommeiller 29, Crocetta, Torino",01/12/2022,€ 299.000,0,4,90 m²,1,3
+"Trilocale via Sapri 54/57, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 119.000,0,3,80 m²,1,3
+"Trilocale via Onorato Vigliani 221, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 102.000,0,3,85 m²,1,R
+"Bilocale via Monferrato 4, Gran Madre - Crimea, Torino",02/01/2023,€ 199.000,0,2,50 m²,1,1
+"Bilocale via Nicola Fabrizi 140, Parella, Torino",24/11/2022,€ 115.000,0,2,60 m²,1,1
+"Quadrilocale via Nicola Porpora 44, Regio Parco, Torino",28/11/2022,€ 139.000,0,4,130 m²,1,6
+"Bilocale via Pietro Cossa 64, Parella, Torino",16/09/2022,€ 40.000,0,2,40 m²,1,3
+"Bilocale corso Orbassano 191/8, Santa Rita, Torino",18/11/2022,€ 167.000,0,2,61 m²,2,7
+"Appartamento Strada del Bellardo 113, Madonna del Pilone, Sassi, Torino",13/12/2022,€ 570.000,0,5,205 m²,2,1
+"Mansarda via Gonin 11, Centro Europa, Torino",17/11/2022,€ 135.000,0,3,90 m²,1,3
+"Trilocale piazza Bengasi 13, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 169.000,0,3,90 m²,1,2
+"Appartamento via Paolo Sacchi 42, Crocetta, San Secondo, Torino",13/12/2022,€ 569.000,0,5+,188 m²,2,3
+"Attico corso Vercelli 10, Aurora, Torino",29/12/2022,€ 520.000,0,5+,180 m²,2,4
+"Appartamento via Madama Cristina 111, San Salvario, Torino",27/12/2022,€ 359.000,0,5,120 m²,2,1
+"Trilocale piazza Tommaso Campanella 7, Parella, Torino",29/12/2022,€ 129.000,1,3,75 m²,1,6
+"Appartamento corso Regina Margherita 1/BIS, Vanchiglia, Torino",03/01/2023,€ 599.000,0,5,122 m²,2,1
+"Bilocale via Emilio Brusa 48, Lucento, Torino",16/12/2022,€ 32.000,0,2,50 m²,1,4
+"Trilocale via Carlo Capelli 78, Parella, Torino",03/01/2023,€ 150.000,0,3,75 m²,1,1
+"Bilocale via foligno 63, Madonna di Campagna, Torino",06/12/2022,€ 33.000,0,2,40 m²,1,2
+"Quadrilocale via Gianfrancesco Fiochetto 33, Aurora, Torino",05/05/2022,€ 209.000,0,4,89 m²,1,2
+"Bilocale via GRADISCA 78, Santa Rita, Torino",22/12/2022,€ 75.000,0,2,53 m²,1,2
+"Quadrilocale via SAN MARINO 73, Santa Rita, Torino",19/12/2022,€ 210.000,0,4,109 m²,1,1
+"Trilocale corso Filippo Brunelleschi 173, Pozzo Strada, Torino",29/12/2022,€ 179.000,0,3,100 m²,1,10
+"Trilocale via scarlatti 34, Barriera di Milano, Torino",09/12/2022,€ 39.900,0,3,50 m²,1,2
+"Trilocale corso Giulio Cesare 177, Rebaudengo, Torino",29/11/2022,€ 99.000,0,3,75 m²,1,6
+"Trilocale via Madama Cristina 18, San Salvario - Baretti, Torino",07/12/2022,€ 99.000,0,3,75 m²,2,1
+"Appartamento via Piacenza 6/g, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 284.000,0,5,130 m²,1,1
+"Bilocale corso Monte Grappa 11, Parella, Torino",23/12/2022,€ 78.000,0,2,60 m²,1,R
+"Bilocale via Filippo Acciarini 15, Santa Rita, Torino",02/01/2023,€ 68.000,0,2,65 m²,1,3
+"Trilocale via Francesco De Sanctis 111, Pozzo Strada, Torino",18/07/2022,€ 123.000,0,3,75 m²,1,4
+"Quadrilocale via luini 159, Lucento, Torino",07/12/2022,€ 99.000,0,4,90 m²,1,5
+"Appartamento corso Canonico Giuseppe Allamano, Città Giardino, Torino",02/04/2022,€ 268.000,0,5,120 m²,2,6
+"Quadrilocale via Ghemme 28, Parella, Torino",30/12/2022,€ 168.000,0,4,92 m²,1,4
+"Loft piazza Tommaso Campanella 23, Parella, Torino",25/11/2022,€ 79.000,0,4,165 m²,1,T
+"Quadrilocale via Alessandro Carroccio 13, Madonna di Campagna, Torino",14/11/2022,€ 207.000,0,4,91 m²,2,
+"Bilocale via Salbertrand 42, Parella, Torino",12/12/2022,€ 29.000,0,2,35 m²,1,T
+"Trilocale via Gorizia 197, Santa Rita, Torino",10/12/2022,€ 125.000,0,3,75 m²,1,7
+"Bilocale via Forlì 151/A, Lucento, Torino",07/12/2022,€ 73.000,0,2,60 m²,1,2
+"Trilocale via Spalato 51, San Paolo, Torino",17/06/2022,€ 189.000,0,3,88 m²,1,4
+"Quadrilocale via FILADELFIA 229, Santa Rita, Torino",17/10/2022,€ 135.000,0,4,119 m²,1,1
+"Monolocale via Pietro Cossa 52/11, Parella, Torino",10/12/2022,€ 42.000,0,1,25 m²,1,T
+"Trilocale corso Filippo Brunelleschi 143/D, Pozzo Strada, Torino",24/11/2022,€ 129.000,0,3,75 m²,1,2
+"Trilocale via Pianezza 6, Lucento, Torino",18/10/2022,€ 67.000,0,3,65 m²,1,6
+"Appartamento via Pietro Palmieri 49, Cit Turin, Torino",02/12/2022,€ 395.000,0,5,123 m²,1,3
+"Monolocale corso Fiume 17, Gran Madre - Crimea, Torino",02/01/2023,€ 105.000,0,1,30 m²,1,S
+"Bilocale via foligno 105, Lucento, Torino",07/12/2022,€ 79.000,0,2,60 m²,1,4
+"Trilocale via Rochemolles 20, Parella, Torino",30/12/2022,€ 78.000,0,3,70 m²,1,5
+"Trilocale corso Peschiera 309, Pozzo Strada, Torino",08/11/2022,€ 189.000,0,3,80 m²,1,9
+"Quadrilocale corso Bernardino Telesio 121, Parella, Torino",28/12/2022,€ 350.000,0,4,115 m²,2,1
+"Trilocale via Lauro Rossi 36/16, Barriera di Milano, Torino",03/01/2023,€ 69.000,0,3,75 m²,1,2
+"Bilocale via Refrancore 75, Madonna di Campagna, Torino",29/11/2022,€ 43.000,0,2,50 m²,1,R
+"Bilocale via Vittorio Asinari di Bernezzo 91/b, Parella, Torino",14/12/2022,€ 75.000,0,2,50 m²,1,5
+"Bilocale via Cesana 25, Cenisia, Torino",29/07/2022,€ 105.000,0,2,35 m²,1,3
+"Bilocale Strada del Portone, Mirafiori Sud - Strada del Drosso, Torino",16/07/2022,€ 129.000,0,2,60 m²,1,6
+"Appartamento via Vittorio Bottego 8, Crocetta, Torino",28/12/2022,€ 199.000,0,5,120 m²,1,R
+"Trilocale corso Luigi Kossuth 56, Madonna del Pilone, Torino",03/01/2023,€ 176.000,0,3,64 m²,1,2
+"Trilocale via Romagnano 6, Parella, Torino",26/11/2022,€ 129.000,0,3,80 m²,1,3
+"Trilocale via Villarbasse 26, San Paolo, Torino",13/12/2022,€ 149.000,0,3,70 m²,1,T
+"Bilocale via San Bernardino 32, San Paolo, Torino",05/08/2022,€ 115.000,0,2,60 m²,1,T
+"Quadrilocale corso Moncalieri 252, Cavoretto, Torino",02/01/2023,€ 239.000,0,4,80 m²,1,3
+"Trilocale via San Bernardino 32, San Paolo, Torino",05/08/2022,€ 169.000,0,3,85 m²,1,T
+"Trilocale via Salbertrand 36, Parella, Torino",25/11/2022,€ 90.000,0,3,65 m²,1,2
+"Bilocale via Moretta 10, Cenisia, Torino",14/10/2022,€ 60.000,0,2,53 m²,1,T
+"Trilocale via Testona 31, Italia 61, Torino",28/11/2022,€ 147.000,0,3,80 m²,1,2
+"Trilocale via Bernardino Luini 150, Lucento, Torino",15/12/2022,€ 119.000,0,3,85 m²,1,1
+"Quadrilocale via Tronzano 7, Rebaudengo, Torino",05/11/2022,€ 84.900,0,4,90 m²,2,1
+"Bilocale via Candiolo 16, Mirafiori Sud - Onorato Vigliani, Torino",28/11/2022,€ 55.000,0,2,50 m²,1,3
+"Trilocale corso Bramante 81, San Salvario, Torino",27/12/2022,€ 119.000,0,3,75 m²,1,9
+"Bilocale via Fea Leonardo 24, Borgo Vittoria, Torino",27/12/2022,€ 74.000,0,2,65 m²,1,1
+"Appartamento corso AGNELLI 38, Santa Rita, Torino",05/10/2022,€ 375.000,0,5+,165 m²,2,5
+"Quadrilocale corso Bramante 61, San Salvario, Torino",27/12/2022,€ 189.000,0,4,90 m²,2,1
+"Trilocale corso Moncalieri 261, Cavoretto, Torino",02/01/2023,€ 79.000,0,3,50 m²,1,4
+"Appartamento via Pietro Canonica, Città Giardino, Torino",05/07/2022,€ 319.000,0,5+,160 m²,3,7
+"Trilocale via Cagliari 22, Regio Parco, Torino",28/12/2022,€ 225.000,0,3,68 m²,1,T
+"Bilocale via Valentino Carrera 64, Parella, Torino",07/12/2022,€ 89.000,0,2,55 m²,1,4
+"Trilocale via Domodossola 36, Parella, Torino",25/11/2022,€ 119.000,0,3,70 m²,1,4
+"Trilocale via Castelgomberto 122, Santa Rita, Torino",03/10/2022,€ 190.000,0,3,80 m²,1,7
+"Trilocale corso SIRACUSA 44, Santa Rita, Torino",18/10/2022,€ 185.000,0,3,83 m²,1,5
+"Appartamento via renier 25, San Paolo, Torino",26/11/2022,€ 379.000,0,5,150 m²,2,5
+"Bilocale via Fratelli Garrone 39/109, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 94.000,0,2,55 m²,1,1
+"Quadrilocale via Pastrengo 25, Crocetta, Torino",25/10/2022,€ 316.000,0,4,130 m²,1,T
+"Trilocale corso Traiano 14/11, Mirafiori Sud - Onorato Vigliani, Torino",03/01/2023,€ 119.000,1,3,90 m²,1,7
+"Bilocale corso Giulio Cesare 40, Aurora, Torino",22/11/2022,€ 59.000,0,2,51 m²,1,4
+"Attico via Giovanni Spano 31, Lingotto, Torino",28/11/2022,€ 155.000,0,3,80 m²,1,6
+"Bilocale via Cossila 21, Vanchiglietta, Torino",20/12/2022,€ 94.000,0,2,45 m²,1,T
+"Trilocale via foligno 28, Madonna di Campagna, Torino",07/12/2022,€ 99.000,0,3,75 m²,1,3
+"Trilocale via Michele Lessona 75, Parella, Torino",30/11/2022,€ 90.000,0,3,60 m²,1,3
+"Trilocale via Pozzo Strada 6, Pozzo Strada, Torino",19/09/2022,€ 99.000,0,3,70 m²,2,4
+"Bilocale via Romagnano 11, Parella, Torino",25/11/2022,€ 60.000,0,2,55 m²,2,R
+"Monolocale via Cagliari 22, Regio Parco, Torino",28/12/2022,€ 123.000,0,1,35 m²,1,T
+"Bilocale via Monginevro 138, Pozzo Strada, Torino",12/12/2022,€ 89.000,0,2,45 m²,1,
+"Trilocale corso Bramante 89, San Salvario - Dante, Torino",27/12/2022,€ 189.000,0,3,75 m²,1,3
+"Trilocale via Salbertrand 63, Parella, Torino",24/11/2022,€ 95.000,0,3,70 m²,1,4
+"Trilocale via Giacinto Pacchiotti 44, Parella, Torino",24/11/2022,€ 105.000,0,3,75 m²,1,3
+"Trilocale via Ragusa 11, Santa Rita, Torino",17/10/2022,€ 129.000,0,3,82 m²,1,1
+"Bilocale via foligno 79, Madonna di Campagna, Torino",07/12/2022,€ 57.000,0,2,55 m²,1,3
+"Bilocale piazza Borgo Dora 42, Aurora, Torino",01/08/2022,€ 92.000,0,2,55 m²,1,5
+"Trilocale via Bartolomeo Bona 47, San Secondo, Torino",29/12/2022,€ 165.000,0,3,76 m²,1,2
+"Quadrilocale via Borgosesia 36, Parella, Torino",30/12/2022,€ 415.000,0,4,130 m²,2,4
+"Trilocale largo Errico Giachino 110, Borgo Vittoria, Torino",14/11/2022,€ 98.000,0,3,80 m²,1,1
+"Bilocale via governolo 6, San Secondo, Torino",01/12/2022,€ 109.000,0,2,60 m²,1,T
+"Trilocale via Romagnano 18, Parella, Torino",30/12/2022,€ 85.000,0,3,55 m²,1,1
+"Bilocale via Giuseppe Garibaldi 8E, Quadrilatero Romano, Torino",29/12/2022,€ 199.000,0,2,70 m²,1,
+"Appartamento via Giuseppe Baretti 7, San Salvario - Baretti, Torino",15/12/2022,€ 299.000,0,5+,180 m²,3,4
+"Loft corso Svizzera 185, Lucento, Torino",14/07/2022,€ 237.000,0,2,126 m²,1,1
+"Quadrilocale via Saorgio 48, Borgo Vittoria, Torino",16/09/2022,€ 149.000,0,4,80 m²,1,4
+"Bilocale corso Regina Margherita 23, Vanchiglia, Torino",03/01/2023,€ 72.500,0,2,30 m²,1,3
+"Bilocale via Monginevro 220, Pozzo Strada, Torino",08/12/2022,€ 89.000,0,2,55 m²,1,
+"Attico corso Bernardino Telesio 82, Parella, Torino",17/12/2022,€ 248.000,0,3,75 m²,1,6
+"Trilocale via CASTELGOMBERTO 42, Santa Rita, Torino",22/11/2022,€ 185.000,0,3,100 m²,1,10
+"Trilocale corso Massimo d'Azeglio 118, San Salvario - Dante, Torino",27/12/2022,€ 259.000,0,3,75 m²,1,2
+"Trilocale corso Bernardino Telesio 82/1, Parella, Torino",01/01/2023,€ 159.000,0,3,75 m²,1,6
+"Trilocale via Cesare Balbo 8, Vanchiglia, Torino",19/10/2022,€ 139.000,0,3,82 m²,1,3
+"Monolocale via Nizza 26, San Secondo, Torino",12/10/2022,€ 119.000,0,1,38 m²,1,5
+"Quadrilocale via Giuseppe Baretti 36, San Salvario - Baretti, Torino",14/12/2022,€ 360.000,0,4,120 m²,1,1
+"Trilocale piazza BASILICATA 2, Santa Rita, Torino",22/12/2022,€ 139.000,1,3,85 m²,1,5
+"Bilocale via Asti 6, Gran Madre - Crimea, Torino",02/01/2023,€ 119.000,0,2,40 m²,1,T
+"Bilocale piazza Emanuele Filiberto, Quadrilatero Romano, Torino",29/12/2022,€ 180.000,0,2,55 m²,1,2
+"Quadrilocale via Nicola Fabrizi 43, Campidoglio, Torino",13/12/2022,€ 199.000,0,4,127 m²,1,3
+"Trilocale via Artisti 10, Vanchiglia, Torino",03/01/2023,€ 199.000,0,3,70 m²,1,3
+"Appartamento Strada Comunale da San Vito a Revigliasco 362, Colle della Maddalena, Torino",02/01/2023,€ 519.000,0,5,146 m²,2,2
+"Bilocale via Exilles 30, Parella, Torino",25/11/2022,€ 129.000,0,2,65 m²,1,2
+"Bilocale corso ORBASSANO, Centro Europa, Torino",04/07/2022,€ 79.000,0,2,65 m²,1,1
+"Bilocale via Vincenzo Monti 11, San Salvario - Dante, Torino",13/12/2022,€ 89.000,0,2,50 m²,1,1
+"Bilocale via Carlo Capelli 43, Parella, Torino",07/12/2022,€ 127.000,0,2,60 m²,1,5
+"Trilocale via Vittorio Asinari di Bernezzo 1, Parella, Torino",25/11/2022,€ 109.000,0,3,65 m²,1,R
+"Bilocale via Carlo Pisacane 44, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 54.000,0,2,60 m²,1,3
+"Bilocale piazza mattirolo 11, Madonna di Campagna, Torino",07/12/2022,€ 29.000,0,2,50 m²,1,5
+"Bilocale via lauro rossi 11, Barriera di Milano, Torino",16/07/2022,€ 59.900,0,2,55 m²,1,5
+"Quadrilocale via Adolphe Daubrée 6, Parco Dora, Torino",03/01/2023,€ 230.000,0,4,95 m²,2,3
+"Bilocale via Duino 191, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 44.000,0,2,60 m²,1,5
+"Bilocale via ugo foscolo 7, San Salvario - Dante, Torino",27/12/2022,€ 119.000,0,2,75 m²,1,T
+"Bilocale via Nizza 99, San Salvario, Torino",27/12/2022,€ 135.000,1,2,55 m²,1,1
+"Bilocale via Fratel Teodoreto 3, Mirafiori Sud - Onorato Vigliani, Torino",03/01/2023,€ 75.000,0,2,45 m²,1,1
+"Trilocale via Guastalla 10, Vanchiglia, Torino",16/11/2022,€ 135.000,0,3,75 m²,1,2
+"Appartamento via Castellino 7, Pozzo Strada, Torino",29/10/2022,€ 365.000,0,5,165 m²,2,8
+"Trilocale corso Brianza 23, Vanchiglietta, Torino",03/01/2023,€ 179.000,0,3,130 m²,1,R
+"Trilocale corso Peschiera 305, Pozzo Strada, Torino",22/07/2022,€ 225.000,0,3,80 m²,1,2
+"Bilocale via Candiolo 41, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 119.000,0,2,60 m²,1,4
+"Trilocale via Gaetano Filangieri 16, Crocetta, Torino",24/10/2022,€ 279.000,0,3,96 m²,1,R
+"Bilocale via Villa Tommaso 75, Mirafiori Sud - Onorato Vigliani, Torino",03/01/2023,€ 85.000,0,2,60 m²,1,6
+"Trilocale via Crevacuore 37, Parella, Torino",14/12/2022,€ 109.000,0,3,70 m²,1,5
+"Bilocale via Santa Giulia 23, Vanchiglia, Torino",03/01/2023,€ 74.500,0,2,43 m²,1,T
+"Monolocale via Nizza 26, San Secondo, Torino",22/11/2022,€ 123.000,0,1,38 m²,1,6
+"Bilocale via Viverone 12, Parella, Torino",25/11/2022,€ 112.000,0,2,70 m²,1,1
+"Bilocale via Valdieri 24, Cenisia, Torino",04/10/2022,€ 115.000,0,2,50 m²,1,2
+"Trilocale via Carlo Marochetti 7, San Salvario, Torino",27/12/2022,€ 199.000,0,3,78 m²,1,2
+"Trilocale via San Donato 22, San Donato, Torino",02/12/2022,€ 240.000,0,3,120 m²,1,1
+"Appartamento Strada del Fortino 26, Aurora, Torino",25/10/2022,€ 199.000,0,5+,150 m²,2,3
+"Bilocale via Giovanni da Verazzano 59, Crocetta, Torino",29/12/2022,€ 119.000,0,2,51 m²,1,R
+"Bilocale via Amerigo Vespucci 51, Crocetta, Torino",29/12/2022,€ 125.000,0,2,47 m²,1,1
+"Trilocale corso Carlo e Nello Rosselli 105//10I, Santa Rita, Torino",04/11/2022,€ 215.000,0,3,88 m²,1,6
+"Bilocale via Gian Domenico Cassini 85, Crocetta, Torino",29/12/2022,€ 129.000,0,2,57 m²,1,T
+"Bilocale via Villarbasse 37, San Paolo, Torino",13/12/2022,€ 130.000,0,2,60 m²,1,T
+"Trilocale via lurisia 15, San Paolo, Torino",17/11/2022,€ 159.000,0,3,80 m²,1,9
+"Quadrilocale via DELLE BETULLE 17, Falchera, Torino",14/10/2022,€ 99.000,0,4,90 m²,1,1
+"Appartamento via Madama Cristina 9, San Salvario - Baretti, Torino",02/12/2022,€ 229.000,0,5,150 m²,1,T
+"Appartamento via Fratelli Carle 46, Crocetta, Torino",29/12/2022,€ 509.000,0,5,131 m²,1,1
+"Quadrilocale corso Siracusa 39, Santa Rita, Torino",16/09/2022,€ 330.000,0,4,110 m²,2,1
+"Bilocale via Francesco Millio 61, San Paolo, Torino",13/12/2022,€ 89.000,0,2,60 m²,1,2
+"Quadrilocale corso Alcide De Gasperi 2, Crocetta, Torino",28/12/2022,€ 259.000,1,4,85 m²,1,4
+"Bilocale corso Tassoni 80, San Donato, Torino",13/10/2022,€ 59.000,0,2,65 m²,1,R
+"Trilocale via randaccio 39, Borgo Vittoria, Torino",17/10/2022,€ 185.000,0,3,100 m²,2,1
+"Trilocale via bibiana 95, Borgo Vittoria, Torino",25/11/2022,€ 125.000,0,3,110 m²,1,1
+"Trilocale corso UMBRIA 19, Don Bosco, Torino",20/12/2022,€ 94.000,0,3,78 m²,1,5
+"Loft via Vincenzo Gioberti 65, Crocetta, Torino",22/11/2022,€ 129.000,0,2,45 m²,1,T
+"Bilocale via San Paolo 88, San Paolo, Torino",13/12/2022,€ 120.000,0,2,50 m²,1,2
+"Bilocale via MONTANARO 44, Barriera di Milano, Torino",14/12/2022,€ 34.900,0,2,53 m²,1,2
+"Bilocale largo Bardonecchia 180, Pozzo Strada, Torino",13/10/2022,€ 125.000,0,2,65 m²,1,6
+"Bilocale via pollenzo 13, San Paolo, Torino",30/12/2022,€ 57.000,0,2,40 m²,1,T
+"Trilocale via San Bernardino 40, San Paolo, Torino",19/12/2022,€ 140.000,0,3,85 m²,1,2
+"Bilocale via Giambattista Bogino, 25, 10123 Torino TO, Via Roma, Torino",02/01/2023,€ 260.000,0,2,68 m²,1,1
+"Appartamento via Baltimora 47/7, Santa Rita, Torino",02/01/2023,€ 280.000,0,5,158 m²,2,7
+"Quadrilocale corso Filippo Turati 41, San Secondo, Torino",29/12/2022,€ 299.000,0,4,97 m²,1,2
+"Quadrilocale corso Sebastopoli 172, Santa Rita, Torino",02/01/2023,€ 218.000,0,4,103 m²,1,6
+"Quadrilocale piazza FILZI 13/10, Nizza Millefonti, Torino",01/12/2022,€ 139.000,0,4,100 m²,1,3
+"Monolocale via Umberto Giordano 5, Barriera di Milano, Torino",12/10/2022,€ 36.900,0,1,40 m²,1,2
+"Bilocale via Brandizzo 27/A, Barriera di Milano, Torino",15/06/2022,€ 46.900,0,2,40 m²,1,4
+"Quadrilocale corso Filippo Turati 25//4, San Secondo, Torino",28/12/2022,€ 294.000,0,4,130 m²,2,3
+"Bilocale via Saluzzo 13, San Salvario - Baretti, Torino",09/12/2022,€ 79.000,0,2,40 m²,1,1
+"Appartamento via Cialdini 26, Cit Turin, Torino",08/11/2022,€ 270.000,0,5+,150 m²,2,R
+"Trilocale corso Orbassano 235, Santa Rita, Torino",01/12/2022,€ 187.000,0,3,90 m²,1,
+"Trilocale via Villarbasse 37, San Paolo, Torino",13/12/2022,€ 150.000,0,3,70 m²,1,T
+"Quadrilocale via Amerigo Vespucci 53, Crocetta, Torino",29/12/2022,€ 149.000,0,4,77 m²,1,3
+"Quadrilocale piazza Conti di Rebaudengo 3/23, Rebaudengo, Torino",21/11/2022,€ 89.900,0,4,80 m²,1,2
+"Bilocale via Amerigo Vespucci 51, Crocetta, Torino",29/12/2022,€ 125.000,0,2,47 m²,1,1
+"Trilocale via Bibiana 73, Borgo Vittoria, Torino",02/12/2022,€ 109.000,0,3,85 m²,1,1
+"Bilocale corso COSENZA 74, Santa Rita, Torino",26/05/2022,€ 140.000,0,2,67 m²,1,7
+"Appartamento via Gambasca 16, Cenisia, Torino",29/12/2022,€ 350.000,0,5,170 m²,3,4
+"Trilocale via Vittorio Asinari di Bernezzo 12, Parella, Torino",21/12/2022,€ 159.000,0,3,85 m²,2,T
+"Bilocale via Bossolasco 4, San Paolo, Torino",22/12/2022,€ 91.000,0,2,60 m²,1,R
+"Bilocale via Torrazza Piemonte 5, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 90.000,0,2,60 m²,1,5
+"Quadrilocale corso 11 Febbraio 27, Aurora, Torino",20/09/2022,€ 250.000,0,4,125 m²,2,1
+"Bilocale via Saluzzo 52, San Salvario - Dante, Torino",22/11/2022,€ 175.000,0,2,51 m²,1,T
+"Quadrilocale via Lurisia 5, San Paolo, Torino",23/09/2022,€ 219.000,0,4,110 m²,1,1
+"Bilocale via Amerigo Vespucci, Crocetta, Torino",28/12/2022,€ 49.000,0,2,40 m²,1,T
+"Quadrilocale via Isernia 6, Lucento, Torino",13/12/2022,€ 198.000,0,4,120 m²,1,5
+"Quadrilocale corso Mediterraneo 76, Crocetta, Torino",29/12/2022,€ 299.000,0,4,103 m²,1,5
+"Loft via Giovanni da Verazzano 51, Crocetta, Torino",29/12/2022,€ 149.000,0,3,47 m²,1,R
+"Trilocale corso grosseto 141, Borgo Vittoria, Torino",09/12/2022,€ 145.000,0,3,90 m²,1,2
+"Bilocale corso Filippo Turati 25//8, San Secondo, Torino",28/12/2022,€ 109.000,0,2,64 m²,1,R
+"Trilocale via Andrea Massena 95, Crocetta, Torino",29/12/2022,€ 259.000,0,3,70 m²,1,3
+"Bilocale via San Bernardino 40, San Paolo, Torino",20/12/2022,€ 99.000,0,2,62 m²,1,3
+"Quadrilocale via Tommaso Grossi 10, San Salvario - Dante, Torino",29/12/2022,€ 219.000,0,4,97 m²,1,1
+"Trilocale corso Lecce 11, Parella, Torino",05/12/2022,€ 158.000,0,3,75 m²,1,4
+"Trilocale corso UNIONE SOVIETICA 590, Mirafiori Sud - Strada del Drosso, Torino",11/04/2022,€ 98.000,0,3,81 m²,1,7
+"Trilocale via Limone 8, San Paolo, Torino",21/12/2022,€ 149.000,1,3,70 m²,1,5
+"Trilocale via San Secondo 12, Crocetta, Torino",01/12/2022,€ 62.000,0,3,49 m²,1,T
+"Trilocale via Villarbasse 37, San Paolo, Torino",13/12/2022,€ 150.000,0,3,70 m²,1,T
+"Bilocale via Francesco Millio 65, San Paolo, Torino",13/12/2022,€ 89.000,0,2,60 m²,1,R
+"Bilocale via Belfiore 18, San Salvario - Baretti, Torino",23/12/2022,€ 189.000,0,2,63 m²,1,5
+"Bilocale via San Marino 118, Santa Rita, Torino",30/11/2022,€ 105.000,0,2,62 m²,1,2
+"Bilocale via Dante Di Nanni 111, San Paolo, Torino",29/01/2022,€ 107.000,0,2,45 m²,1,4
+"Bilocale via Luigi Salvatore Cherubini 32, Barriera di Milano, Torino",10/12/2022,€ 56.900,0,2,48 m²,1,1
+"Bilocale via Bernardino Galliari 10/bis, San Salvario - Baretti, Torino",12/12/2022,€ 79.000,0,2,45 m²,1,3
+"Quadrilocale via Silvio Pellico 3/Bis, San Salvario - Baretti, Torino",15/12/2022,€ 189.000,0,4,91 m²,2,4
+"Trilocale corso Unione Sovietica 507A, Mirafiori Sud - Onorato Vigliani, Torino",11/10/2022,€ 259.000,0,3,115 m²,2,6
+"Appartamento via Nizza 3, San Salvario - Baretti, Torino",21/12/2022,€ 429.000,0,5,207 m²,2,3
+"Trilocale piazza respighi 10/A, Barriera di Milano, Torino",15/06/2022,€ 103.500,0,3,72 m²,1,3
+"Appartamento via Onorato Vigliani 15/10 dx, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 314.000,0,5+,150 m²,2,11
+"Trilocale corso Bramante 35, Lingotto, Torino",29/12/2022,€ 135.000,0,3,82 m²,1,3
+"Trilocale via Limone 9, San Paolo, Torino",13/12/2022,€ 119.000,0,3,74 m²,1,1
+"Quadrilocale via bibiana 110, Borgo Vittoria, Torino",02/01/2023,€ 109.000,0,4,85 m²,1,1
+"Bilocale via San Bernardino 33, San Paolo, Torino",13/12/2022,€ 99.000,0,2,50 m²,1,1
+"Trilocale via Chiesa della Salute 90, Borgo Vittoria, Torino",20/10/2022,€ 89.000,0,3,80 m²,1,T
+"Appartamento via Santhià 99, Barriera di Milano, Torino",15/06/2022,€ 114.900,0,5,97 m²,2,3
+"Bilocale via Belfiore 13, San Salvario - Baretti, Torino",22/11/2022,€ 123.000,0,2,65 m²,1,T
+"Trilocale via nigra 12, Borgo Vittoria, Torino",14/12/2022,€ 109.000,0,3,85 m²,1,1
+"Trilocale via pollenzo 13, San Paolo, Torino",13/12/2022,€ 149.000,0,3,62 m²,1,3
+"Trilocale via Renier 61, San Paolo, Torino",20/10/2022,€ 99.000,0,3,80 m²,1,4
+"Trilocale via Gian Domenico Cassini 57, Crocetta, Torino",28/12/2022,€ 259.000,0,3,85 m²,1,4
+"Trilocale via Limone 12, San Paolo, Torino",13/12/2022,€ 119.000,0,3,80 m²,1,4
+"Quadrilocale corso dante 42, San Salvario - Dante, Torino",28/12/2022,€ 259.000,0,4,110 m²,1,5
+"Quadrilocale via caraglio 47, San Paolo, Torino",17/06/2022,€ 174.000,0,4,110 m²,1,3
+"Bilocale via Umberto Giordano 5, Barriera di Milano, Torino",15/11/2022,€ 42.900,0,2,40 m²,1,3
+"Trilocale via Madama Cristina 19, San Salvario - Baretti, Torino",19/10/2022,€ 315.000,0,3,95 m²,2,3
+"Quadrilocale corso Filippo Turati 11, San Secondo, Torino",25/11/2022,€ 299.000,0,4,79 m²,1,9
+"Trilocale via Antonio Pigafetta 7, Crocetta, Torino",22/11/2022,€ 169.000,0,3,47 m²,1,5
+"Trilocale via Nicola Porpora 39/6, Rebaudengo, Torino",21/04/2022,€ 77.000,0,3,67 m²,1,5
+"Trilocale corso Giulio Cesare 24, Aurora, Torino",22/10/2022,€ 125.000,0,3,70 m²,1,3
+"Bilocale via Boston 17, Santa Rita, Torino",29/11/2022,€ 100.000,0,2,65 m²,1,1
+"Bilocale via Tonale 12, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 54.000,0,2,60 m²,1,T
+"Appartamento via Vittorio Bottego 8, Crocetta, Torino",28/12/2022,€ 199.000,0,5,120 m²,1,R
+"Trilocale via Gorizia 183, Santa Rita, Torino",09/12/2022,€ 140.000,0,3,84 m²,1,6
+"Bilocale via Carlo Pisacane 3, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 79.000,0,2,60 m²,1,1
+"Trilocale via Ilarione Petitti 5, San Salvario - Dante, Torino",29/12/2022,€ 199.000,0,3,87 m²,1,1
+"Trilocale lombardore 10, Barriera di Milano, Torino",13/12/2022,€ 54.000,0,3,62 m²,1,2
+"Trilocale corso Piero Maroncelli 39, Mirafiori Sud - Onorato Vigliani, Torino",02/01/2023,€ 124.000,0,3,80 m²,1,5
+"Trilocale via Emilio Ghione 39, Barca, Torino",28/10/2022,€ 145.000,0,3,95 m²,1,R
+"Bilocale corso Regina Margherita 175, San Donato, Torino",13/10/2022,€ 88.000,0,2,55 m²,1,2
+"Bilocale via Luigi Salvatore Cherubini 55, Barriera di Milano, Torino",28/10/2022,€ 59.900,0,2,42 m²,1,1
+"Bilocale via arrigo boito  43, Barriera di Milano, Torino",10/12/2022,€ 48.900,0,2,51 m²,1,1
+"Quadrilocale via Lussimpiccolo 3, San Paolo, Torino",17/11/2022,€ 119.000,0,4,85 m²,1,3
+"Trilocale corso Giovanni Agnelli 100, Santa Rita, Torino",10/12/2022,€ 137.000,0,3,86 m²,1,3
+"Bilocale via Morozzo 27, San Paolo, Torino",13/12/2022,€ 99.000,0,2,50 m²,1,R
+"Quadrilocale via Buenos Aires 116, Santa Rita, Torino",10/12/2022,€ 245.000,0,4,129 m²,2,8
+"Bilocale via luini 86, Madonna di Campagna, Torino",07/12/2022,€ 38.000,0,2,55 m²,1,5
+"Quadrilocale corso Galileo Ferraris 147, Crocetta, Torino",29/12/2022,€ 365.000,0,4,115 m²,1,1
+"Trilocale via MALONE 44, Barriera di Milano, Torino",27/09/2022,€ 134.900,0,3,85 m²,1,2
+"Quadrilocale via Gian Domenico Cassini 42, Crocetta, Torino",29/12/2022,€ 359.000,0,4,101 m²,2,5
+"Trilocale corso Giulio Cesare 136/A, Barriera di Milano, Torino",24/11/2022,€ 27.500,0,3,50 m²,1,5
+"Trilocale corso Racconigi 132, San Paolo, Torino",17/06/2022,€ 155.000,0,3,75 m²,1,4
+"Trilocale via isonzo 86, San Paolo, Torino",13/12/2022,€ 129.000,0,3,80 m²,1,1
+"Trilocale via Boston 3, Santa Rita, Torino",11/11/2022,€ 128.000,0,3,75 m²,1,4
+"Quadrilocale corso Trapani 10, Pozzo Strada, Torino",19/12/2022,€ 190.000,0,4,110 m²,2,7
+"Bilocale via Mombarcaro 48, Santa Rita, Torino",02/01/2023,€ 78.000,0,2,50 m²,1,4
+"Quadrilocale via Michele Lessona 54/2, Parella, Torino",01/01/2023,€ 115.000,0,4,110 m²,1,T
+"Loft corso Svizzera 185, Lucento, Torino",16/11/2022,€ 139.000,0,2,70 m²,1,1
+"Bilocale largo SEMPIONE 170, Barriera di Milano, Torino",14/12/2022,€ 55.000,0,2,45 m²,1,2
+"Quadrilocale corso Siracusa 85, Santa Rita, Torino",02/01/2023,€ 178.000,0,4,100 m²,1,3
+"Bilocale via Giovanni Pacini 35, Barriera di Milano, Torino",09/09/2022,€ 73.900,0,2,62 m²,1,1
+"Bilocale via Ludovico Bellardi 15, Parella, Torino",02/12/2022,€ 83.000,0,2,60 m²,1,R
+"Bilocale via quadrone 5, Madonna di Campagna, Torino",13/12/2022,€ 45.000,0,2,50 m²,1,1
+"Bilocale via Monte Rosa 77, Barriera di Milano, Torino",23/11/2022,€ 44.000,0,2,45 m²,1,1
+"Quadrilocale corso Cesare Correnti 37, Santa Rita, Torino",09/12/2022,€ 264.000,0,4,130 m²,2,3
+"Trilocale corso Alcide De Gasperi 21, Crocetta, Torino",30/11/2022,€ 359.000,0,3,87 m²,2,1
+"Trilocale via roccaforte 7, Cenisia, Torino",24/11/2022,€ 138.000,0,3,75 m²,1,2
+"Bilocale via GUBBIO 101//6, Madonna di Campagna, Torino",13/12/2022,€ 69.000,0,2,60 m²,1,2
+"Bilocale via coppino 53, Borgo Vittoria, Torino",09/12/2022,€ 79.000,0,2,60 m²,1,1
+"Trilocale via Puccini 5, Barriera di Milano, Torino",22/11/2022,€ 133.000,0,3,100 m²,2,4
+"Bilocale via Chiomonte 14, San Paolo, Torino",22/12/2022,€ 57.000,0,2,35 m²,1,3
+"Bilocale via Alpignano 26, Campidoglio, Torino",30/12/2022,€ 69.000,0,2,51 m²,1,1
+"Bilocale via GUBBIO 75, Madonna di Campagna, Torino",07/12/2022,€ 39.000,0,2,50 m²,1,4
+"Bilocale via Costantino Nigra 19, Borgo Vittoria, Torino",26/11/2022,€ 39.000,0,2,55 m²,1,5
+"Trilocale corso Sebastopoli 210, Santa Rita, Torino",02/01/2023,€ 159.000,0,3,85 m²,1,4
+"Appartamento via Gioacchino Quarello 19, Mirafiori Sud - Strada del Drosso, Torino",03/01/2023,€ 170.000,0,5,120 m²,2,7
+"Monolocale via Belfiore 13, San Salvario - Baretti, Torino",12/12/2022,€ 50.000,0,1,22 m²,1,1
+"Quadrilocale via Malta 5, San Paolo, Torino",23/12/2022,€ 220.000,0,4,110 m²,1,5
+"Trilocale via baracca 50, Borgo Vittoria, Torino",02/01/2023,€ 115.000,0,3,75 m²,1,2
+"Trilocale via san marino 56, Santa Rita, Torino",10/12/2022,€ 139.000,0,3,80 m²,1,3
+"Quadrilocale via Santa Giulia 39, Vanchiglia, Torino",03/01/2023,€ 175.000,1,4,93 m²,1,1
+"Bilocale via Viterbo 94, Madonna di Campagna, Torino",07/12/2022,€ 54.000,0,2,50 m²,1,5
+Palazzo - Edificio in Vendita,30/12/2022,€ 338.000,0,280 m²,1,1,
+"Loft via Bra 7, Aurora, Torino",10/10/2022,€ 52.000,0,2,45 m²,1,T
+"Quadrilocale via Nizza 155, San Salvario - Dante, Torino",28/12/2022,€ 289.000,0,4,97 m²,3,1
+"Trilocale corso Orbassano 191/20, Santa Rita, Torino",02/01/2023,€ 180.000,0,3,92 m²,1,9
+"Trilocale via Chatillon 5, Barriera di Milano, Torino",12/07/2022,€ 49.000,0,3,83 m²,1,3
+"Quadrilocale via Ludovico Antonio Muratori 32, San Salvario - Dante, Torino",29/12/2022,€ 289.000,0,4,103 m²,1,T
+"Trilocale corso Svizzera 79, Campidoglio, Torino",16/11/2022,€ 148.000,0,3,85 m²,2,2
+"Quadrilocale via Saluzzo 23/BIS, San Salvario, Torino",21/11/2022,€ 179.000,0,4,80 m²,2,2
+"Trilocale via tripoli 10//17, Santa Rita, Torino",29/12/2022,€ 159.000,0,3,74 m²,1,4
+"Quadrilocale via Lanzo 138/BIS, Barriera di Lanzo, Torino",27/12/2022,€ 123.000,0,4,102 m²,2,T
+"Quadrilocale via Alfiano 6, Santa Rita, Torino",29/12/2022,€ 142.000,0,4,90 m²,2,3
+"Bilocale corso Siracusa 39, Santa Rita, Torino",16/09/2022,€ 230.000,0,2,85 m²,1,1
+"Trilocale corso Novara 53, Barriera di Milano, Torino",15/11/2022,€ 79.000,0,3,75 m²,1,7
+"Trilocale via Tirreno 155, Santa Rita, Torino",16/09/2022,€ 148.000,0,3,80 m²,1,R
+"Bilocale via Antonio Pigafetta 52/C, Crocetta, Torino",29/12/2022,€ 89.000,0,2,42 m²,1,T
+"Trilocale corso Bramante 29, Lingotto, Torino",29/12/2022,€ 139.000,0,3,81 m²,1,5
+"Bilocale via Cortemilia 25, Nizza Millefonti, Torino",15/11/2022,€ 109.000,0,2,57 m²,1,5
+"Trilocale corso Vercelli 19, Aurora, Torino",15/12/2022,€ 39.900,1,3,71 m²,1,2
+"Trilocale via Brindisi 11, Aurora, Torino",28/12/2022,€ 73.000,0,3,69 m²,1,2
+"Quadrilocale piazza Giuseppe Perotti 8, Campidoglio, Torino",08/11/2022,€ 272.000,0,4,150 m²,2,7
+"Trilocale via Genova 130/B, Nizza Millefonti, Torino",07/07/2022,€ 104.000,0,3,85 m²,2,R
+"Bilocale corso Sebastopoli 214, Santa Rita, Torino",31/10/2022,€ 87.000,0,2,55 m²,1,1
+"Bilocale via Nizza 223/B, Nizza Millefonti, Torino",29/09/2022,€ 69.000,0,2,45 m²,1,1
+"Quadrilocale piazzetta Cerignola 2, Barriera di Milano, Torino",28/12/2022,€ 70.000,0,4,86 m²,1,1
+"Trilocale via Monte Valderoa 9, Barriera di Milano, Torino",23/07/2022,€ 69.900,0,3,72 m²,1,4
+"Bilocale via Lesegno 39, Santa Rita, Torino",03/01/2023,€ 79.000,0,2,55 m²,1,1
+"Trilocale corso Grosseto 230, Madonna di Campagna, Torino",27/12/2022,€ 89.000,0,3,76 m²,1,3
+"Trilocale piazza stampalia 7, Madonna di Campagna, Torino",27/12/2022,€ 159.000,0,3,84 m²,1,9
+"Appartamento piazza Giuseppe Perotti 8, Campidoglio, Torino",08/11/2022,€ 272.000,0,5,150 m²,2,7
+"Quadrilocale via Passo Buole 17/16, Mirafiori Nord, Torino",29/09/2022,€ 125.000,0,4,105 m²,1,2
+"Trilocale corso Grosseto 270, Madonna di Campagna, Torino",27/12/2022,€ 92.000,0,3,75 m²,1,T
+"Trilocale via alba 1/B, Mirafiori Nord, Torino",18/11/2022,€ 159.000,0,3,85 m²,2,1
+"Bilocale via Rovereto 67, Santa Rita, Torino",02/01/2023,€ 87.000,0,2,51 m²,1,R
+"Bilocale via Sondrio 13/6, Don Bosco, Torino",02/01/2023,€ 159.000,0,2,64 m²,1,5
+"Trilocale via Pizzorno 3, Lingotto, Torino",20/02/2022,€ 140.000,0,3,74 m²,1,2
+"Quadrilocale via Levanna 6, Campidoglio, Torino",28/12/2022,€ 265.000,0,4,134 m²,2,4
+"Bilocale via alba 7, Mirafiori Nord, Torino",03/12/2022,€ 72.000,0,2,65 m²,1,4
+"Bilocale via Matera 15, Santa Rita, Torino",03/01/2023,€ 110.000,0,2,52 m²,1,4
+"Trilocale via druento 27, Le Vallette, Torino",27/12/2022,€ 123.000,0,3,86 m²,1,T
+"Trilocale via Banchette 21, Madonna di Campagna, Torino",27/12/2022,€ 82.000,0,3,80 m²,1,4
+"Bilocale via Giuseppe Massari 235, Madonna di Campagna, Torino",27/12/2022,€ 74.000,0,2,62 m²,1,5
+"Bilocale via Lagnasco 3, Santa Rita, Torino",02/01/2023,€ 119.000,0,2,60 m²,1,2
+"Bilocale via Mombarcaro 81, Santa Rita, Torino",02/01/2023,€ 87.000,0,2,62 m²,1,2
+"Bilocale piazza Derna 236, Regio Parco, Torino",29/12/2022,€ 63.000,0,2,58 m²,1,3
+"Trilocale via Cortemilia 18, Nizza Millefonti, Torino",27/09/2022,€ 85.000,0,3,65 m²,1,R
+"Appartamento via Carlo Bossi 27, San Donato, Torino",28/12/2022,€ 355.000,0,5,180 m²,2,1
+"Bilocale via BORSI, Le Vallette, Lucento, Madonna di Campagna, Torino",14/12/2022,€ 119.000,0,2,60 m²,1,4
+"Appartamento via Lucento 139, Madonna di Campagna, Torino",19/12/2022,€ 229.000,0,5,140 m²,2,2
+"Bilocale corso Giulio Cesare 57, Aurora, Torino",16/12/2022,€ 43.000,0,2,45 m²,1,2
+"Trilocale via Giuseppe Massari 235, Madonna di Campagna, Torino",27/12/2022,€ 120.000,0,3,98 m²,1,6
+"Trilocale via Carlo Del Prete 57/33, Mirafiori Nord, Torino",29/12/2022,€ 59.000,0,3,65 m²,1,4
+"Bilocale via Barletta 79, Santa Rita, Torino",02/01/2023,€ 83.000,0,2,60 m²,1,6
+"Trilocale piazza Fabio Filzi 2, Nizza Millefonti, Torino",19/11/2022,€ 92.000,0,3,75 m²,1,3
+"Appartamento via Giovanni Chevalley 9, Centro Europa, Torino",02/01/2023,€ 189.000,0,5,120 m²,2,5
+"Quadrilocale quincinetto 31, Barriera di Lanzo, Torino",27/12/2022,€ 149.000,0,4,77 m²,2,1
+"Quadrilocale via Giuseppe Macherione 20, Barriera di Lanzo, Torino",27/12/2022,€ 139.000,0,4,102 m²,1,1
+"Trilocale via Antonio e Vittorio Scialoja 30/7, Barriera di Lanzo, Torino",27/12/2022,€ 129.000,0,3,87 m²,1,6
+"Trilocale corso Orbassano 244, Santa Rita, Torino",29/12/2022,€ 115.000,0,3,85 m²,1,5
+"Appartamento via Cernaia 25, Cittadella, Torino",07/11/2022,€ 320.000,0,5,153 m²,2,
+"Loft via Don Giovanni Bosco 102, Don Bosco, Torino",06/06/2022,€ 49.000,0,2,63 m²,1,
+"Appartamento corso TRAIANO 40, Mirafiori Sud - Onorato Vigliani, Torino",14/12/2022,€ 340.000,0,5,140 m²,2,8
+"Trilocale piazza stampalia 5, Madonna di Campagna, Torino",27/12/2022,€ 132.000,1,3,91 m²,1,7
+"Appartamento via Nizza 187, Nizza Millefonti, Torino",29/09/2022,€ 399.000,0,5,180 m²,2,3
+"Trilocale Strada del Portone, Mirafiori Sud - Strada del Drosso, Torino",12/04/2022,€ 139.000,0,3,75 m²,1,3
+"Bilocale corso Regina Margherita 188, Aurora, Torino",30/11/2022,€ 159.000,0,2,60 m²,1,3
+"Quadrilocale piazza Santa Giulia 10, Vanchiglia, Torino",03/01/2023,€ 190.000,0,4,90 m²,1,2
+"Attico via lanzo 97, Le Vallette, Torino",27/12/2022,€ 369.000,0,5,128 m²,2,8
+"Quadrilocale via Vincenzo Monti 9, San Salvario - Dante, Torino",05/12/2022,€ 260.000,0,4,120 m²,1,2
+"Trilocale via traversella 8, Barriera di Lanzo, Torino",27/12/2022,€ 119.000,0,3,83 m²,1,3
+"Trilocale via VEGLIA 6, Santa Rita, Torino",15/09/2022,€ 58.000,0,3,70 m²,1,4
+"Trilocale via Venaria 63, Le Vallette, Lucento, Madonna di Campagna, Torino",27/12/2022,€ 114.000,0,3,87 m²,1,3
+"Quadrilocale via Gorizia 132, Santa Rita, Torino",02/01/2023,€ 169.000,0,4,95 m²,1,6
+"Quadrilocale via Barletta 76, Santa Rita, Torino",03/01/2023,€ 175.000,0,4,94 m²,1,2
+"Trilocale via Gaspare Spontini 17, Barriera di Milano, Torino",24/11/2022,€ 83.900,0,3,70 m²,1,3
+"Trilocale piazza Ruggero Bonghi 4, Madonna di Campagna, Torino",29/12/2022,€ 149.000,0,3,96 m²,1,6
+"Appartamento via Domenico Guidobono, Centro Europa, Torino",22/10/2022,€ 385.000,0,5+,220 m²,3,10
+"Quadrilocale via Gamalero 9, Santa Rita, Torino",03/01/2023,€ 249.000,0,4,110 m²,1,5
+"Quadrilocale via Paolo Veronese 81, Borgo Vittoria, Torino",27/12/2022,€ 219.000,0,4,96 m²,2,1
+"Bilocale via venaria 72/5, Madonna di Campagna, Torino",27/12/2022,€ 59.000,0,2,55 m²,1,T
+"Quadrilocale via Rueglio 22/A, Barriera di Lanzo, Torino",27/12/2022,€ 250.000,0,4,126 m²,2,6
+"Bilocale via alba 3, Mirafiori Nord, Torino",22/07/2022,€ 49.000,0,2,40 m²,1,5
+"Bilocale via Genova 58, Nizza Millefonti, Torino",16/12/2022,€ 75.000,0,2,45 m²,1,R
+"Trilocale corso Piero Maroncelli 12, Nizza Millefonti, Torino",21/07/2022,€ 139.000,0,3,85 m²,1,6
+"Trilocale corso Grosseto 270, Madonna di Campagna, Torino",27/12/2022,€ 89.000,0,3,77 m²,1,3
+"Quadrilocale via Alessandro Carroccio 16, Madonna di Campagna, Torino",27/12/2022,€ 149.000,0,4,96 m²,2,2
+"Bilocale corso Sebastopoli 248, Santa Rita, Torino",03/01/2023,€ 109.000,0,2,50 m²,1,5
+"Trilocale corso Orbassano 118, Santa Rita, Torino",02/01/2023,€ 169.000,0,3,80 m²,1,1
+"Trilocale via Limone 17, San Paolo, Torino",02/01/2023,€ 97.000,0,3,74 m²,1,2
+"Bilocale via Publio Elvio Pertinace 33, Mirafiori Nord, Torino",30/12/2022,€ 85.000,0,2,60 m²,1,3
+"Bilocale corso Corsica 30, Lingotto, Torino",15/11/2022,€ 59.000,0,2,50 m²,1,4
+"Trilocale via Caprera 37, Santa Rita, Torino",02/01/2023,€ 129.000,0,3,93 m²,1,R
+"Trilocale corso Bramante 29, Lingotto, Nizza Millefonti, Torino",29/12/2022,€ 179.000,0,3,71 m²,1,1
+"Trilocale corso Emilia 36, Aurora, Torino",06/12/2022,€ 69.900,0,3,78 m²,1,R
+"Trilocale via Emilio de Marchi 50, Borgo Vittoria, Torino",27/12/2022,€ 139.000,0,3,79 m²,1,2
+"Quadrilocale via Ignazio Vian 3, Mirafiori Nord, Torino",23/08/2022,€ 174.000,0,4,110 m²,1,7
+"Bilocale via VENTIMIGLIA 200, Italia 61, Torino",02/11/2022,€ 89.000,0,2,72 m²,1,R
+"Trilocale via Luigi Luzzatti, Lucento, Torino",18/02/2022,€ 178.000,0,3,90 m²,1,6
+"Trilocale corso Cosenza 32, Santa Rita, Torino",29/12/2022,€ 209.000,0,3,85 m²,1,9
+"Appartamento via Lesegno 51, Santa Rita, Torino",02/01/2023,€ 244.000,0,5,125 m²,1,4
+"Trilocale via Rueglio 15, Barriera di Lanzo, Torino",27/12/2022,€ 84.000,0,3,82 m²,1,4
+"Quadrilocale via scarlatti 34, Barriera di Milano, Torino",09/12/2022,€ 55.000,0,4,65 m²,1,2
+"Bilocale corso Giovanni Agnelli 98, Santa Rita, Torino",29/12/2022,€ 83.000,0,2,55 m²,1,2
+"Trilocale via Giuseppe Sirtori 14/3, Barriera di Lanzo, Torino",27/12/2022,€ 89.000,0,3,73 m²,1,1
+"Quadrilocale via Nizza 223/A, Nizza Millefonti, Torino",29/09/2022,€ 119.000,0,4,79 m²,1,4
+"Bilocale via noasca 6, Barriera di Lanzo, Torino",30/12/2022,€ 89.000,0,2,51 m²,1,2
+"Quadrilocale via druento 38, Barriera di Lanzo, Torino",27/12/2022,€ 169.000,0,4,97 m²,2,6
+"Trilocale via Aosta 31, Aurora, Torino",22/11/2022,€ 54.900,0,3,61 m²,1,4
+"Trilocale via Mombarcaro 41, Santa Rita, Torino",04/11/2022,€ 177.000,0,3,80 m²,1,3
+"Appartamento via Eleonora d'Arborea 9/7, Mirafiori Nord, Torino",30/12/2022,€ 299.000,0,5,160 m²,2,3
+"Appartamento via Pietro Canonica 5, Città Giardino, Torino",02/01/2023,€ 329.000,0,5+,180 m²,2,5
+"Trilocale corso Orbassano 306, Centro Europa, Torino",30/12/2022,€ 125.000,0,3,85 m²,1,2
+"Bilocale via Barletta 110, Santa Rita, Torino",07/12/2022,€ 89.000,0,2,62 m²,1,2
+"Trilocale via Druento 11, Le Vallette, Torino",27/12/2022,€ 62.000,0,3,71 m²,1,T
+"Trilocale via Millefonti 26, Nizza Millefonti, Torino",30/09/2022,€ 219.000,0,3,95 m²,1,5
+"Trilocale corso Racconigi 113, San Paolo, Torino",08/07/2022,€ 185.000,0,3,85 m²,1,4
+"Trilocale via lanzo 122, Barriera di Lanzo, Torino",27/12/2022,€ 69.000,0,3,73 m²,1,4
