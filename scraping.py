@@ -127,7 +127,7 @@ for url in urls:
                     
             row.append(h)
 
-df = pd.DataFrame(row, columns=['title', 'date', 'price', 'is_discounted', 'locals', 'surface', 'bathrooms', 'floor'])
+df = pd.DataFrame(row, columns=['title', 'date', 'price', 'is_discounted', 'rooms', 'surface', 'bathrooms', 'floor'])
 
 # Fourth step: convert DataFrame into a csv file
 
